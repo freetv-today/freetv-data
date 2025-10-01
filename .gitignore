@@ -1,1 +1,17 @@
 *.bak
+
+# Preserve logs directory structure but ignore actual log files
+logs/*.json
+logs/activity/*.json
+logs/activity/*.log
+
+# Exception: Keep the empty errors.json template
+!logs/errors.json
+
+# Keep .gitkeep files to preserve empty directories  
+!logs/.gitkeep
+!logs/activity/.gitkeep
+
+# Keep index.html files (for directory protection)
+!logs/index.html
+!logs/activity/index.html

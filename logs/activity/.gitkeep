@@ -1,0 +1,2 @@
+# This file ensures the activity directory is preserved in Git
+# The activity directory is needed for analytics data from beacon.php
