@@ -1,11 +1,11 @@
 {
-    "lastupdated": "2025-09-19T02:41:45.986Z",
+    "lastupdated": "2025-10-05T02:24:52.876Z",
     "dbtitle": "Holiday Shows",
     "filename": "ftv-holidays.json",
     "dbversion": "1.0",
-    "author": "Ken Dawson",
-    "email": "freetv@kendawson.online",
-    "link": "https://kendawson.online/",
+    "author": "Free TV",
+    "email": "support@freetv.today",
+    "link": "https://freetv.today",
     "shows": [
         {
             "category": "christmas",

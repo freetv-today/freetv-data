@@ -1,12 +1,42 @@
 {
-    "lastupdated": "2025-09-24T14:43:23.000Z",
+    "lastupdated": "2025-10-05T04:32:44.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
-    "author": "Ken Dawson",
-    "email": "admin@freetv.today",
-    "link": "https://freetv.today/",
+    "author": "Free TV",
+    "email": "support@freetv.today",
+    "link": "https://freetv.today",
     "shows": [
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "digimon-data-squad-the-complete-series",
+            "title": "Digimon Data Squad",
+            "desc": "We pick up with our heroes and the challenges faced by the members of DATS (\"Digital Accident Tactics Squad\"), an organization created to conceal the existence of the Digital World and Digimon from the rest of mankind.",
+            "start": "2006",
+            "end": "2008",
+            "imdb": "tt1138300"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "DrawnTogetherComplete",
+            "title": "Drawn Together",
+            "desc": "A parody of reality shows cast with spoofs of several famous types of animated characters.",
+            "start": "2004",
+            "end": "2007",
+            "imdb": "tt0386180"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "08.-three-predictions-of-dr.-doom",
+            "title": "Fantastic Four",
+            "desc": "Four costumed superheroes battle the world's most terrifying villains.",
+            "start": "1967",
+            "end": "1968",
+            "imdb": "tt0061250"
+        },
         {
             "category": "animation",
             "status": "active",
@@ -140,12 +170,32 @@
         {
             "category": "animation",
             "status": "active",
+            "identifier": "s-01-e-04-the-weather-maker",
+            "title": "Super Friends",
+            "desc": "The greatest of the DC Comics superheroes work together to uphold the good with the help of some young proteges.",
+            "start": "1973",
+            "end": "1985",
+            "imdb": "tt0069641"
+        },
+        {
+            "category": "animation",
+            "status": "active",
             "identifier": "The.adventures.of.Tintin.animated.series",
             "title": "The Adventures of Tintin",
             "desc": "The adventures of the young reporter, his faithful dog and friends as they travel around the world on adventures.",
             "start": "1991",
             "end": "1992",
             "imdb": "tt0179552"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "the-boondocks-complete",
+            "title": "The Boondocks",
+            "desc": "Brothers Huey and Riley Freeman experience a culture clash when they leave Chicago to move in with their grandfather in the suburbs.",
+            "start": "2005",
+            "end": "2014",
+            "imdb": "tt0373732"
         },
         {
             "category": "animation",
@@ -160,6 +210,16 @@
         {
             "category": "animation",
             "status": "active",
+            "identifier": "the-looney-tunes-show_202405",
+            "title": "The Looney Tunes Show",
+            "desc": "An updated iteration of the classic Looney Tunes characters focusing on their satirical misadventures living in suburbia.",
+            "start": "2011",
+            "end": "2013",
+            "imdb": "tt1726839"
+        },
+        {
+            "category": "animation",
+            "status": "active",
             "identifier": "the-powerpuff-girls_fullseries",
             "title": "The Powerpuff Girls",
             "desc": "Three super-powered little girls save the world (or at least the city of Townsville) from monsters and would-be conquerers.",
@@ -170,22 +230,12 @@
         {
             "category": "animation",
             "status": "active",
-            "identifier": "the-smurfs-1981",
+            "identifier": "smurfs-1981-complete-series-nbc",
             "title": "The Smurfs",
-            "desc": "The Smurfs are tiny blue creatures that live in mushroom houses in a peaceful forest.",
+            "desc": "The Smurfs are tiny blue creatures that live in mushroom houses in a peaceful forest. They repeatedly try to outwit Gargamel, an evil sorcerer, his apprentice, Scruple, and his mangy cat, Azrael.",
             "start": "1981",
-            "end": "1989",
+            "end": "1990",
             "imdb": "tt0081933"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "ThunderbirdsSeries",
-            "title": "Thunderbirds",
-            "desc": "In the year 2065, the Tracy family run International Rescue - a top-secret organization whose ongoing mission is to rescue people trapped in extraordinarily dangerous situations using their advanced Thunderbirds machines.",
-            "start": "1965",
-            "end": "1966",
-            "imdb": "tt0057790"
         },
         {
             "category": "animation",
@@ -260,12 +310,32 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "FawltyTowers",
-            "title": "Fawlty Towers",
-            "desc": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
-            "start": "1975",
-            "end": "1979",
-            "imdb": "tt0072500"
+            "identifier": "bewitchedcomplete_202310",
+            "title": "Bewitched",
+            "desc": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
+            "start": "1964",
+            "end": "1972",
+            "imdb": "tt0057733"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "diffrent-strokes-s-01-e-19-the-trip_202402",
+            "title": "Diff'rent Strokes",
+            "desc": "Different Strokes: The misadventures of suave Park Avenue millionaire Phillip Drummond, his teenage daughter Kimberly, and their current housekeeper Edna Garrett who adopted the two pre-teenage sons of their late African American housekeeper from Harlem. ",
+            "start": "1978",
+            "end": "1986",
+            "imdb": "tt0077003"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "get-smart",
+            "title": "Get Smart",
+            "desc": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, battles the evil forces of rival spy agency KAOS with the help of his competent partner Agent 99.",
+            "start": "1965",
+            "end": "1970",
+            "imdb": "tt0058805"
         },
         {
             "category": "comedy",
@@ -290,6 +360,16 @@
         {
             "category": "comedy",
             "status": "active",
+            "identifier": "its_always_sunny_complete_archive",
+            "title": "Its Always Sunny in Philadelphia",
+            "desc": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia.",
+            "start": "2005",
+            "end": "2025",
+            "imdb": "tt0472954"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
             "identifier": "swiss-miss-1938",
             "title": "Laurel & Hardy",
             "desc": "Laurel and Hardy were a British-American comedy team during the early Classical Hollywood era of American cinema, consisting of Englishman Stan Laurel and American Oliver Hardy.",
@@ -306,26 +386,6 @@
             "start": "1987",
             "end": "1997",
             "imdb": "tt0092400"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "mpfc-remastered_hd",
-            "title": "Monty Python",
-            "desc": "The original surreal sketch comedy showcase for the Monty Python troupe.",
-            "start": "1969",
-            "end": "1974",
-            "imdb": "tt0063929"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "mr-bean-the-complete-live-action-series",
-            "title": "Mr. Bean",
-            "desc": "Bumbling, childlike Mr. Bean has trouble completing the simplest of day-to-day tasks, but his perseverance and resourcefulness frequently allow him to find ingenious ways around problems.",
-            "start": "1990",
-            "end": "1995",
-            "imdb": "tt0096657"
         },
         {
             "category": "comedy",
@@ -350,62 +410,12 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "bbc-red-dwarf",
-            "title": "Red Dwarf",
-            "desc": "The adventures of the last human alive and his friends, stranded 3 million years into deep space on the mining ship Red Dwarf.",
-            "start": "1988",
-            "end": "2020",
-            "imdb": "tt0094535"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "ripping-yarns-1976-79",
-            "title": "Ripping Yarns",
-            "desc": "This show is a collection of tales that make for \"ripping good\" television. Sir Michael Palin played a different lead character in each yarn.",
-            "start": "1976",
-            "end": "1979",
-            "imdb": "tt0075568"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "SeinfeldComplete",
-            "title": "Seinfeld",
-            "desc": "The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.",
-            "start": "1989",
-            "end": "1998",
-            "imdb": "tt0098904"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
             "identifier": "the-super-dave-osborne-show",
             "title": "Super Dave",
             "desc": "Battered and abused stuntman Super Dave Osborne gets his own nighttime talk show.",
             "start": "1987",
             "end": "1999",
             "imdb": "tt0092456"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "the-benny-hill-show",
-            "title": "The Benny Hill Show",
-            "desc": "A skit based show with Benny Hill, often containing smutty humour.",
-            "start": "1969",
-            "end": "1989",
-            "imdb": "tt0063869"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "blackadder-remastered",
-            "title": "The Black Adder",
-            "desc": "Prince Edmund the Black Adder constantly schemes and endeavors to seize the crown from his father and brother.",
-            "start": "1982",
-            "end": "1983",
-            "imdb": "tt0084988"
         },
         {
             "category": "comedy",
@@ -740,16 +750,6 @@
         {
             "category": "kids",
             "status": "active",
-            "identifier": "charlie-chalk-1988-the-complete-collection",
-            "title": "Charlie Chalk",
-            "desc": "A clown named Charlie Chalk arrives on the island of Merrytwit after falling asleep on his boat. He befriends the inhabitants of the island and gets into many adventures.",
-            "start": "1988",
-            "end": "1989",
-            "imdb": "tt0436999"
-        },
-        {
-            "category": "kids",
-            "status": "active",
             "identifier": "clifford-the-big-red-dog-s-01e-20-clifford-on-parade-follow-the-leader",
             "title": "Clifford the Big Red Dog",
             "desc": "The adventures of a larger-than-life red dog on Bridwell Island.",
@@ -830,6 +830,16 @@
         {
             "category": "kids",
             "status": "active",
+            "identifier": "ReadingRainbowTVSeries",
+            "title": "Reading Rainbow",
+            "desc": "Levar Burton introduces young viewers to illustrated readings of children's literature and explores their related subjects.",
+            "start": "1983",
+            "end": "2006",
+            "imdb": "tt0085075"
+        },
+        {
+            "category": "kids",
+            "status": "active",
             "identifier": "the-big-comfy-couch_202108",
             "title": "The Big Comfy Couch",
             "desc": "Loonette the clown and her dolly Molly solve everyday problems while residing in the comfort of a large couch.",
@@ -870,62 +880,22 @@
         {
             "category": "mystery",
             "status": "active",
+            "identifier": "mayday-aci",
+            "title": "Air Crash Investigation",
+            "desc": "Dramatized reconstruction of real-life air disasters, along with interviews with aviation experts and eyewitnesses. Also known as \"Mayday\". ",
+            "start": "2003",
+            "end": "2025",
+            "imdb": "tt0386950"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
             "identifier": "HardyBoysNancyDrew",
             "title": "Hardy Boys/Nancy Drew Mysteries",
             "desc": "The Hardy Boys/Nancy Drew Mysteries is a television series which aired for three seasons on ABC. The series starred Parker Stevenson and Shaun Cassidy as detective brothers Frank and Joe Hardy, respectively, and Pamela Sue Martin as amateur sleuth Nancy Drew.",
             "start": "1977",
             "end": "1979",
             "imdb": "tt0075513"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season1",
-            "title": "Midsomer Murders Season 1",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "",
-            "imdb": "tt0118401"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season2",
-            "title": "Midsomer Murders Season 2",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "",
-            "imdb": "tt0118401"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season3",
-            "title": "Midsomer Murders Season 3",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "",
-            "imdb": "tt0118401"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "miss-marple-1984-92",
-            "title": "Miss Marple",
-            "desc": "Miss Marple, an elderly woman and amateur detective whose sharp mind helps her solve a series of seemingly baffling cases.",
-            "start": "1984",
-            "end": "1992",
-            "imdb": "tt9907044"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "poirot-series",
-            "title": "Poirot",
-            "desc": "Hercule Poirot, a Belgian detective, has an impeccable knack for getting embroiled in a mystery and solving crimes.",
-            "start": "1989",
-            "end": "2013",
-            "imdb": "tt0094525"
         },
         {
             "category": "mystery",
@@ -946,16 +916,6 @@
             "start": "1952",
             "end": "1958",
             "imdb": "tt0044231"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "doctor-who_202210",
-            "title": "Doctor Who",
-            "desc": "The adventures of 'The Doctor', a Time Lord who changes appearance and personality by regenerating when near death.",
-            "start": "1963",
-            "end": "1989",
-            "imdb": "tt0056751"
         },
         {
             "category": "sci-fi",
@@ -1016,16 +976,6 @@
             "start": "1966",
             "end": "1967",
             "imdb": "tt0060036"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "rod-serling-and-the-twilight-zone",
-            "title": "The Twilight Zone",
-            "desc": "Ordinary people find themselves in extraordinarily astounding situations, which they each try to solve in a remarkable manner. This is the first season (colorized).",
-            "start": "1959",
-            "end": "1960",
-            "imdb": "tt0052520"
         },
         {
             "category": "western",
@@ -1106,6 +1056,76 @@
             "start": "1958",
             "end": "1961",
             "imdb": "tt0051327"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-1",
+            "title": "The Man from U.N.C.L.E.",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "freakazoid_202210",
+            "title": "Freakazoid!",
+            "desc": "Dexter Douglas of Washington, D.C. received the Pinnacle chip as a gift. He went online, but a flaw in the chip sucked him in and filled his head with all the information on the 'net, but he became very silly. Now he fights evil with urbane jokes.",
+            "start": "1995",
+            "end": "1997",
+            "imdb": "tt0111970"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "Alias-Smith-And-Jones-1973",
+            "title": "Alias Smith And Jones",
+            "desc": "Hannibal Heyes and Kid Curry, two of the most wanted outlaws in the history of the West, are popular \"with everyone except the railroads and the banks\".",
+            "start": "1971",
+            "end": "1973",
+            "imdb": "tt0066625"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "millennium-season-one-1996",
+            "title": "Millennium Season 1",
+            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0115270"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "friends-1994-2004-full-series_20250419",
+            "title": "Friends",
+            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+            "start": "1994",
+            "end": "2004",
+            "imdb": "tt0108778"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "s-01-e-05-brainania",
+            "title": "Pinky and the Brain",
+            "desc": "Pinky and the Brain are genetically enhanced laboratory mice who live in Acme Labs. The Brain is self-centered and scheming; Pinky is good-natured but feeble-minded. In each episode, the Brain devises a new plan to take over the world.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0112123"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-monkees-tv-series-full-episodes",
+            "title": "The Monkees",
+            "desc": "The misadventures of a struggling rock group.",
+            "start": "1965",
+            "end": "1968",
+            "imdb": "tt0060010"
         }
     ]
 }

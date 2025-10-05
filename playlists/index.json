@@ -4,20 +4,26 @@
         {
             "filename": "freetv.json",
             "dbtitle": "Default TV Shows",
-            "lastupdated": "2025-09-24T14:43:23.000Z",
-            "author": "Ken Dawson"
+            "lastupdated": "2025-10-05T04:32:44.000Z",
+            "author": "Free TV"
+        },
+        {
+            "filename": "ftv-british.json",
+            "dbtitle": "British TV",
+            "lastupdated": "2025-10-05T04:35:50.000Z",
+            "author": "Free TV"
         },
         {
             "filename": "ftv-holidays.json",
             "dbtitle": "Holiday Shows",
-            "lastupdated": "2025-09-19T02:41:45.986Z",
-            "author": "Ken Dawson"
+            "lastupdated": "2025-10-05T02:24:52.876Z",
+            "author": "Free TV"
         },
         {
             "filename": "ftv-movies.json",
             "dbtitle": "Movies",
-            "lastupdated": "2025-09-19T02:41:45.986Z",
-            "author": "Ken Dawson"
+            "lastupdated": "2025-10-05T02:24:52.876Z",
+            "author": "Free TV"
         }
     ]
 }

@@ -1,0 +1,221 @@
+{
+    "lastupdated": "2025-10-05T04:35:50.000Z",
+    "dbtitle": "British TV",
+    "filename": "ftv-british.json",
+    "dbversion": "1.0",
+    "author": "Free TV",
+    "email": "support@freetv.today",
+    "link": "https://freetv.today",
+    "shows": [
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "ThunderbirdsSeries",
+            "title": "Thunderbirds",
+            "desc": "In the year 2065, the Tracy family run International Rescue - a top-secret organization whose ongoing mission is to rescue people trapped in extraordinarily dangerous situations using their advanced Thunderbirds machines.",
+            "start": "1965",
+            "end": "1966",
+            "imdb": "tt0057790"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "blackadder-remastered",
+            "title": "Blackadder",
+            "desc": "In the Middle Ages, Prince Edmund the Black Adder constantly schemes and endeavors to seize the crown from his father and brother.",
+            "start": "1982",
+            "end": "1989",
+            "imdb": "tt0084988"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "FawltyTowers",
+            "title": "Fawlty Towers",
+            "desc": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
+            "start": "1975",
+            "end": "1979",
+            "imdb": "tt0072500"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "keeping-up-appearances_202402",
+            "title": "Keeping Up Appearances",
+            "desc": "A snobbish housewife is determined to climb the social ladder, in spite of her family's working class connections and the constant chagrin of her long suffering husband.",
+            "start": "1990",
+            "end": "1995",
+            "imdb": "tt0098837"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "mpfc-remastered_hd",
+            "title": "Monty Python",
+            "desc": "The original surreal sketch comedy showcase for the Monty Python troupe.",
+            "start": "1969",
+            "end": "1974",
+            "imdb": "tt0063929"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "mr-bean-the-complete-live-action-series",
+            "title": "Mr. Bean",
+            "desc": "Bumbling, childlike Mr. Bean has trouble completing the simplest of day-to-day tasks, but his perseverance and resourcefulness frequently allow him to find ingenious ways around problems.",
+            "start": "1990",
+            "end": "1995",
+            "imdb": "tt0096657"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "bbc-red-dwarf",
+            "title": "Red Dwarf",
+            "desc": "The adventures of the last human alive and his friends, stranded 3 million years into deep space on the mining ship Red Dwarf.",
+            "start": "1988",
+            "end": "2020",
+            "imdb": "tt0094535"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "ripping-yarns-1976-79",
+            "title": "Ripping Yarns",
+            "desc": "This show is a collection of tales that make for \"ripping good\" television. Sir Michael Palin played a different lead character in each yarn.",
+            "start": "1976",
+            "end": "1979",
+            "imdb": "tt0075568"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-benny-hill-show",
+            "title": "The Benny Hill Show",
+            "desc": "A skit based show with Benny Hill, often containing smutty humour.",
+            "start": "1969",
+            "end": "1989",
+            "imdb": "tt0063869"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "charlie-chalk-1988-the-complete-collection",
+            "title": "Charlie Chalk",
+            "desc": "A clown named Charlie Chalk arrives on the island of Merrytwit after falling asleep on his boat. He befriends the inhabitants of the island and gets into many adventures.",
+            "start": "1988",
+            "end": "1989",
+            "imdb": "tt0436999"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "thomas-and-friends-the-complete-series-uk",
+            "title": "Thomas and Friends",
+            "desc": "This series follows the adventures of Thomas the Tank Engine and all of his engine friends on the Island of Sodor.",
+            "start": "1984",
+            "end": "2025",
+            "imdb": "tt0086815"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "midsomer-murders-season1",
+            "title": "Midsomer Murders Season 1",
+            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
+            "start": "1997",
+            "end": "",
+            "imdb": "tt0118401"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "midsomer-murders-season2",
+            "title": "Midsomer Murders Season 2",
+            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
+            "start": "1997",
+            "end": "",
+            "imdb": "tt0118401"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "midsomer-murders-season3",
+            "title": "Midsomer Murders Season 3",
+            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
+            "start": "1997",
+            "end": "",
+            "imdb": "tt0118401"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "miss-marple-1984-92",
+            "title": "Miss Marple",
+            "desc": "Miss Marple, an elderly woman and amateur detective whose sharp mind helps her solve a series of seemingly baffling cases.",
+            "start": "1984",
+            "end": "1992",
+            "imdb": "tt9907044"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "poirot-series",
+            "title": "Poirot",
+            "desc": "Hercule Poirot, a Belgian detective, has an impeccable knack for getting embroiled in a mystery and solving crimes.",
+            "start": "1989",
+            "end": "2013",
+            "imdb": "tt0094525"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "doctor-who_202210",
+            "title": "Doctor Who (1963)",
+            "desc": "The adventures of 'The Doctor', a Time Lord who changes appearance and personality by regenerating when near death.",
+            "start": "1963",
+            "end": "1989",
+            "imdb": "tt0056751"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "doctor-who-2005-s01",
+            "title": "Doctor Who (2005) Series 1",
+            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
+            "start": "2005",
+            "end": "2007",
+            "imdb": "tt0436992"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "season-2-202315",
+            "title": "Doctor Who (2005) Series 2",
+            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
+            "start": "2005",
+            "end": "2007",
+            "imdb": "tt0436992"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "BBC_Sherlock2010",
+            "title": "Sherlock (2010)",
+            "desc": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
+            "start": "2010",
+            "end": "2017",
+            "imdb": "tt1475582"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "Space1999.Series1",
+            "title": "Space 1999",
+            "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
+            "start": "1975",
+            "end": "1977",
+            "imdb": "tt0072564"
+        }
+    ]
+}
