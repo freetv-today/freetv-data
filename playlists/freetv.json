@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-06T00:40:59.000Z",
+    "lastupdated": "2025-10-06T12:39:02.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -36,6 +36,16 @@
             "start": "1967",
             "end": "1968",
             "imdb": "tt0061250"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "freakazoid_202210",
+            "title": "Freakazoid!",
+            "desc": "Dexter Douglas of Washington, D.C. received the Pinnacle chip as a gift. He went online, but a flaw in the chip sucked him in and filled his head with all the information on the 'net, but he became very silly. Now he fights evil with urbane jokes.",
+            "start": "1995",
+            "end": "1997",
+            "imdb": "tt0111970"
         },
         {
             "category": "animation",
@@ -140,6 +150,16 @@
         {
             "category": "animation",
             "status": "active",
+            "identifier": "s-01-e-05-brainania",
+            "title": "Pinky and the Brain",
+            "desc": "Pinky and the Brain are genetically enhanced laboratory mice who live in Acme Labs. The Brain is self-centered and scheming; Pinky is good-natured but feeble-minded. In each episode, the Brain devises a new plan to take over the world.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0112123"
+        },
+        {
+            "category": "animation",
+            "status": "active",
             "identifier": "Reboot-HD",
             "title": "Reboot",
             "desc": "The adventures of a Guardian named Bob and his companions Enzo and Dot Matrix as they work to keep Mainframe safe from the viruses and other threats.",
@@ -166,6 +186,16 @@
             "start": "1976",
             "end": "1979",
             "imdb": "tt21153032"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
+            "title": "Sonic X",
+            "desc": "A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.",
+            "start": "2003",
+            "end": "2006",
+            "imdb": "tt0367413"
         },
         {
             "category": "animation",
@@ -330,6 +360,16 @@
         {
             "category": "comedy",
             "status": "active",
+            "identifier": "friends-1994-2004-full-series_20250419",
+            "title": "Friends",
+            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+            "start": "1994",
+            "end": "2004",
+            "imdb": "tt0108778"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
             "identifier": "get-smart",
             "title": "Get Smart",
             "desc": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, battles the evil forces of rival spy agency KAOS with the help of his competent partner Agent 99.",
@@ -420,6 +460,26 @@
         {
             "category": "comedy",
             "status": "active",
+            "identifier": "the-addams-family__season-1",
+            "title": "The Addams Family Season 1",
+            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
+            "start": "1964",
+            "end": "1966",
+            "imdb": "tt0057729"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-addams-family__season-2",
+            "title": "The Addams Family Season 2",
+            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
+            "start": "1964",
+            "end": "1966",
+            "imdb": "tt0057729"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
             "identifier": "TheBobNewhartShow",
             "title": "The Bob Newhart Show",
             "desc": "The professional and personal misadventures of a psychologist and his family, patients, friends and colleagues.",
@@ -446,6 +506,16 @@
             "start": "1962",
             "end": "1968",
             "imdb": "tt0055686"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-monkees-tv-series-full-episodes",
+            "title": "The Monkees",
+            "desc": "The misadventures of a struggling rock group.",
+            "start": "1965",
+            "end": "1968",
+            "imdb": "tt0060010"
         },
         {
             "category": "comedy",
@@ -650,6 +720,16 @@
         {
             "category": "drama",
             "status": "active",
+            "identifier": "millennium-season-one-1996",
+            "title": "Millennium Season 1",
+            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0115270"
+        },
+        {
+            "category": "drama",
+            "status": "active",
             "identifier": "six-feet-under_202209",
             "title": "Six Feet Under",
             "desc": "When death is your business, what is your life? Laced with irony and dark situational humor, the show approaches the subject of death through the eyes of the Fisher family, who owns and operates a funeral home in Los Angeles.",
@@ -686,6 +766,16 @@
             "start": "1966",
             "end": "1967",
             "imdb": "tt0059991"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-1",
+            "title": "The Man from U.N.C.L.E.",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765"
         },
         {
             "category": "drama",
@@ -806,6 +896,16 @@
             "start": "2005",
             "end": "2010",
             "imdb": "tt0756522"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "martha-speaks-season-1-s-01-e-08-what-s-bothering-bob-martha-spins-a-tale",
+            "title": "Martha Speaks",
+            "desc": "Tales of a dog, Martha, who eats alphabet soup and gains the ability to speak. This series follows the antics of Martha and her owner as she encounters many adventures with her newfound ability.",
+            "start": "2008",
+            "end": "2016",
+            "imdb": "tt1043776"
         },
         {
             "category": "kids",
@@ -980,6 +1080,16 @@
         {
             "category": "western",
             "status": "active",
+            "identifier": "Alias-Smith-And-Jones-1973",
+            "title": "Alias Smith And Jones",
+            "desc": "Hannibal Heyes and Kid Curry, two of the most wanted outlaws in the history of the West, are popular \"with everyone except the railroads and the banks\".",
+            "start": "1971",
+            "end": "1973",
+            "imdb": "tt0066625"
+        },
+        {
+            "category": "western",
+            "status": "active",
             "identifier": "annieoakleys01",
             "title": "Annie Oakley",
             "desc": "A fictionalized account of the life of legendary Wild West sharpshooter Annie Oakley.",
@@ -1056,96 +1166,6 @@
             "start": "1958",
             "end": "1961",
             "imdb": "tt0051327"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-1",
-            "title": "The Man from U.N.C.L.E.",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "freakazoid_202210",
-            "title": "Freakazoid!",
-            "desc": "Dexter Douglas of Washington, D.C. received the Pinnacle chip as a gift. He went online, but a flaw in the chip sucked him in and filled his head with all the information on the 'net, but he became very silly. Now he fights evil with urbane jokes.",
-            "start": "1995",
-            "end": "1997",
-            "imdb": "tt0111970"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "Alias-Smith-And-Jones-1973",
-            "title": "Alias Smith And Jones",
-            "desc": "Hannibal Heyes and Kid Curry, two of the most wanted outlaws in the history of the West, are popular \"with everyone except the railroads and the banks\".",
-            "start": "1971",
-            "end": "1973",
-            "imdb": "tt0066625"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "millennium-season-one-1996",
-            "title": "Millennium Season 1",
-            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium.",
-            "start": "1996",
-            "end": "1999",
-            "imdb": "tt0115270"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "friends-1994-2004-full-series_20250419",
-            "title": "Friends",
-            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-            "start": "1994",
-            "end": "2004",
-            "imdb": "tt0108778"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "s-01-e-05-brainania",
-            "title": "Pinky and the Brain",
-            "desc": "Pinky and the Brain are genetically enhanced laboratory mice who live in Acme Labs. The Brain is self-centered and scheming; Pinky is good-natured but feeble-minded. In each episode, the Brain devises a new plan to take over the world.",
-            "start": "1995",
-            "end": "1998",
-            "imdb": "tt0112123"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "the-monkees-tv-series-full-episodes",
-            "title": "The Monkees",
-            "desc": "The misadventures of a struggling rock group.",
-            "start": "1965",
-            "end": "1968",
-            "imdb": "tt0060010"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "martha-speaks-season-1-s-01-e-08-what-s-bothering-bob-martha-spins-a-tale",
-            "title": "Martha Speaks",
-            "desc": "Tales of a dog, Martha, who eats alphabet soup and gains the ability to speak. This series follows the antics of Martha and her owner as she encounters many adventures with her newfound ability.",
-            "start": "2008",
-            "end": "2016",
-            "imdb": "tt1043776"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
-            "title": "Sonic X",
-            "desc": "A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.",
-            "start": "2003",
-            "end": "2006",
-            "imdb": "tt0367413"
         }
     ]
 }

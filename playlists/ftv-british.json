@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-05T04:35:50.000Z",
+    "lastupdated": "2025-10-06T13:17:40.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -98,6 +98,16 @@
             "imdb": "tt0063869"
         },
         {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "yes-minister-1980-1984",
+            "title": "Yes Minister",
+            "desc": "The Right Honorable James Hacker has landed the plum job of Cabinet Minister to the Department of Administration. At last he is in a position of power and can carry out some long-needed reforms, or so he thinks.",
+            "start": "1980",
+            "end": "1984",
+            "imdb": "tt0080306"
+        },
+        {
             "category": "kids",
             "status": "active",
             "identifier": "charlie-chalk-1988-the-complete-collection",
@@ -168,6 +178,16 @@
             "imdb": "tt0094525"
         },
         {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "BBC_Sherlock2010",
+            "title": "Sherlock (2010)",
+            "desc": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
+            "start": "2010",
+            "end": "2017",
+            "imdb": "tt1475582"
+        },
+        {
             "category": "sci-fi",
             "status": "active",
             "identifier": "doctor-who_202210",
@@ -198,20 +218,20 @@
             "imdb": "tt0436992"
         },
         {
-            "category": "mystery",
+            "category": "sci-fi",
             "status": "active",
-            "identifier": "BBC_Sherlock2010",
-            "title": "Sherlock (2010)",
-            "desc": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
-            "start": "2010",
-            "end": "2017",
-            "imdb": "tt1475582"
+            "identifier": "Space1999.Series1",
+            "title": "Space 1999 Series 1",
+            "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
+            "start": "1975",
+            "end": "1977",
+            "imdb": "tt0072564"
         },
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "Space1999.Series1",
-            "title": "Space 1999",
+            "identifier": "Space1999.Series1_201602",
+            "title": "Space 1999 Series 2",
             "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
             "start": "1975",
             "end": "1977",

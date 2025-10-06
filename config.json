@@ -1,9 +1,9 @@
 {
-    "lastupdated": "2025-10-05T15:50:02.645Z",
+    "lastupdated": "2025-10-05T18:53:30.171Z",
     "offline": false,
-    "appdata": true,
+    "appdata": false,
     "collector": "https://freetv.today/api/beacon.php",
-    "showads": true,
+    "showads": false,
     "modules": true,
     "debugmode": false
 }
