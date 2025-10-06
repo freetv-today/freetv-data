@@ -4,7 +4,7 @@
         {
             "filename": "freetv.json",
             "dbtitle": "Default TV Shows",
-            "lastupdated": "2025-10-05T04:32:44.000Z",
+            "lastupdated": "2025-10-06T00:40:59.000Z",
             "author": "Free TV"
         },
         {
@@ -22,7 +22,7 @@
         {
             "filename": "ftv-movies.json",
             "dbtitle": "Movies",
-            "lastupdated": "2025-10-05T02:24:52.876Z",
+            "lastupdated": "2025-10-06T02:15:50.000Z",
             "author": "Free TV"
         }
     ]

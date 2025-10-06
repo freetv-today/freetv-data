@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-05T04:32:44.000Z",
+    "lastupdated": "2025-10-06T00:40:59.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -1126,6 +1126,26 @@
             "start": "1965",
             "end": "1968",
             "imdb": "tt0060010"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "martha-speaks-season-1-s-01-e-08-what-s-bothering-bob-martha-spins-a-tale",
+            "title": "Martha Speaks",
+            "desc": "Tales of a dog, Martha, who eats alphabet soup and gains the ability to speak. This series follows the antics of Martha and her owner as she encounters many adventures with her newfound ability.",
+            "start": "2008",
+            "end": "2016",
+            "imdb": "tt1043776"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
+            "title": "Sonic X",
+            "desc": "A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.",
+            "start": "2003",
+            "end": "2006",
+            "imdb": "tt0367413"
         }
     ]
 }
