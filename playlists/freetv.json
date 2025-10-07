@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-06T12:39:02.000Z",
+    "lastupdated": "2025-10-06T17:10:34.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -1166,6 +1166,16 @@
             "start": "1958",
             "end": "1961",
             "imdb": "tt0051327"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "fat-albert-72",
+            "title": "Fat Albert & the Cosby Kids",
+            "desc": "The educational adventures of a group of Afro-American inner city kids.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068072"
         }
     ]
 }

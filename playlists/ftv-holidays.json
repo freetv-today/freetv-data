@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-05T02:24:52.876Z",
+    "lastupdated": "2025-10-06T19:39:08.000Z",
     "dbtitle": "Holiday Shows",
     "filename": "ftv-holidays.json",
     "dbversion": "1.0",
@@ -156,6 +156,276 @@
             "start": "1983",
             "end": "1983",
             "imdb": "tt0085593"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "a-flinstone-christmas",
+            "title": "A Flintstone Christmas",
+            "desc": "When Santa has an accident at Fred's house on Christmas Eve, Fred and Barney must continue his run for him.",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0193163"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "yogischristmas",
+            "title": "Yogis First Christmas",
+            "desc": "Yogi, Boo Boo and Cindy are awakened from hibernation and join their friends' Christmas activities while interfering with two villains' efforts to ruin the holiday.",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0199161"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "mister-magoos-christmas-carol-1962",
+            "title": "Mister Magoos Christmas Carol",
+            "desc": "This musical adaptation of the classic tale by Charles Dickens stars Mr. Magoo as the cold-hearted old miser, Ebenezer Scrooge.",
+            "start": "1962",
+            "end": "1962",
+            "imdb": "tt0123179"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "AVeryMonkeyChristmas",
+            "title": "A Very Monkey Christmas",
+            "desc": "George and The Man In The Yellow Hat are having a merry time counting down to Christmas. But neither can decide what to give each other. Will they find the answers before Christmas morning?",
+            "start": "2009",
+            "end": "2009",
+            "imdb": "tt1570964"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "twas-the-night-before-christmas-1974-full-movie-freedownloadvideo.net",
+            "title": "Twas the Night Before Christmas",
+            "desc": "When a town learns that Santa Claus has struck it off his delivery schedule due to an insulting letter, a way must be found to change his mind.",
+            "start": "1974",
+            "end": "1974",
+            "imdb": "tt0208654"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "rugrats-easter-2002-vhs",
+            "title": "Rugrats Easter",
+            "desc": "Tommy feels rejected when Spike seems to be paying all his attention to Fifi until the cause is revealed - Fifi delivers a doghouse full of puppies. Also known as \"Bow Wow Wedding Vows\".",
+            "start": "2002",
+            "end": "2002",
+            "imdb": "tt0691302"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "veggie-tales-an-easter-carol-vhs",
+            "title": "Veggie Tales An Easter Carol",
+            "desc": "An adaptation of A Christmas Carol, set on Easter and starring Mr. Nezzer.",
+            "start": "2004",
+            "end": "2004",
+            "imdb": "tt0410839"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "king-of-kings",
+            "title": "King of Kings",
+            "desc": "The life and times of Jesus against a background of Roman paganism. Set in Palestine, depicts the Jews under Roman rule and their struggle for freedom under the leadership of Barabbas, the man who was spared while Jesus was crucified.",
+            "start": "1961",
+            "end": "1961",
+            "imdb": "tt0055047"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "PJFunnybunnysVeryCoolEaster1996.18",
+            "title": "PJ Bunny: A Very Cool Easter",
+            "desc": "An Easter tale starring P.J. Funnybunny",
+            "start": "1997",
+            "end": "1997",
+            "imdb": "tt0178807"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "easter-fever-vhs",
+            "title": "Easter Fever",
+            "desc": "A jive-talking Easter Bunny named Jack decides to retire, so his friends throw him a crazy roast before he officially hangs up his basket. A series of kooky flashbacks tells of his life-story & career, but will all this reminiscing only convince him not?",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0382006"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "the-great-easter-egg-hunt-vhs-family-home-entertainment-kids",
+            "title": "The Great Easter Egg Hunt",
+            "desc": "Peter's grandmother sends him an Easter basket with a stuffed bunny known as Whiskers, who becomes the envy of the other toys, because he's taken to school and they stay home.",
+            "start": "2000",
+            "end": "2000",
+            "imdb": "tt2555576"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "01halloweenhorror1978donaldpleasenceengsubs720ph264mp4",
+            "title": "Halloween (1978)",
+            "desc": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois, to kill again.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0077651"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "curious-george-a-halloween-boo-fest-2013-universal-dvd-video",
+            "title": "A Halloween Boo Fest",
+            "desc": "Get ready for a spook-tacular good time with Curious George - in his first-ever Halloween movie. This fun-filled adventure is a bewitching treat for the whole family!",
+            "start": "2013",
+            "end": "2013",
+            "imdb": "tt3124292"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "1978-witchs-night-out-a-halloween-cartoon-movie",
+            "title": "Witch's Night Out",
+            "desc": "A witch, disgruntled by the fact that no one takes Halloween seriously anymore, decides to stir things up and disrupt the social gathering in her old house as well as turn a couple of kids who love monsters into actual monsters.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0078500"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "disneys-halloween-treat-1984-vhs",
+            "title": "Disneys Halloween Treat",
+            "desc": "Contains memorable scenes from \"Snow White and the Seven Dwarfs,\" \"Fantasia,\" \"Lady and the Tramp,\" \"Peter Pan,\" \"One Hundred and One Dalmatians,\" and \"The Sword in the Stone.\"",
+            "start": "1984",
+            "end": "1984",
+            "imdb": "tt0289920"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "the-legend-of-sleepy-hollow-1980-family-mystery-adventure-tv-movie",
+            "title": "Legend Of Sleepy Hollow",
+            "desc": "Angered that Katrina has grown fond of schoolmaster Crane, Brom Bones determines to scare off the interloper by filling his head with spooky tales of a Headless Horseman. Crane disparages the legends, until one fateful ride home in the dark of night.",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0079453"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "a-disney-halloween-the-best-of-wdp-10-29-1987",
+            "title": "A Disney Halloween",
+            "desc": "An off-screen narrator and the Slave in the Magic Mirror offers several spooks and humor from showcasing disaster funny villains to presenting several cartoons in this Disney Channel exclusive.",
+            "start": "1983",
+            "end": "1983",
+            "imdb": "tt20770788"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "arthur-s-24e-00-an-arthur-thanksgiving",
+            "title": "An Arthur Thanksgiving",
+            "desc": "It's Thanksgiving in Elwood City. Arthur and his friends get to participate in the parade. Arthur's family thinks Pal ran away from home and search for him. D.W. tries to get to know Aunt Minnie.",
+            "start": "2020",
+            "end": "2020",
+            "imdb": "tt13473018"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "garfieldsthanksgiving",
+            "title": "Garfield's Thanksgiving",
+            "desc": "Jon falls for Garfield's veterinarian--who puts Garfield on a diet--and invites her to Thanksgiving dinner.",
+            "start": "1989",
+            "end": "1989",
+            "imdb": "tt0292521"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "macysthanksgivingdayparade1989full",
+            "title": "Macy's Parade (1989)",
+            "desc": "The Macy's Thanksgiving Day Parade from 1989.",
+            "start": "1989",
+            "end": "1989",
+            "imdb": "tt1182303"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "macysthanksgivingdayparade1988withcommercialsvhs_201912",
+            "title": "Macy's Parade (1988)",
+            "desc": "The Macy's Thanksgiving Day Parade from 1988.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt1433536"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "B.C._The_First_Thanksgiving_1973",
+            "title": "BC: The First Thanksgiving",
+            "desc": "To add flavor to her rock soup, the Fat Broad commands Wiley, Peter, Thor, etc. to catch a turkey. The problem is that no one knows what a turkey is, except for the turkey himself. Based on Johnny Hart's B.C. comic strip.",
+            "start": "1973",
+            "end": "1973",
+            "imdb": "tt0770716"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "the-little-orphan-1949-restored",
+            "title": "Tom & Jerry: The Little Orphan",
+            "desc": "The Bide-a-Wee Mouse Home has sent the orphan mouse, Nibbles, to spend Thanksgiving with Jerry. But Jerry's cupboard is bare, and Nibbles is always hungry.",
+            "start": "1949",
+            "end": "1949",
+            "imdb": "tt0041592"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "the-mouse-on-the-mayflower-1968_202311",
+            "title": "The Mouse on the Mayflower",
+            "desc": "The Mayflower journey as seen through the experiences of a church mouse.",
+            "start": "1968",
+            "end": "1968",
+            "imdb": "tt0299044"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "1062392039985",
+            "title": "Thanksgiving That Almost Wasn't",
+            "desc": "A talking squirrel must save the holiday by rescuing a young Pilgrim boy and a young Native American boy that has gone missing in the woods on Thanksgiving day.",
+            "start": "1972",
+            "end": "1972",
+            "imdb": "tt1230175"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "macysthanksgivingdayparade1981reuploadwithcommericals",
+            "title": "Macy's Parade (1981)",
+            "desc": "The 55th Annual Macy's Thanksgiving Day Parade from 1981.",
+            "start": "1981",
+            "end": "1981",
+            "imdb": "tt2058648"
+        },
+        {
+            "category": "thanksgiving",
+            "status": "active",
+            "identifier": "macys-parade-1982-nbc_202207",
+            "title": "Macy's Parade (1982)",
+            "desc": "The 56th Annual Macy's Thanksgiving Day Parade from 1982.",
+            "start": "1982",
+            "end": "1982",
+            "imdb": "tt1300161"
         }
     ]
 }

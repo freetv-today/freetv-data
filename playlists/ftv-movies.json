@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-06T12:58:19.000Z",
+    "lastupdated": "2025-10-06T15:31:29.000Z",
     "dbtitle": "Movies",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -67,7 +67,7 @@
             "imdb": "tt0320661"
         },
         {
-            "category": "action",
+            "category": "drama",
             "status": "active",
             "identifier": "Shogun_Miniseries",
             "title": "Shogun (miniseries)",
@@ -137,7 +137,7 @@
             "imdb": "tt0080801"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "the.-color.-purple.-1985.720p.-blu-ray.x-264-yts.-lt",
             "title": " The Color Purple",
@@ -147,7 +147,7 @@
             "imdb": "tt0088939"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "casablanca.-1942.720.x-264.-yify_202502",
             "title": "Casablanca",
@@ -157,7 +157,7 @@
             "imdb": "tt0034583"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "dead-poets-society-1989-720p-blu-ray-x-264-yify",
             "title": "Dead Poets Society",
@@ -167,7 +167,7 @@
             "imdb": "tt0097165"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "empire.of.the.-sun.-1987.720p.-blu-ray.x-264.-yify",
             "title": "Empire of the Sun",
@@ -177,7 +177,7 @@
             "imdb": "tt0092965"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "little.-miss.-sunshine.-2006.720p.-blu-ray.x-264.-yify_202503",
             "title": "Little Miss Sunshine",
@@ -187,7 +187,7 @@
             "imdb": "tt0449059"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "memento.-2000.720p.-blu-ray.x-264.-yify_202503",
             "title": "Memento",
@@ -197,7 +197,7 @@
             "imdb": "tt0209144"
         },
         {
-            "category": "Drama",
+            "category": "drama",
             "status": "active",
             "identifier": "three.-days.-of.-the.-condor.-1975.720p.-blu-ray.x-264-yts.-am",
             "title": "Three Days of the Condor",
@@ -207,7 +207,7 @@
             "imdb": "tt0073802"
         },
         {
-            "category": "Family",
+            "category": "family",
             "status": "active",
             "identifier": "the-neverending-story-1984-720p.-bluray.x-264",
             "title": "The Neverending Story",
@@ -217,7 +217,7 @@
             "imdb": "tt0088323"
         },
         {
-            "category": "Family",
+            "category": "family",
             "status": "active",
             "identifier": "the.-parent.-trap.-1998.720p.-blu-ray.x-264-yts.-am",
             "title": "The Parent Trap",
@@ -227,7 +227,7 @@
             "imdb": "tt0120783"
         },
         {
-            "category": "Romance",
+            "category": "romance",
             "status": "active",
             "identifier": "before.-sunrise.-1995.720p.-blu-ray.x-264-yts.-am",
             "title": "Before Sunrise",
@@ -237,7 +237,7 @@
             "imdb": "tt0112471"
         },
         {
-            "category": "Romance",
+            "category": "romance",
             "status": "active",
             "identifier": "dirty.-dancing.-1987.720p.-br-rip.x-264.-yify",
             "title": "Dirty Dancing",
@@ -247,7 +247,7 @@
             "imdb": "tt0092890"
         },
         {
-            "category": "Romance",
+            "category": "romance",
             "status": "active",
             "identifier": "jerry.-maguire.-1996.-br-rip.-720p.x-264.-yify_202503",
             "title": "Jerry Maguire",
@@ -257,7 +257,7 @@
             "imdb": "tt0116695"
         },
         {
-            "category": "Romance",
+            "category": "romance",
             "status": "active",
             "identifier": "notting.-hill.-1999.720p.-br-rip.x-264.-bokutox.-yify",
             "title": "Notting Hill",
@@ -267,7 +267,7 @@
             "imdb": "tt0125439"
         },
         {
-            "category": "Sci-Fi",
+            "category": "sci-fi",
             "status": "active",
             "identifier": "batteries.-not.-included.-1987.720p.-blu-ray.x-264-yts.-ag",
             "title": "Batteries Not Included",
@@ -277,7 +277,7 @@
             "imdb": "tt0092494"
         },
         {
-            "category": "Sci-Fi",
+            "category": "sci-fi",
             "status": "active",
             "identifier": "day-the-earth-stood-still-1951",
             "title": "The Day the Earth Stood Still",
@@ -287,7 +287,7 @@
             "imdb": "tt0043456"
         },
         {
-            "category": "Sci-Fi",
+            "category": "sci-fi",
             "status": "active",
             "identifier": "Dune19843640x272435mb",
             "title": "Dune",
@@ -295,6 +295,26 @@
             "start": "1984",
             "end": "1984",
             "imdb": "tt0087182"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "9convert.com-monty-python-and-the-holy-grail-1974-1080p",
+            "title": "Monty Python And The Holy Grail",
+            "desc": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+            "start": "1975",
+            "end": "1975",
+            "imdb": "tt0071853"
+        },
+        {
+            "category": "romance",
+            "status": "active",
+            "identifier": "pride-and-prejudice-1995-miniseries",
+            "title": "Pride and Prejudice (miniseries)",
+            "desc": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy.",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112130"
         }
     ]
 }

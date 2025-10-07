@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-06T13:17:40.000Z",
+    "lastupdated": "2025-10-06T16:44:54.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -8,7 +8,7 @@
     "link": "https://freetv.today",
     "shows": [
         {
-            "category": "animation",
+            "category": "kids",
             "status": "active",
             "identifier": "ThunderbirdsSeries",
             "title": "Thunderbirds",
@@ -110,7 +110,7 @@
         {
             "category": "kids",
             "status": "active",
-            "identifier": "charlie-chalk-1988-the-complete-collection",
+            "identifier": "charlie-chalk-the-complete-series-1988-89",
             "title": "Charlie Chalk",
             "desc": "A clown named Charlie Chalk arrives on the island of Merrytwit after falling asleep on his boat. He befriends the inhabitants of the island and gets into many adventures.",
             "start": "1988",
@@ -236,6 +236,206 @@
             "start": "1975",
             "end": "1977",
             "imdb": "tt0072564"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "UFO.complete",
+            "title": "UFO",
+            "desc": "In 1980, the Supreme Headquarters Alien Defence Organization covertly defends Earth against threats from a dying extraterrestrial race that needs to harvest human organs to survive.",
+            "start": "1970",
+            "end": "1971",
+            "imdb": "tt0063962"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-young-ones-s-01-ep-04-bomb",
+            "title": "The Young Ones",
+            "desc": "The crazy and sometimes surreal comedic adventures of four very different students in Thatcher's Britain.",
+            "start": "1982",
+            "end": "1984",
+            "imdb": "tt0083505"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "father-ted-2005",
+            "title": "Father Ted",
+            "desc": "Three misfit priests and their housekeeper live on Craggy Island, not the peaceful and quiet part of Ireland that it seems to be.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0111958"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "vicar-of-dibley-s-01-e-01-arrival.avi",
+            "title": "The Vicar of Dibley",
+            "desc": "A boisterous female minister comes to serve in an eccentrically conservative village's church.",
+            "start": "1994",
+            "end": "2000",
+            "imdb": "tt0108981"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "noddy-goes-to-toyland-1963-arthur-humberstone",
+            "title": "Noddy Goes To Toyland",
+            "desc": "While on his Bicycle. Mister Big ears encounters, a new arrival to the land of Toys. And helps him get settled. But is this newcomer really a toy?",
+            "start": "1963",
+            "end": "1963",
+            "imdb": "tt19815358"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "wombles-1973-77",
+            "title": "The Wombles",
+            "desc": "The misadventures of a fantasy folk community dedicated to cleaning up litter and putting it to their own use.",
+            "start": "1973",
+            "end": "1975",
+            "imdb": "tt0159227"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "world-of-peter-rabbit-and-friends-1992-98",
+            "title": "World of Peter Rabbit & Friends",
+            "desc": "An animated series, telling the story of many beloved Beatrix Potter characters.",
+            "start": "1992",
+            "end": "1998",
+            "imdb": "tt0296886"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "enchanted-world-of-brambly-hedge-1996-2000",
+            "title": "Enchanted World of Brambly Hedge",
+            "desc": "The enchanting tales of a community of field mice living in secret in a brambly hedgerow.",
+            "start": "1996",
+            "end": "2000",
+            "imdb": "tt0796568"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "little-miss-1983-bbc-tv-series-the-complete-collection",
+            "title": "Little Miss",
+            "desc": "The adventures of the Little Miss characters created by Roger Hargreaves as female counterparts to the original Mr Men. The personality and appearance of each character matches their name.",
+            "start": "1983",
+            "end": "1983",
+            "imdb": "tt0299341"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "mr.-men-1974-78-bbc-tv-series-the-complete-collection",
+            "title": "Mr. Men",
+            "desc": "Follows brightly colored characters that live in Misterland. All of them have names like Mr Happy, Mr Clumsy and Mr Greedy and their appearance and personality match their name.",
+            "start": "1974",
+            "end": "1983",
+            "imdb": "tt0426754"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "allo-allo",
+            "title": "'Allo 'Allo",
+            "desc": "In France during World War II, Ren\u00e9 Artois runs a small caf\u00e9 where Resistance fighters, Gestapo men, German Army officers and escaped Allied POWs interact daily, ignorant of one another's true identity or presence, exasperating Ren\u00e9.",
+            "start": "1982",
+            "end": "1992",
+            "imdb": "tt0086659"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "dadsarmythecompletecollection",
+            "title": "Dads Army",
+            "desc": "A ragtag group of Home Guard volunteers prepare for an imminent German invasion during World War II.",
+            "start": "1968",
+            "end": "1977",
+            "imdb": "tt0062552"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "mrs.-browns-boys-s-03-e-11-mammys-christmas-punch",
+            "title": "Mrs. Browns Boys",
+            "desc": "A comedy centered on a loud-mouthed Irish matriarch whose favorite pastime is meddling in the lives of her six children.",
+            "start": "2011",
+            "end": "2014",
+            "imdb": "tt1819022"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "fs-series",
+            "title": "French and Saunders",
+            "desc": "Comedy duo Dawn French and Jennifer Saunders satirically present aspects of British life, films such as Batman Forever and Pulp Fiction.",
+            "start": "1987",
+            "end": "2017",
+            "imdb": "tt0092355"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "01-rumpole-of-the-bailey-s-01-e-01-rumpole-and-the-younger-generation-1",
+            "title": "Rumpole Of The Bailey",
+            "desc": "The cases of a portly and eccentric criminal law barrister.",
+            "start": "1978",
+            "end": "1992",
+            "imdb": "tt0078680"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-hitchhikers-guide-to-the-galaxy-complete-series-1981",
+            "title": "Hitchhikers Guide to the Galaxy",
+            "desc": "Arthur Dent and his friend, Ford Prefect, escape the destruction of Earth, only to face incredible trials, tribulations and adventures in space and time.",
+            "start": "1981",
+            "end": "1981",
+            "imdb": "tt0081874"
+        },
+        {
+            "category": "cooking",
+            "status": "active",
+            "identifier": "two.-fat.-ladies.-s-01-e-04.-cakes.and.-baking.-sdtv.x-265-aac",
+            "title": "Two Fat Ladies",
+            "desc": "Clarissa and Jennifer are two long-time friends who enjoy driving on their motorcycle and cooking ethnic foods according to where they live.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0169499"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "pie-in-the-sky-94-97",
+            "title": "Pie in the Sky",
+            "desc": "After a botched sting operation, and denied his imminent retirement, DI Crabbe is suspended from the police and opens his own restaurant. However, his ex-boss, Assistant Chief Constable Freddy Fisher, constantly calls him back on duty.",
+            "start": "1994",
+            "end": "1997",
+            "imdb": "tt0106102"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "black-books-tv-series-2000-2004",
+            "title": "Black Books",
+            "desc": "Bernard Black runs a book shop, though his customer service skills leave something to be desired. He hires Manny as an employee. Fran runs the shop next door. Between the three of them many adventures ensue.",
+            "start": "2000",
+            "end": "2004",
+            "imdb": "tt0262150"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "lastofthesummerwine",
+            "title": "Last Of The Summer Wine",
+            "desc": "Three old men from Yorkshire who have never grown up face the trials of their fellow town citizens and everyday life and stay young by reminiscing about the days of their youth and attempting feats not common to the elderly.",
+            "start": "1973",
+            "end": "2010",
+            "imdb": "tt0069602"
         }
     ]
 }
