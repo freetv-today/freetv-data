@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-06T15:31:29.000Z",
+    "lastupdated": "2025-10-07T22:39:55.000Z",
     "dbtitle": "Movies",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -67,16 +67,6 @@
             "imdb": "tt0320661"
         },
         {
-            "category": "drama",
-            "status": "active",
-            "identifier": "Shogun_Miniseries",
-            "title": "Shogun (miniseries)",
-            "desc": "An English navigator becomes both a player and pawn in the complex political games in feudal Japan.",
-            "start": "1980",
-            "end": "1980",
-            "imdb": "tt0080274"
-        },
-        {
             "category": "action",
             "status": "active",
             "identifier": "true-lies-1994-d-theater",
@@ -115,6 +105,16 @@
             "start": "2002",
             "end": "2002",
             "imdb": "tt0240468"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "9convert.com-monty-python-and-the-holy-grail-1974-1080p",
+            "title": "Monty Python And The Holy Grail",
+            "desc": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+            "start": "1975",
+            "end": "1975",
+            "imdb": "tt0071853"
         },
         {
             "category": "comedy",
@@ -199,6 +199,16 @@
         {
             "category": "drama",
             "status": "active",
+            "identifier": "Shogun_Miniseries",
+            "title": "Shogun (miniseries)",
+            "desc": "An English navigator becomes both a player and pawn in the complex political games in feudal Japan.",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0080274"
+        },
+        {
+            "category": "drama",
+            "status": "active",
             "identifier": "three.-days.-of.-the.-condor.-1975.720p.-blu-ray.x-264-yts.-am",
             "title": "Three Days of the Condor",
             "desc": "A bookish CIA researcher in Manhattan finds all his co-workers dead, and must outwit those responsible until he figures out who he can really trust.",
@@ -267,6 +277,16 @@
             "imdb": "tt0125439"
         },
         {
+            "category": "romance",
+            "status": "active",
+            "identifier": "pride-and-prejudice-1995-miniseries",
+            "title": "Pride and Prejudice (miniseries)",
+            "desc": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy.",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112130"
+        },
+        {
             "category": "sci-fi",
             "status": "active",
             "identifier": "batteries.-not.-included.-1987.720p.-blu-ray.x-264-yts.-ag",
@@ -279,16 +299,6 @@
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "day-the-earth-stood-still-1951",
-            "title": "The Day the Earth Stood Still",
-            "desc": "An alien lands in Washington, D.C. and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
-            "start": "1951",
-            "end": "1951",
-            "imdb": "tt0043456"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
             "identifier": "Dune19843640x272435mb",
             "title": "Dune",
             "desc": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule.",
@@ -297,24 +307,14 @@
             "imdb": "tt0087182"
         },
         {
-            "category": "comedy",
+            "category": "sci-fi",
             "status": "active",
-            "identifier": "9convert.com-monty-python-and-the-holy-grail-1974-1080p",
-            "title": "Monty Python And The Holy Grail",
-            "desc": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
-            "start": "1975",
-            "end": "1975",
-            "imdb": "tt0071853"
-        },
-        {
-            "category": "romance",
-            "status": "active",
-            "identifier": "pride-and-prejudice-1995-miniseries",
-            "title": "Pride and Prejudice (miniseries)",
-            "desc": "While the arrival of wealthy gentlemen sends her marriage-minded mother into a frenzy, willful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy.",
-            "start": "1995",
-            "end": "1995",
-            "imdb": "tt0112130"
+            "identifier": "day-the-earth-stood-still-1951",
+            "title": "The Day the Earth Stood Still",
+            "desc": "An alien lands in Washington, D.C. and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
+            "start": "1951",
+            "end": "1951",
+            "imdb": "tt0043456"
         }
     ]
 }

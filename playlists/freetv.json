@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-06T17:10:34.000Z",
+    "lastupdated": "2025-10-07T22:39:30.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -36,6 +36,16 @@
             "start": "1967",
             "end": "1968",
             "imdb": "tt0061250"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "fat-albert-72",
+            "title": "Fat Albert & the Cosby Kids",
+            "desc": "The educational adventures of a group of Afro-American inner city kids.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068072"
         },
         {
             "category": "animation",
@@ -310,6 +320,28 @@
         {
             "category": "comedy",
             "status": "active",
+            "identifier": "the-addams-family__season-1",
+            "title": "The Addams Family Season 1",
+            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
+            "start": "1964",
+            "end": "1966",
+            "imdb": "tt0057729",
+            "group": "The Addams Family"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-addams-family__season-2",
+            "title": "The Addams Family Season 2",
+            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
+            "start": "1964",
+            "end": "1966",
+            "imdb": "tt0057729",
+            "group": "The Addams Family"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
             "identifier": "abbott_costello_the_vacation",
             "title": "Abbott & Costello",
             "desc": "The Abbott and Costello Show features Bud Abbott and Lou Costello as out-of-work actors and roommates staying at Mr. Field's Hollywood boarding house.",
@@ -456,26 +488,6 @@
             "start": "1987",
             "end": "1999",
             "imdb": "tt0092456"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "the-addams-family__season-1",
-            "title": "The Addams Family Season 1",
-            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
-            "start": "1964",
-            "end": "1966",
-            "imdb": "tt0057729"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "the-addams-family__season-2",
-            "title": "The Addams Family Season 2",
-            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
-            "start": "1964",
-            "end": "1966",
-            "imdb": "tt0057729"
         },
         {
             "category": "comedy",
@@ -706,6 +718,16 @@
             "start": "1996",
             "end": "1999",
             "imdb": "tt0115137"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "Dragnet1951",
+            "title": "Dragnet (1951)",
+            "desc": "Follows Sergeant Joe Friday of the Los Angels Police Department (LAPD) and his various partners as they methodically investigate a different verity of crimes in Los Angeles, California.",
+            "start": "1951",
+            "end": "1959",
+            "imdb": "tt0043194"
         },
         {
             "category": "drama",
@@ -1010,6 +1032,39 @@
         {
             "category": "sci-fi",
             "status": "active",
+            "identifier": "JimmyAndTheFederationGang",
+            "title": "Star Trek Season 1",
+            "desc": "Season 1: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
+            "start": "1966",
+            "end": "1969",
+            "imdb": "tt0060028",
+            "group": "Star Trek"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "JimmyAndTheFederationGang-2",
+            "title": "Star Trek Season 2",
+            "desc": "Season 2: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
+            "start": "1966",
+            "end": "1969",
+            "imdb": "tt0060028",
+            "group": "Star Trek"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "JimmyAndTheFederationGang3",
+            "title": "Star Trek Season 3",
+            "desc": "Season 3: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
+            "start": "1966",
+            "end": "1969",
+            "imdb": "tt0060028",
+            "group": "Star Trek"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
             "identifier": "AdventuresOfSupermanS01e02TheHauntedLighthouse_201901",
             "title": "Adventures of Superman",
             "desc": "The Man of Steel fights crime with help from his friends at the 'Daily Planet.'",
@@ -1040,42 +1095,45 @@
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "JimmyAndTheFederationGang",
-            "title": "Star Trek Season 1",
-            "desc": "Season 1: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
-            "start": "1966",
-            "end": "1969",
-            "imdb": "tt0060028"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "JimmyAndTheFederationGang-2",
-            "title": "Star Trek Season 2",
-            "desc": "Season 2: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
-            "start": "1966",
-            "end": "1969",
-            "imdb": "tt0060028"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "JimmyAndTheFederationGang3",
-            "title": "Star Trek Season 3",
-            "desc": "Season 3: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
-            "start": "1966",
-            "end": "1969",
-            "imdb": "tt0060028"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
             "identifier": "the-time-tunnel",
             "title": "The Time Tunnel",
             "desc": "Two scientists with a secret time travel project find themselves trapped in the time stream and appearing in notable periods of history.",
             "start": "1966",
             "end": "1967",
             "imdb": "tt0060036"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "s-01-e-32-crossroads",
+            "title": "Wanted: Dead Or Alive Season 1",
+            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
+            "start": "1958",
+            "end": "1961",
+            "imdb": "tt0051327",
+            "group": "Wanted: Dead or Alive"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "s-02-e-01-montana-kid",
+            "title": "Wanted: Dead Or Alive Season 2",
+            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
+            "start": "1958",
+            "end": "1961",
+            "imdb": "tt0051327",
+            "group": "Wanted: Dead or Alive"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "s-03-e-03-journey-for-josh",
+            "title": "Wanted: Dead Or Alive Season 3",
+            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
+            "start": "1958",
+            "end": "1961",
+            "imdb": "tt0051327",
+            "group": "Wanted: Dead or Alive"
         },
         {
             "category": "western",
@@ -1136,46 +1194,6 @@
             "start": "1951",
             "end": "1957",
             "imdb": "tt0043225"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s-01-e-32-crossroads",
-            "title": "Wanted: Dead Or Alive Season 1",
-            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0051327"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s-02-e-01-montana-kid",
-            "title": "Wanted: Dead Or Alive Season 2",
-            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0051327"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s-03-e-03-journey-for-josh",
-            "title": "Wanted: Dead Or Alive Season 3",
-            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0051327"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "fat-albert-72",
-            "title": "Fat Albert & the Cosby Kids",
-            "desc": "The educational adventures of a group of Afro-American inner city kids.",
-            "start": "1972",
-            "end": "1985",
-            "imdb": "tt0068072"
         }
     ]
 }
