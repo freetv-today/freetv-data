@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-07T22:39:40.000Z",
+    "lastupdated": "2025-10-08T03:54:11.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -41,7 +41,7 @@
             "category": "comedy",
             "status": "active",
             "identifier": "dadsarmythecompletecollection",
-            "title": "Dads Army",
+            "title": "Dad's Army",
             "desc": "A ragtag group of Home Guard volunteers prepare for an imminent German invasion during World War II.",
             "start": "1968",
             "end": "1977",
@@ -121,7 +121,7 @@
             "category": "comedy",
             "status": "active",
             "identifier": "mrs.-browns-boys-s-03-e-11-mammys-christmas-punch",
-            "title": "Mrs. Browns Boys",
+            "title": "Mrs. Brown's Boys",
             "desc": "A comedy centered on a loud-mouthed Irish matriarch whose favorite pastime is meddling in the lives of her six children.",
             "start": "2011",
             "end": "2014",
@@ -304,8 +304,9 @@
             "title": "Midsomer Murders Season 1",
             "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
             "start": "1997",
-            "end": "",
-            "imdb": "tt0118401"
+            "end": "2025",
+            "imdb": "tt0118401",
+            "group": "Midsomer Murders"
         },
         {
             "category": "mystery",
@@ -314,8 +315,9 @@
             "title": "Midsomer Murders Season 2",
             "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
             "start": "1997",
-            "end": "",
-            "imdb": "tt0118401"
+            "end": "2025",
+            "imdb": "tt0118401",
+            "group": "Midsomer Murders"
         },
         {
             "category": "mystery",
@@ -324,8 +326,9 @@
             "title": "Midsomer Murders Season 3",
             "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
             "start": "1997",
-            "end": "",
-            "imdb": "tt0118401"
+            "end": "2025",
+            "imdb": "tt0118401",
+            "group": "Midsomer Murders"
         },
         {
             "category": "mystery",
@@ -370,6 +373,50 @@
         {
             "category": "sci-fi",
             "status": "active",
+            "identifier": "doctor-who-2005-s01",
+            "title": "Doctor Who (2005) Series 1",
+            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
+            "start": "2005",
+            "end": "2007",
+            "imdb": "tt0436992",
+            "group": "Doctor Who (2005)"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "season-2-202315",
+            "title": "Doctor Who (2005) Series 2",
+            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
+            "start": "2005",
+            "end": "2007",
+            "imdb": "tt0436992",
+            "group": "Doctor Who (2005)"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "Space1999.Series1",
+            "title": "Space 1999 Series 1",
+            "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
+            "start": "1975",
+            "end": "1977",
+            "imdb": "tt0072564",
+            "group": "Space 1999"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "Space1999.Series1_201602",
+            "title": "Space 1999 Series 2",
+            "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
+            "start": "1975",
+            "end": "1977",
+            "imdb": "tt0072564",
+            "group": "Space 1999"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
             "identifier": "doctor-who_202210",
             "title": "Doctor Who (1963)",
             "desc": "The adventures of 'The Doctor', a Time Lord who changes appearance and personality by regenerating when near death.",
@@ -380,52 +427,12 @@
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "doctor-who-2005-s01",
-            "title": "Doctor Who (2005) Series 1",
-            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
-            "start": "2005",
-            "end": "2007",
-            "imdb": "tt0436992"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "season-2-202315",
-            "title": "Doctor Who (2005) Series 2",
-            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
-            "start": "2005",
-            "end": "2007",
-            "imdb": "tt0436992"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
             "identifier": "the-hitchhikers-guide-to-the-galaxy-complete-series-1981",
             "title": "Hitchhikers Guide to the Galaxy",
             "desc": "Arthur Dent and his friend, Ford Prefect, escape the destruction of Earth, only to face incredible trials, tribulations and adventures in space and time.",
             "start": "1981",
             "end": "1981",
             "imdb": "tt0081874"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "Space1999.Series1",
-            "title": "Space 1999 Series 1",
-            "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
-            "start": "1975",
-            "end": "1977",
-            "imdb": "tt0072564"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "Space1999.Series1_201602",
-            "title": "Space 1999 Series 2",
-            "desc": "Follows the crew of Moonbase Alpha who struggle to survive when a massive explosion throws the Moon from Earths orbit and out into deep space.",
-            "start": "1975",
-            "end": "1977",
-            "imdb": "tt0072564"
         },
         {
             "category": "sci-fi",

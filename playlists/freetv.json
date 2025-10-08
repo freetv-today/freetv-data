@@ -1,11 +1,11 @@
 {
-    "lastupdated": "2025-10-07T22:39:30.000Z",
+    "lastupdated": "2025-10-08T03:47:17.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
     "author": "Free TV",
     "email": "support@freetv.today",
-    "link": "https://freetv.today",
+    "link": "https:\/\/freetv.today",
     "shows": [
         {
             "category": "animation",
@@ -502,16 +502,6 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "the.-drew.-carey.-show.-1995.720p.-rew.-dd-2.0.x-264",
-            "title": "The Drew Carey Show",
-            "desc": "A sitcom about Drew's personal and professional life.",
-            "start": "1995",
-            "end": "2004",
-            "imdb": "tt0111945"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
             "identifier": "the-lucy-show-lucy-buys-a-boat",
             "title": "The Lucy Show",
             "desc": "The wacky misadventures of a forever-scheming woman (Lucille Ball), her reluctant best friend, and her cantankerous boss.",
@@ -784,7 +774,7 @@
             "status": "active",
             "identifier": "GreenHornetTV",
             "title": "The Green Hornet",
-            "desc": "A newspaper publisher and his Asian valet/martial arts expert battle crime as the feared Green Hornet and Kato.",
+            "desc": "A newspaper publisher and his Asian valet\/martial arts expert battle crime as the feared Green Hornet and Kato.",
             "start": "1966",
             "end": "1967",
             "imdb": "tt0059991"
@@ -1013,8 +1003,8 @@
             "category": "mystery",
             "status": "active",
             "identifier": "HardyBoysNancyDrew",
-            "title": "Hardy Boys/Nancy Drew Mysteries",
-            "desc": "The Hardy Boys/Nancy Drew Mysteries is a television series which aired for three seasons on ABC. The series starred Parker Stevenson and Shaun Cassidy as detective brothers Frank and Joe Hardy, respectively, and Pamela Sue Martin as amateur sleuth Nancy Drew.",
+            "title": "Hardy Boys\/Nancy Drew Mysteries",
+            "desc": "The Hardy Boys\/Nancy Drew Mysteries is a television series which aired for three seasons on ABC. The series starred Parker Stevenson and Shaun Cassidy as detective brothers Frank and Joe Hardy, respectively, and Pamela Sue Martin as amateur sleuth Nancy Drew.",
             "start": "1977",
             "end": "1979",
             "imdb": "tt0075513"
@@ -1101,39 +1091,6 @@
             "start": "1966",
             "end": "1967",
             "imdb": "tt0060036"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s-01-e-32-crossroads",
-            "title": "Wanted: Dead Or Alive Season 1",
-            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0051327",
-            "group": "Wanted: Dead or Alive"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s-02-e-01-montana-kid",
-            "title": "Wanted: Dead Or Alive Season 2",
-            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0051327",
-            "group": "Wanted: Dead or Alive"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s-03-e-03-journey-for-josh",
-            "title": "Wanted: Dead Or Alive Season 3",
-            "desc": "A Civil War veteran with a sawed-off rifle as a holstered weapon makes a living as a bounty hunter in the Wild West of the 1870s.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0051327",
-            "group": "Wanted: Dead or Alive"
         },
         {
             "category": "western",
