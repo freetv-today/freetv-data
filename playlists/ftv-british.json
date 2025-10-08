@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-08T03:54:11.000Z",
+    "lastupdated": "2025-10-08T18:08:27.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -101,7 +101,7 @@
             "category": "comedy",
             "status": "active",
             "identifier": "mpfc-remastered_hd",
-            "title": "Monty Python",
+            "title": "Monty Python's Flying Circus",
             "desc": "The original surreal sketch comedy showcase for the Monty Python troupe.",
             "start": "1969",
             "end": "1974",
@@ -333,6 +333,16 @@
         {
             "category": "mystery",
             "status": "active",
+            "identifier": "SherlockHolmesGranada",
+            "title": "Adventures of Sherlock Holmes",
+            "desc": "Sherlock Holmes and Dr Watson solve the mysteries of copper beeches, a Greek interpreter, the Norwood builder, a resident patient, the red-headed league, and one final problem.",
+            "start": "1984",
+            "end": "1985",
+            "imdb": "tt0086661"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
             "identifier": "miss-marple-1984-92",
             "title": "Miss Marple",
             "desc": "Miss Marple, an elderly woman and amateur detective whose sharp mind helps her solve a series of seemingly baffling cases.",
@@ -428,7 +438,7 @@
             "category": "sci-fi",
             "status": "active",
             "identifier": "the-hitchhikers-guide-to-the-galaxy-complete-series-1981",
-            "title": "Hitchhikers Guide to the Galaxy",
+            "title": "Hitchhiker's Guide to the Galaxy",
             "desc": "Arthur Dent and his friend, Ford Prefect, escape the destruction of Earth, only to face incredible trials, tribulations and adventures in space and time.",
             "start": "1981",
             "end": "1981",

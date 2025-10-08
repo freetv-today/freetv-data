@@ -1,12 +1,22 @@
 {
-    "lastupdated": "2025-10-08T03:47:17.000Z",
+    "lastupdated": "2025-10-08T18:08:37.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
     "author": "Free TV",
     "email": "support@freetv.today",
-    "link": "https:\/\/freetv.today",
+    "link": "https://freetv.today",
     "shows": [
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "captain-caveman-and-the-teen-angels",
+            "title": "Capt. Caveman & the Teen Angels",
+            "desc": "The adventures of a superhero caveman and a trio of female amateur detectives.",
+            "start": "1977",
+            "end": "1980",
+            "imdb": "tt0284712"
+        },
         {
             "category": "animation",
             "status": "active",
@@ -16,6 +26,16 @@
             "start": "2006",
             "end": "2008",
             "imdb": "tt1138300"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "drkatz-disc-2",
+            "title": "Dr. Katz, Professional Therapist",
+            "desc": "A therapist struggles with problems of his patients, while dealing with the ones in his personal life.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0111942"
         },
         {
             "category": "animation",
@@ -31,7 +51,7 @@
             "category": "animation",
             "status": "active",
             "identifier": "08.-three-predictions-of-dr.-doom",
-            "title": "Fantastic Four",
+            "title": "Fantastic Four (1967)",
             "desc": "Four costumed superheroes battle the world's most terrifying villains.",
             "start": "1967",
             "end": "1968",
@@ -116,6 +136,16 @@
             "start": "1999",
             "end": "2004",
             "imdb": "tt0197159"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "inspector-gadget-go-go-gadget-series",
+            "title": "Inspector Gadget",
+            "desc": "A bumbling cyborg inspector outfitted with an array of bizarre gadgets pursues the criminal organization M.A.D., all while his precocious niece and dog do the real investigative work.",
+            "start": "1983",
+            "end": "1986",
+            "imdb": "tt0085033"
         },
         {
             "category": "animation",
@@ -210,6 +240,26 @@
         {
             "category": "animation",
             "status": "active",
+            "identifier": "spider-man-unlimited-1999-2001",
+            "title": "Spider-Man Unlimited",
+            "desc": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical and warped version of his world.",
+            "start": "1999",
+            "end": "2001",
+            "imdb": "tt0207120"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "StarWarsCloneWars2003",
+            "title": "Star Wars: Clone Wars",
+            "desc": "The events and battles of the Galactic Republic's last major war are recounted.",
+            "start": "2003",
+            "end": "2005",
+            "imdb": "tt0361243"
+        },
+        {
+            "category": "animation",
+            "status": "active",
             "identifier": "s-01-e-04-the-weather-maker",
             "title": "Super Friends",
             "desc": "The greatest of the DC Comics superheroes work together to uphold the good with the help of some young proteges.",
@@ -240,6 +290,16 @@
         {
             "category": "animation",
             "status": "active",
+            "identifier": "the-incredble-hulk-1966-complete-series-english",
+            "title": "The Incredible Hulk (1966)",
+            "desc": "The adventures of a nuclear scientist cursed with the tendency to turning into a huge green brute under stress.",
+            "start": "1966",
+            "end": "1966",
+            "imdb": "tt0206488"
+        },
+        {
+            "category": "animation",
+            "status": "active",
             "identifier": "the.-jetsons",
             "title": "The Jetsons",
             "desc": "The misadventures of a futuristic family.",
@@ -256,6 +316,16 @@
             "start": "2011",
             "end": "2013",
             "imdb": "tt1726839"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "The_Maxx",
+            "title": "The Maxx",
+            "desc": "Confused hulking homeless superhero The Maxx tries to protect his social worker and friend Julie from an omniscient serial killer Mr. Gone both in the real world, which may or may not actually be real, and the subconscious fantasy world.",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112065"
         },
         {
             "category": "animation",
@@ -316,6 +386,16 @@
             "start": "1992",
             "end": "1997",
             "imdb": "tt0103584"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "yu-gi-oh-the-complete-series",
+            "title": "Yu-Gi-Oh!",
+            "desc": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.",
+            "start": "2000",
+            "end": "2006",
+            "imdb": "tt0249327"
         },
         {
             "category": "comedy",
@@ -412,16 +492,6 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "Ghost-Muir",
-            "title": "Ghost & Mrs. Muir",
-            "desc": "A house is haunted by a deceased sea captain who wreaks havoc with the new tenants who were not advised of his existence.",
-            "start": "1968",
-            "end": "1970",
-            "imdb": "tt0062565"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
             "identifier": "GreenAcresCompleteSeries",
             "title": "Green Acres",
             "desc": "A New York City attorney and his wife attempt to live as farmers in the bizarre community of Hooterville.",
@@ -433,7 +503,7 @@
             "category": "comedy",
             "status": "active",
             "identifier": "its_always_sunny_complete_archive",
-            "title": "Its Always Sunny in Philadelphia",
+            "title": "It's Always Sunny in Philadelphia",
             "desc": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia.",
             "start": "2005",
             "end": "2025",
@@ -498,6 +568,16 @@
             "start": "1972",
             "end": "1978",
             "imdb": "tt0068049"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "Ghost-Muir",
+            "title": "The Ghost & Mrs. Muir",
+            "desc": "A house is haunted by a deceased sea captain who wreaks havoc with the new tenants who were not advised of his existence.",
+            "start": "1968",
+            "end": "1970",
+            "imdb": "tt0062565"
         },
         {
             "category": "comedy",
@@ -682,6 +762,50 @@
         {
             "category": "drama",
             "status": "active",
+            "identifier": "millennium-season-one-1996",
+            "title": "Millennium Season 1",
+            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 1.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0115270",
+            "group": "Millennium"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "22-the-fourth-horseman-millennium-season-2-1996-1999",
+            "title": "Millennium Season 2",
+            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 2.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0115270",
+            "group": "Millennium"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-1",
+            "title": "Man from UNCLE Season 1",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 1.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765",
+            "group": "The Man from UNCLE"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-2",
+            "title": "Man from UNCLE Season 2",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 2.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765",
+            "group": "The Man from UNCLE"
+        },
+        {
+            "category": "drama",
+            "status": "active",
             "identifier": "adam-12.-s-01",
             "title": "Adam 12 Season 1",
             "desc": "Two regular police officers patrol Los Angeles.",
@@ -732,12 +856,12 @@
         {
             "category": "drama",
             "status": "active",
-            "identifier": "millennium-season-one-1996",
-            "title": "Millennium Season 1",
-            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium.",
-            "start": "1996",
-            "end": "1999",
-            "imdb": "tt0115270"
+            "identifier": "roots-1977-complete-original",
+            "title": "Roots (miniseries)",
+            "desc": "A dramatization of author Alex Haley's family line from ancestor Kunta Kinte's enslavement to his descendants' liberation.",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0075572"
         },
         {
             "category": "drama",
@@ -774,20 +898,10 @@
             "status": "active",
             "identifier": "GreenHornetTV",
             "title": "The Green Hornet",
-            "desc": "A newspaper publisher and his Asian valet\/martial arts expert battle crime as the feared Green Hornet and Kato.",
+            "desc": "A newspaper publisher and his Asian valet/martial arts expert battle crime as the feared Green Hornet and Kato.",
             "start": "1966",
             "end": "1967",
             "imdb": "tt0059991"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-1",
-            "title": "The Man from U.N.C.L.E.",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765"
         },
         {
             "category": "drama",
@@ -808,6 +922,26 @@
             "start": "1972",
             "end": "1981",
             "imdb": "tt0068149"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "v-the-original-mini-series-pt-1",
+            "title": "V (miniseries)",
+            "desc": "A seemingly peaceful alien race, arrives at earth and asks for help to ensure their own planets survival. However, the visitors agenda turns out be much darker.",
+            "start": "1983",
+            "end": "1983",
+            "imdb": "tt0085106"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "v-the-series-1984-85-s-01e-01-liberation-day-hevc",
+            "title": "V (TV series)",
+            "desc": "A year after Liberation Day, courtesy of the red-dust bacteria, the humanoid, lizard-like aliens develop a resistance to the micro-organism and try to regain control of the Earth--only now, some humans are knowingly working with them.",
+            "start": "1984",
+            "end": "1985",
+            "imdb": "tt0086822"
         },
         {
             "category": "drama",
@@ -1003,11 +1137,31 @@
             "category": "mystery",
             "status": "active",
             "identifier": "HardyBoysNancyDrew",
-            "title": "Hardy Boys\/Nancy Drew Mysteries",
-            "desc": "The Hardy Boys\/Nancy Drew Mysteries is a television series which aired for three seasons on ABC. The series starred Parker Stevenson and Shaun Cassidy as detective brothers Frank and Joe Hardy, respectively, and Pamela Sue Martin as amateur sleuth Nancy Drew.",
+            "title": "Hardy Boys/Nancy Drew Mysteries",
+            "desc": "The Hardy Boys/Nancy Drew Mysteries is a television series which aired for three seasons on ABC. The series starred Parker Stevenson and Shaun Cassidy as detective brothers Frank and Joe Hardy, respectively, and Pamela Sue Martin as amateur sleuth Nancy Drew.",
             "start": "1977",
             "end": "1979",
             "imdb": "tt0075513"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "In-Search-Of-complete-series",
+            "title": "In Search of...",
+            "desc": "\"In Search of...\" was a 1976-1982 television series where the host, Leonard Nimoy, investigated mysterious phenomena.",
+            "start": "1976",
+            "end": "1982",
+            "imdb": "tt0074007"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "the-new-alfred-hitchcock-presents-complete",
+            "title": "New Alfred Hitchcock Presents",
+            "desc": "Updated remakes of classic stories from Alfred Hitchcock Presents (1955) and The Alfred Hitchcock Hour (1962), originally produced by the Master of Suspense. This version featured remakes of episodes from the original series as well as original stories.",
+            "start": "1985",
+            "end": "1989",
+            "imdb": "tt0088476"
         },
         {
             "category": "mystery",
