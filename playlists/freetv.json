@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-08T18:08:37.000Z",
+    "lastupdated": "2025-10-09T17:04:48.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -16,6 +16,16 @@
             "start": "1977",
             "end": "1980",
             "imdb": "tt0284712"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "dexters-laboratory-the-complete-series",
+            "title": "Dexter's Laboratory",
+            "desc": "The misadventures of a boy genius and his annoying sister.",
+            "start": "1996",
+            "end": "2003",
+            "imdb": "tt0115157"
         },
         {
             "category": "animation",
@@ -398,7 +408,7 @@
             "imdb": "tt0249327"
         },
         {
-            "category": "comedy",
+            "category": "sitcom",
             "status": "active",
             "identifier": "the-addams-family__season-1",
             "title": "The Addams Family Season 1",
@@ -409,7 +419,7 @@
             "group": "The Addams Family"
         },
         {
-            "category": "comedy",
+            "category": "sitcom",
             "status": "active",
             "identifier": "the-addams-family__season-2",
             "title": "The Addams Family Season 2",
@@ -432,72 +442,12 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "ALF-The-Complete-Series",
-            "title": "ALF",
-            "desc": "When an ugly creature, who loves eating cats, crash-lands into the Tanner family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
-            "start": "1986",
-            "end": "1990",
-            "imdb": "tt0090390"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "benson-complete-tv-series-ctv",
-            "title": "Benson",
-            "desc": "Sharp-tongued butler, Benson DuBois, is the governor's director of household affairs.",
-            "start": "1979",
-            "end": "1986",
-            "imdb": "tt0078569"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "bewitchedcomplete_202310",
-            "title": "Bewitched",
-            "desc": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
-            "start": "1964",
-            "end": "1972",
-            "imdb": "tt0057733"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "diffrent-strokes-s-01-e-19-the-trip_202402",
-            "title": "Diff'rent Strokes",
-            "desc": "Different Strokes: The misadventures of suave Park Avenue millionaire Phillip Drummond, his teenage daughter Kimberly, and their current housekeeper Edna Garrett who adopted the two pre-teenage sons of their late African American housekeeper from Harlem. ",
-            "start": "1978",
-            "end": "1986",
-            "imdb": "tt0077003"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "friends-1994-2004-full-series_20250419",
-            "title": "Friends",
-            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-            "start": "1994",
-            "end": "2004",
-            "imdb": "tt0108778"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
             "identifier": "get-smart",
             "title": "Get Smart",
             "desc": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, battles the evil forces of rival spy agency KAOS with the help of his competent partner Agent 99.",
             "start": "1965",
             "end": "1970",
             "imdb": "tt0058805"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "GreenAcresCompleteSeries",
-            "title": "Green Acres",
-            "desc": "A New York City attorney and his wife attempt to live as farmers in the bizarre community of Hooterville.",
-            "start": "1965",
-            "end": "1971",
-            "imdb": "tt0058808"
         },
         {
             "category": "comedy",
@@ -522,36 +472,6 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "married-with-children-woc",
-            "title": "Married With Children",
-            "desc": "Al Bundy is the quintessential working-class dad while his wife, Peggy, always wants more.",
-            "start": "1987",
-            "end": "1997",
-            "imdb": "tt0092400"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "newsradio-1995-99",
-            "title": "NewsRadio",
-            "desc": "Workplace sitcom explores office politics and interpersonal relationships of the staff at WNYX NewsRadio",
-            "start": "1995",
-            "end": "1999",
-            "imdb": "tt0112095"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "Petticoat_Junction_Series",
-            "title": "Petticoat Junction",
-            "desc": "The misadventures of the family staff of The Shady Rest Hotel and their neighbors of Hooterville.",
-            "start": "1963",
-            "end": "1970",
-            "imdb": "tt0056780"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
             "identifier": "the-super-dave-osborne-show",
             "title": "Super Dave",
             "desc": "Battered and abused stuntman Super Dave Osborne gets his own nighttime talk show.",
@@ -560,7 +480,7 @@
             "imdb": "tt0092456"
         },
         {
-            "category": "comedy",
+            "category": "sitcom",
             "status": "active",
             "identifier": "TheBobNewhartShow",
             "title": "The Bob Newhart Show",
@@ -568,16 +488,6 @@
             "start": "1972",
             "end": "1978",
             "imdb": "tt0068049"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "Ghost-Muir",
-            "title": "The Ghost & Mrs. Muir",
-            "desc": "A house is haunted by a deceased sea captain who wreaks havoc with the new tenants who were not advised of his existence.",
-            "start": "1968",
-            "end": "1970",
-            "imdb": "tt0062565"
         },
         {
             "category": "comedy",
@@ -618,6 +528,16 @@
             "start": "2007",
             "end": "2011",
             "imdb": "tt0840979"
+        },
+        {
+            "category": "documentary",
+            "status": "active",
+            "identifier": "mayday-aci",
+            "title": "Air Crash Investigation",
+            "desc": "Dramatized reconstruction of real-life air disasters, along with interviews with aviation experts and eyewitnesses. Also known as \"Mayday\". ",
+            "start": "2003",
+            "end": "2025",
+            "imdb": "tt0386950"
         },
         {
             "category": "documentary",
@@ -674,7 +594,7 @@
             "status": "active",
             "identifier": "forensic-files-collection",
             "title": "Forensic Files",
-            "desc": "Forensic Files is an American documentary television series that details how various crimes are solved with the use of forensic science.",
+            "desc": "A series featuring detailed accounts on how notable crimes and diseases were solved through forensic science.",
             "start": "1996",
             "end": "2011",
             "imdb": "tt0247882"
@@ -742,6 +662,16 @@
         {
             "category": "documentary",
             "status": "active",
+            "identifier": "lost-civilizations",
+            "title": "Time Life's Lost Civilizations",
+            "desc": "The secrets of lives once lived. Never before could you get so close to 7000 years of history! ",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112054"
+        },
+        {
+            "category": "documentary",
+            "status": "active",
             "identifier": "walkingwithdinosaurs1999miniseries",
             "title": "Walking With Dinosaurs",
             "desc": "Documentary-style series about the era of the dinosaurs, mixing real locations and CGI.",
@@ -762,6 +692,105 @@
         {
             "category": "drama",
             "status": "active",
+            "identifier": "doogie-howser-m.d.-season-1-of-4-xvid-avi",
+            "title": "Doogie Howser, M.D. Season 1",
+            "desc": "A teenage genius deals with the usual problems of growing up, on top of being a licensed physician in a difficult residency program.",
+            "start": "1989",
+            "end": "1993",
+            "imdb": "tt0096569",
+            "group": "Doogie Howser, M.D."
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "doogie-howser-m.d.-season-2-of-4-xvid-avi",
+            "title": "Doogie Howser, M.D. Season 2",
+            "desc": "A teenage genius deals with the usual problems of growing up, on top of being a licensed physician in a difficult residency program.",
+            "start": "1989",
+            "end": "1993",
+            "imdb": "tt0096569",
+            "group": "Doogie Howser, M.D."
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "doogie-howser-m.d.-season-3-of-4-xvid-avi",
+            "title": "Doogie Howser, M.D. Season 3",
+            "desc": "A teenage genius deals with the usual problems of growing up, on top of being a licensed physician in a difficult residency program.",
+            "start": "1989",
+            "end": "1993",
+            "imdb": "tt0096569",
+            "group": "Doogie Howser, M.D."
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "doogie-howser-m.d.-season-4-of-4-xvid-avi",
+            "title": "Doogie Howser, M.D. Season 4",
+            "desc": "A teenage genius deals with the usual problems of growing up, on top of being a licensed physician in a difficult residency program.",
+            "start": "1989",
+            "end": "1993",
+            "imdb": "tt0096569",
+            "group": "Doogie Howser, M.D."
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "jake.-and.-the.-fatman.-s-01",
+            "title": "Jake and the Fatman Season 1",
+            "desc": "Veteran district attorney \"Fatman\" McCabe solves cases with the help of his easygoing private investigator partner Jake Styles.",
+            "start": "1987",
+            "end": "1992",
+            "imdb": "tt0092381",
+            "group": "Jake and the Fatman"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "jake-and-the-fatman-s02",
+            "title": "Jake and the Fatman Season 2",
+            "desc": "Veteran district attorney \"Fatman\" McCabe solves cases with the help of his easygoing private investigator partner Jake Styles.",
+            "start": "1987",
+            "end": "1992",
+            "imdb": "tt0092381",
+            "group": "Jake and the Fatman"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "jake-and-the-fatman-s03",
+            "title": "Jake and the Fatman Season 3",
+            "desc": "Veteran district attorney \"Fatman\" McCabe solves cases with the help of his easygoing private investigator partner Jake Styles.",
+            "start": "1987",
+            "end": "1992",
+            "imdb": "tt0092381",
+            "group": "Jake and the Fatman"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "jake-and-the-fatman-s04",
+            "title": "Jake and the Fatman Season 4",
+            "desc": "Veteran district attorney \"Fatman\" McCabe solves cases with the help of his easygoing private investigator partner Jake Styles.",
+            "start": "1987",
+            "end": "1992",
+            "imdb": "tt0092381",
+            "group": "Jake and the Fatman"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "jake-and-the-fatman-s05",
+            "title": "Jake and the Fatman Season 5",
+            "desc": "Veteran district attorney \"Fatman\" McCabe solves cases with the help of his easygoing private investigator partner Jake Styles.",
+            "start": "1987",
+            "end": "1992",
+            "imdb": "tt0092381",
+            "group": "Jake and the Fatman"
+        },
+        {
+            "category": "drama",
+            "status": "active",
             "identifier": "millennium-season-one-1996",
             "title": "Millennium Season 1",
             "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 1.",
@@ -776,6 +805,17 @@
             "identifier": "22-the-fourth-horseman-millennium-season-2-1996-1999",
             "title": "Millennium Season 2",
             "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 2.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0115270",
+            "group": "Millennium"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "s03-millennium-season-3-1996-1999",
+            "title": "Millennium Season 3",
+            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 3.",
             "start": "1996",
             "end": "1999",
             "imdb": "tt0115270",
@@ -1124,14 +1164,14 @@
             "imdb": "tt2217594"
         },
         {
-            "category": "mystery",
+            "category": "kids",
             "status": "active",
-            "identifier": "mayday-aci",
-            "title": "Air Crash Investigation",
-            "desc": "Dramatized reconstruction of real-life air disasters, along with interviews with aviation experts and eyewitnesses. Also known as \"Mayday\". ",
-            "start": "2003",
-            "end": "2025",
-            "imdb": "tt0386950"
+            "identifier": "YCDTOTV1979-90",
+            "title": "You Can't Do That on Television",
+            "desc": "Sketch TV by young amateur actors in true classic Nickelodeon-style. But whatever you do, never admit that you don't know (or ask for water).",
+            "start": "1979",
+            "end": "2004",
+            "imdb": "tt0078714"
         },
         {
             "category": "mystery",
@@ -1172,6 +1212,61 @@
             "start": "1954",
             "end": "1955",
             "imdb": "tt0046642"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "farscape-s-01",
+            "title": "Farscape Season 1",
+            "desc": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
+            "start": "1999",
+            "end": "2003",
+            "imdb": "tt0187636",
+            "group": "Farscape"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "farscape-s-02",
+            "title": "Farscape Season 2",
+            "desc": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
+            "start": "1993",
+            "end": "2003",
+            "imdb": "tt0187636",
+            "group": "Farscape"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "farscape-s-03-",
+            "title": "Farscape Season 3",
+            "desc": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
+            "start": "1999",
+            "end": "2003",
+            "imdb": "tt0187636",
+            "group": "Farscape"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "farscape-s-04",
+            "title": "Farscape Season 4",
+            "desc": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
+            "start": "1999",
+            "end": "2003",
+            "imdb": "tt0187636",
+            "group": "Farscape"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "farscape-the-peacekeeper-wars",
+            "title": "Farscape: The Peacekeeper Wars",
+            "desc": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
+            "start": "1999",
+            "end": "2003",
+            "imdb": "tt0187636",
+            "group": "Farscape"
         },
         {
             "category": "sci-fi",
@@ -1247,6 +1342,170 @@
             "imdb": "tt0060036"
         },
         {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "mister-ed-s-01",
+            "title": "Mister Ed Season 1",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "mister-ed-s-02-",
+            "title": "Mister Ed Season 2",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "mister-ed-s-03",
+            "title": "Mister Ed Season 3",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "mister-ed-s-04",
+            "title": "Mister Ed Season 4",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "ALF-The-Complete-Series",
+            "title": "ALF",
+            "desc": "When an ugly creature, who loves eating cats, crash-lands into the Tanner family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
+            "start": "1986",
+            "end": "1990",
+            "imdb": "tt0090390"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "benson-complete-tv-series-ctv",
+            "title": "Benson",
+            "desc": "Sharp-tongued butler, Benson DuBois, is the governor's director of household affairs.",
+            "start": "1979",
+            "end": "1986",
+            "imdb": "tt0078569"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "bewitchedcomplete_202310",
+            "title": "Bewitched",
+            "desc": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
+            "start": "1964",
+            "end": "1972",
+            "imdb": "tt0057733"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "diffrent-strokes-s-01-e-19-the-trip_202402",
+            "title": "Diff'rent Strokes",
+            "desc": "Different Strokes: The misadventures of suave Park Avenue millionaire Phillip Drummond, his teenage daughter Kimberly, and their current housekeeper Edna Garrett who adopted the two pre-teenage sons of their late African American housekeeper from Harlem. ",
+            "start": "1978",
+            "end": "1986",
+            "imdb": "tt0077003"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "friends-1994-2004-full-series_20250419",
+            "title": "Friends",
+            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+            "start": "1994",
+            "end": "2004",
+            "imdb": "tt0108778"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "GreenAcresCompleteSeries",
+            "title": "Green Acres",
+            "desc": "A New York City attorney and his wife attempt to live as farmers in the bizarre community of Hooterville.",
+            "start": "1965",
+            "end": "1971",
+            "imdb": "tt0058808"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "leave-it-to-beaver-the-complete-series-1957-1963",
+            "title": "Leave It to Beaver",
+            "desc": "The misadventures of a suburban boy, family and friends.",
+            "start": "1957",
+            "end": "1963",
+            "imdb": "tt0050032"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "married-with-children-woc",
+            "title": "Married With Children",
+            "desc": "Al Bundy is the quintessential working-class dad while his wife, Peggy, always wants more.",
+            "start": "1987",
+            "end": "1997",
+            "imdb": "tt0092400"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "newsradio-1995-99",
+            "title": "NewsRadio",
+            "desc": "Workplace sitcom explores office politics and interpersonal relationships of the staff at WNYX NewsRadio",
+            "start": "1995",
+            "end": "1999",
+            "imdb": "tt0112095"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "Petticoat_Junction_Series",
+            "title": "Petticoat Junction",
+            "desc": "The misadventures of the family staff of The Shady Rest Hotel and their neighbors of Hooterville.",
+            "start": "1963",
+            "end": "1970",
+            "imdb": "tt0056780"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "roseanne_202507",
+            "title": "Roseanne",
+            "desc": "Stars Roseanne Barr as Roseanne Conner and features her everyday American working-class family in the fictional town of Lanford, Illinois. Originally aired on ABC from 1988 to 1997, and was briefly revived in 2018. ",
+            "start": "1988",
+            "end": "2018",
+            "imdb": "tt0094540"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "Ghost-Muir",
+            "title": "The Ghost & Mrs. Muir",
+            "desc": "A house is haunted by a deceased sea captain who wreaks havoc with the new tenants who were not advised of his existence.",
+            "start": "1968",
+            "end": "1970",
+            "imdb": "tt0062565"
+        },
+        {
             "category": "western",
             "status": "active",
             "identifier": "Alias-Smith-And-Jones-1973",
@@ -1305,6 +1564,280 @@
             "start": "1951",
             "end": "1957",
             "imdb": "tt0043225"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "s-01-e-01-x-02-x-03-saga-of-the-worlds_202502",
+            "title": "Battlestar Galactica (1978)",
+            "desc": "After the destruction of the Twelve Colonies of Mankind, the last major fighter carrier leads a makeshift fugitive fleet on a desperate search for the legendary planet Earth.",
+            "start": "1978",
+            "end": "1979",
+            "imdb": "tt0076984"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "familymatters_202507",
+            "title": "Family Matters",
+            "desc": "The Winslow family deals with various misadventures, many of them caused by their pesky next-door neighbor, ultra-nerd Steve Urkel.",
+            "start": "1989",
+            "end": "1998",
+            "imdb": "tt0096579"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "madtv-s-01-e-04/MADtv+-+S08E05+-+Episode+%23805.mkv",
+            "title": "Mad TV",
+            "desc": "A sketch comedy show based on the seminal Mad Magazine.",
+            "start": "1995",
+            "end": "2016",
+            "imdb": "tt0112056"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "savedbythebell_202507",
+            "title": "Saved By The Bell",
+            "desc": "A close-knit group of six friends get through their teens together while attending Bayside High School in Palisades, California.",
+            "start": "1989",
+            "end": "1992",
+            "imdb": "tt0096694"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-1x-01-02-the-sandkings",
+            "title": "The Outer Limits Season 1",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 1.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-2x-06-beyond-the-veil",
+            "title": "The Outer Limits Season 2",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 2.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-3x-01-bits-of-love",
+            "title": "The Outer Limits Season 3",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 3.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-4x-11-the-vaccine",
+            "title": "The Outer Limits Season 4",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 4.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-5x-13-summit",
+            "title": "The Outer Limits Season 5",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 5.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-6x-21-final-appeal-part-1",
+            "title": "The Outer Limits Season 6",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 6.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-outer-limits-7x-19-the-tipping-point",
+            "title": "The Outer Limits Season 7",
+            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 7.",
+            "start": "1995",
+            "end": "2002",
+            "imdb": "tt0112111",
+            "group": "The Outer Limits"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "snorks-complete-series",
+            "title": "Snorks",
+            "desc": "The Snorks are playful, multicolored underwater creatures that use their built-in snorkels to dart about and make music.",
+            "start": "1984",
+            "end": "1988",
+            "imdb": "tt0086802"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-3",
+            "title": "Man from UNCLE Season 3",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 3.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765",
+            "group": "The Man from UNCLE"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-4",
+            "title": "Man from UNCLE Season 4",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 4.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765",
+            "group": "The Man from UNCLE"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "wishbone_20230214_20230214_1416",
+            "title": "Wishbone",
+            "desc": "An intelligent and witty dog imagines himself in the role of characters from classic books and gets involved in similar real-life adventures.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0112225"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "ep-01_20231021",
+            "title": "The Yogi Bear Show",
+            "desc": "Yogi, a smooth, talkative forest bear looks to raid park goers' picnic baskets, while Park Ranger Smith tries to stop him.",
+            "start": "1961",
+            "end": "1962",
+            "imdb": "tt0255768"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "the-land-before-time-the-complete-tv-series",
+            "title": "The Land Before Time",
+            "desc": "The further adventures of Littlefoot and his friends learning about the world of dinosaurs.",
+            "start": "2007",
+            "end": "2008",
+            "imdb": "tt0473584"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-112-adult-entertainment-vs-home-improveme",
+            "title": "MXC Season 1",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 1.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-2-complete",
+            "title": "MXC Season 2",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 2. ",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-3-complete",
+            "title": "MXC Season 3",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 3.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-4-incomplete",
+            "title": "MXC Season 4",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 4.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-5-incomplete",
+            "title": "MXC Season 5",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 5.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-tonight-show-starring-johnny-carson",
+            "title": "The Tonight Show",
+            "desc": "Host Johnny Carson performs comedy routines and chats with various celebrities.",
+            "start": "1962",
+            "end": "1992",
+            "imdb": "tt0055708"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "fraggle-toon",
+            "title": "Fraggle Rock (cartoon)",
+            "desc": "An animated version of Jim Henson's classic series.",
+            "start": "1987",
+            "end": "1988",
+            "imdb": "tt0273345"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "punky-brewster-s-01-e-15-e-16-yes-punky-there-is-a-santa-claus",
+            "title": "Punky Brewster",
+            "desc": "Young Punky Brewster is abandoned with her dog, Brandon, in a supermarket. When she befriends Henry Warnimont, her new family life begins.",
+            "start": "1984",
+            "end": "1988",
+            "imdb": "tt0086787"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "watchoutforthattree",
+            "title": "George of the Jungle",
+            "desc": "An anthology of Jay Ward cartoon creations, featuring a dumb ape man and his friends.",
+            "start": "1967",
+            "end": "1970",
+            "imdb": "tt0061256"
         }
     ]
 }

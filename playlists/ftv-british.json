@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-08T18:08:27.000Z",
+    "lastupdated": "2025-10-09T14:21:24.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -208,6 +208,16 @@
             "imdb": "tt0078680"
         },
         {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "the-professionals-complete-series-1977",
+            "title": "The Professionals",
+            "desc": "Bodie and Doyle, senior agents of the British intelligence service CI5 (Criminal Intelligence 5), and their handler George Cowley fight terrorism and similar high-level crimes.",
+            "start": "1977",
+            "end": "1983",
+            "imdb": "tt0075561"
+        },
+        {
             "category": "kids",
             "status": "active",
             "identifier": "charlie-chalk-the-complete-series-1988-89",
@@ -221,8 +231,8 @@
             "category": "kids",
             "status": "active",
             "identifier": "enchanted-world-of-brambly-hedge-1996-2000",
-            "title": "Enchanted World of Brambly Hedge",
-            "desc": "The enchanting tales of a community of field mice living in secret in a brambly hedgerow.",
+            "title": "Brambly Hedge",
+            "desc": "The enchanting tales of a community of field mice living in secret in a brambly hedgerow. The full name of the show is \"The Enchanted World of Brambly Hedge\".",
             "start": "1996",
             "end": "2000",
             "imdb": "tt0796568"
@@ -252,7 +262,7 @@
             "status": "active",
             "identifier": "noddy-goes-to-toyland-1963-arthur-humberstone",
             "title": "Noddy Goes To Toyland",
-            "desc": "While on his Bicycle. Mister Big ears encounters, a new arrival to the land of Toys. And helps him get settled. But is this newcomer really a toy?",
+            "desc": "This charming colour cartoon of Enid Blyton\u2019s timeless toy boy was produced as a pilot episode for an unrealised series. It is a faithful but curtailed version of Blyton\u2019s book of the same name, first published in 1949.",
             "start": "1963",
             "end": "1963",
             "imdb": "tt19815358"
@@ -453,6 +463,147 @@
             "start": "1970",
             "end": "1971",
             "imdb": "tt0063962"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "tales-of-the-unexpected-1979-88",
+            "title": "Tales of the Unexpected",
+            "desc": "Short dramas each with a twist of some kind; across the first four seasons most of these are from short stories by Roald Dahl.",
+            "start": "1979",
+            "end": "1988",
+            "imdb": "tt0075592"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "The_Prisoner",
+            "title": "The Prisoner",
+            "desc": "A former secret agent is abducted and taken to what looks like an idyllic village, but is actually a bizarre prison. He refuses to give his warders information while attempting to escape.",
+            "start": "1967",
+            "end": "1968",
+            "imdb": "tt0061287"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "animals-of-farthing-wood-1993-95",
+            "title": "Animals of Farthing Wood",
+            "desc": "A group of wild animal friends are forced to move to a park after humans drive them away from their old home.",
+            "start": "1993",
+            "end": "1995",
+            "imdb": "tt0286336"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "Stingray.Complete",
+            "title": "Stingray",
+            "desc": "In 2064, Captain Troy Tempest of the World Aquanaut Security Patrol and his crew explore the oceans in their combat submarine Stingray, encountering both friendly and hostile undersea aliens.",
+            "start": "1964",
+            "end": "1965",
+            "imdb": "tt0057786"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "the-tomorrow-people-1973-79",
+            "title": "The Tomorrow People",
+            "desc": "A group of teens with psychic and other paranormal abilities use their special gifts to battle evil.",
+            "start": "1973",
+            "end": "1979",
+            "imdb": "tt0069647"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "midsomer-murders-season4",
+            "title": "Midsomer Murders Season 4",
+            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
+            "start": "1997",
+            "end": "2025",
+            "imdb": "tt0118401",
+            "group": "Midsomer Murders"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "it-aint-half-hot-mum-s-06-e-04-the-dhobi-wallahs",
+            "title": "It Ain't Half Hot Mum",
+            "desc": "The comic adventures of a group of misfits who form an extremely bad concert party touring the hot and steamy jungles of Burma entertaining the troops during World War II.",
+            "start": "1974",
+            "end": "1981",
+            "imdb": "tt0081878"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "Supercar.Series1",
+            "title": "Supercar",
+            "desc": "The adventures of Mike Mercury and the crew at Black Rock Laboratory in the Nevada Desert as they test out Supercar, a vehicle capable of traveling on land, underwater, and in the air.",
+            "start": "1961",
+            "end": "1962",
+            "imdb": "tt0054567"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "noddys-toyland-adventures-1992",
+            "title": "Noddy's Toyland Adventures",
+            "desc": "Young boy Noddy experiences adventures in Toyland, hosting parties for friends. Each episode features him finding a new toy and ends with a character getting \"goo'ed\" in fun mishaps.",
+            "start": "1992",
+            "end": "2000",
+            "imdb": "tt0108881"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "star-cops-complete-series-1987",
+            "title": "Star Cops",
+            "desc": "Set in the year 2027 this follows the exploits of the fledgling International Space Police Force, nicknamed the \"Star Cops\".",
+            "start": "1987",
+            "end": "1987",
+            "imdb": "tt0088613"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "ttss_20240201",
+            "title": "Tinker, Tailor, Soldier, Spy",
+            "desc": "In the bleak days of the Cold War, espionage veteran George Smiley is forced out of semi-retirement to uncover a Soviet agent within MI6's echelons.",
+            "start": "1979",
+            "end": "1979",
+            "imdb": "tt0080297"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "dempsey-and-makepeace-complete-series-1985",
+            "title": "Dempsey and Makepeace",
+            "desc": "Dempsey, a tough NYPD cop, is sent to a London undercover police unit teamed up with the sophisticated, sexy, blonde Makepeace. They hunt down the top of London's underworld - when not quarreling.",
+            "start": "1985",
+            "end": "1986",
+            "imdb": "tt0088503"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "father-brown-complete-series-1974",
+            "title": "Father Brown",
+            "desc": "Based on the stories of G.K. Chesterton, a British Catholic Priest solves mysteries.",
+            "start": "1974",
+            "end": "1974",
+            "imdb": "tt0069582"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "raffles-complete-series-1975",
+            "title": "Raffles",
+            "desc": "A.J. Raffles, a gentleman cricketer, leads a double life as a jewel thief, aided by his friend Bunny Manders. He steals from the wealthy while occasionally playing detective across Edwardian England.",
+            "start": "1975",
+            "end": "1977",
+            "imdb": "tt0075563"
         }
     ]
 }

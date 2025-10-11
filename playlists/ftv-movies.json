@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-08T18:08:06.000Z",
+    "lastupdated": "2025-10-09T02:40:11.000Z",
     "dbtitle": "Movies",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -65,6 +65,16 @@
             "start": "2005",
             "end": "2005",
             "imdb": "tt0320661"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "revenge.of.the.-ninja.-1983.1080p.-blu-ray.-h-264.-aac-rarbg",
+            "title": "Revenge Of The Ninja",
+            "desc": "After ninjas killed his family, Cho and his son Kane come to America to start a new life. He opens a doll shop but is unwittingly importing heroin in the dolls. When his friend betrays him, Cho must prepare for the ultimate battle.",
+            "start": "1983",
+            "end": "1983",
+            "imdb": "tt0086192"
         },
         {
             "category": "action",
