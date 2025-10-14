@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-09T17:04:48.000Z",
+    "lastupdated": "2025-10-14T17:51:39.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -512,7 +512,7 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "the-red-green-show",
+            "identifier": "the-red-green-show-s-11-m-01-duct-tape-forever-2002-360p-re-dvdrip_202306",
             "title": "The Red Green Show",
             "desc": "Red Green airs his handyman show from Possum Lodge, Canada, and experiences some zany adventures in real life.",
             "start": "1991",
