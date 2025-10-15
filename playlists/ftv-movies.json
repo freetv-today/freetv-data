@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-09T02:40:11.000Z",
+    "lastupdated": "2025-10-15T16:14:49.000Z",
     "dbtitle": "Movies",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -355,6 +355,156 @@
             "start": "1951",
             "end": "1951",
             "imdb": "tt0043456"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "jason-and-the-argonauts-1963",
+            "title": "Jason And The Argonauts",
+            "desc": "The legendary Greek hero leads a team of intrepid adventurers in a perilous quest for the legendary Golden Fleece.",
+            "start": "1963",
+            "end": "1963",
+            "imdb": "tt0057197"
+        },
+        {
+            "category": "family",
+            "status": "active",
+            "identifier": "race-for-your-life-charlie-brown-1982-laserdisc",
+            "title": "Race For Your Life Charlie Brown!",
+            "desc": "The Peanuts gang goes to summer camp, and they participate in a river-raft race against some cheating bullies.",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0076591"
+        },
+        {
+            "category": "family",
+            "status": "active",
+            "identifier": "Gullivers.Travels.1939.1080p",
+            "title": "Gulliver's Travels",
+            "desc": "A doctor washes ashore on an island inhabited by little people.",
+            "start": "1939",
+            "end": "1939",
+            "imdb": "tt0031397"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "Superman1978BRRipDualAudio720pByeArnavSinha_201903",
+            "title": "Superman (1978)",
+            "desc": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0078346"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "creature-from-the-black-lagoon-1954-colorized",
+            "title": "Creature from the Black Lagoon",
+            "desc": "A strange prehistoric beast lurks in the depths of the Amazonian jungle. A group of scientists try to capture the animal and bring it back to civilization for study.",
+            "start": "1954",
+            "end": "1954",
+            "imdb": "tt0046876"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "tarantula-1955-colorized",
+            "title": "Tarantula",
+            "desc": "A spider escapes from an isolated Arizona desert laboratory experimenting in gigantism and grows to tremendous size as it wreaks havoc on the local inhabitants.",
+            "start": "1955",
+            "end": "1955",
+            "imdb": "tt0048696"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead.m2ts",
+            "title": "Night of the Living Dead",
+            "desc": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
+            "start": "1968",
+            "end": "1968",
+            "imdb": "tt0063350"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "mclintok_widescreen",
+            "title": "McLintock!",
+            "desc": "Wealthy rancher G. W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.",
+            "start": "1963",
+            "end": "1963",
+            "imdb": "tt0057298"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "TheNevadan",
+            "title": "The Nevadan",
+            "desc": "A mysterious stranger crosses paths with an outlaw bank robber and a greedy rancher.",
+            "start": "1950",
+            "end": "1950",
+            "imdb": "tt0042782"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "young-guns",
+            "title": "Young Guns",
+            "desc": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt0096487"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "young-guns-ii",
+            "title": "Young Guns II",
+            "desc": "Billy the Kid and his band of outlaws are pursued across New Mexico territory by Sheriff Pat Garrett, who the young gunslingers must face-off with if they are to reach the safety of the border.",
+            "start": "1990",
+            "end": "1990",
+            "imdb": "tt0100994"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-fury-1978-kirk-douglas-john-cassavetes-384756681456",
+            "title": "The Fury",
+            "desc": "A former CIA agent uses the talents of a young psychic to help retrieve his telekinetic son from a shadowy secret government agency.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0077588"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "TheMagicSwordWidescreenQualityUpgrade",
+            "title": "The Magic Sword",
+            "desc": "The son of a sorceress, armed with weapons, armor and six magically summoned knights, embarks on a quest to save a princess from a vengeful wizard.",
+            "start": "1962",
+            "end": "1962",
+            "imdb": "tt0056211"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "tron_20241110",
+            "title": "Tron (1982)",
+            "desc": "A computer hacker is abducted into a digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
+            "start": "1982",
+            "end": "1982",
+            "imdb": "tt0084827"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "soylent-green-1973_20210310",
+            "title": "Soylent Green",
+            "desc": "A nightmarish futuristic fantasy about the controlling power of big corporations and an innocent cop who stumbles on the truth.",
+            "start": "1973",
+            "end": "1973",
+            "imdb": "tt0070723"
         }
     ]
 }

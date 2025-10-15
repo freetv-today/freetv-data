@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-14T17:51:39.000Z",
+    "lastupdated": "2025-10-15T16:44:36.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -28,7 +28,7 @@
             "imdb": "tt0115157"
         },
         {
-            "category": "animation",
+            "category": "anime",
             "status": "active",
             "identifier": "digimon-data-squad-the-complete-series",
             "title": "Digimon Data Squad",
@@ -88,7 +88,7 @@
             "imdb": "tt0111970"
         },
         {
-            "category": "animation",
+            "category": "anime",
             "status": "active",
             "identifier": "g-force-guardians-of-space",
             "title": "G-Force",
@@ -128,7 +128,7 @@
             "imdb": "tt0292800"
         },
         {
-            "category": "animation",
+            "category": "anime",
             "status": "active",
             "identifier": "hamtaro_complete_series",
             "title": "Hamtaro",
@@ -178,7 +178,7 @@
             "imdb": "tt0118375"
         },
         {
-            "category": "animation",
+            "category": "anime",
             "status": "active",
             "identifier": "legend-of-zelda-1989-complete-series",
             "title": "Legend Of Zelda",
@@ -238,7 +238,7 @@
             "imdb": "tt21153032"
         },
         {
-            "category": "animation",
+            "category": "anime",
             "status": "active",
             "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
             "title": "Sonic X",
@@ -398,7 +398,7 @@
             "imdb": "tt0103584"
         },
         {
-            "category": "animation",
+            "category": "anime",
             "status": "active",
             "identifier": "yu-gi-oh-the-complete-series",
             "title": "Yu-Gi-Oh!",
@@ -1046,7 +1046,7 @@
         {
             "category": "kids",
             "status": "active",
-            "identifier": "Goosebumps1995TVSeries",
+            "identifier": "goosebumps-s-02-e-20-and-e-21-welcome-to-dead-house",
             "title": "Goosebumps",
             "desc": "A series of scary anthology stories based on the children's books by R.L. Stine.",
             "start": "1995",
@@ -1838,6 +1838,116 @@
             "start": "1967",
             "end": "1970",
             "imdb": "tt0061256"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "our-gang-collection",
+            "title": "Our Gang",
+            "desc": "Also known as The Little Rascals or Hal Roach's Rascals, Our Gang is an American series of comedy short films chronicling a group of poor neighborhood children and their adventures.",
+            "start": "1927",
+            "end": "1938",
+            "imdb": "tt0029358"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "threestooges19341959",
+            "title": "The Three Stooges",
+            "desc": "Classic comedy shorts featuring the crazy trio.",
+            "start": "1934",
+            "end": "1959",
+            "imdb": "tt0850645"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "boop-oop-a-doop.-1932.1080p.-bluray.-dts.x-264-gcjm",
+            "title": "Betty Boop",
+            "desc": "Pioneering cartoon series (from 1930-1939) from Fleischer Studios, Betty Boop was the mirror of the stereotypical flapper, simultaneously looking for a good time and good-at-heart. ",
+            "start": "1932",
+            "end": "1938",
+            "imdb": "tt16154234"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "wild-kratts-season-1-s-01-e-01-mom-of-a-croc",
+            "title": "Wild Kratts",
+            "desc": "The Kratt Brothers and their team use their \"Creature Power\" suits to learn about and help various species of animals around the world.",
+            "start": "2011",
+            "end": "2025",
+            "imdb": "tt1807859"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "Felix-The-Cat-1919-1936",
+            "title": "Felix the Cat",
+            "desc": "Felix the Cat is a cartoon character created in 1919 by Otto Messmer and Pat Sullivan during the silent film era. He's one of the most recognized cartoon characters in history. Felix was the first recurring animal character in American animation.",
+            "start": "1919",
+            "end": "1936",
+            "imdb": "tt0141134"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "popeye-the-sailor-the-complete-series",
+            "title": "Popeye the Sailor",
+            "desc": "Popeye begins his movie career by singing his theme song, demonstrating his strength at a carnival, dancing the hula with Betty Boop, pummeling Bluto, eating his spinach and saving Olive Oyl from certain doom.",
+            "start": "1933",
+            "end": "1957",
+            "imdb": "tt0024461"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "s01e16buffalobilljr.graveofthemonsters",
+            "title": "Buffalo Bill Jr.",
+            "desc": "Buffalo Bill Jr. and his kid sister Calamity are raised under the watchful eye of Judge Ben 'Fair and Square\" Wiley. Together this dynamic trio keep law and order in small town of Wileyville, Arizona.",
+            "start": "1955",
+            "end": "1956",
+            "imdb": "tt0132652"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "neon-genesis-evangelion_1080p_adv_1996",
+            "title": "Neon Genesis Evangelion",
+            "desc": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father. Original title: Shinseiki Evangelion.",
+            "start": "1995",
+            "end": "1996",
+            "imdb": "tt0112159"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "pokemon-advanced-battle-the-complete-collection-2005-06-english-dub",
+            "title": "Pok\u00e9mon: Advanced Battle",
+            "desc": "Pok\u00e9mon: Advanced Battle is the eighth season of Pok\u00e9mon and the third season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation.",
+            "start": "2005",
+            "end": "2006",
+            "imdb": "tt0168366"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "pokemon-advanced-challenge-the-complete-collection-2004-05-english-dub",
+            "title": "Pok\u00e9mon: Advanced Challenge",
+            "desc": "Pok\u00e9mon: Advanced Challenge is the seventh season of Pok\u00e9mon and the second season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation ",
+            "start": "2004",
+            "end": "2005",
+            "imdb": "tt0168366"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "db-bebop-of-the-cowboys-1080p",
+            "title": "Cowboy Bebop",
+            "desc": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+            "start": "1998",
+            "end": "1999",
+            "imdb": "tt0213338"
         }
     ]
 }
