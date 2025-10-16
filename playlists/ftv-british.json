@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-09T14:21:24.000Z",
+    "lastupdated": "2025-10-16T13:05:57.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -604,6 +604,90 @@
             "start": "1975",
             "end": "1977",
             "imdb": "tt0075563"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "into-the-labyrinth-Complete-series-1980",
+            "title": "Into the Labyrinth",
+            "desc": "Three children stumble upon the imprisoned sorcerer Rothgo and are drawn into a mysterious search through time for the magical Nidus which has been stolen by the evil witch Belor.",
+            "start": "1981",
+            "end": "1982",
+            "imdb": "tt0081877"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "the-smuggler-complete-series-1981",
+            "title": "Smuggler",
+            "desc": "A former British naval officer turned smuggler navigates the espionage war between England and France in 1802, evading revenue officers while entangled in the clashing nations' covert operations.",
+            "start": "1981",
+            "end": "1981",
+            "imdb": "tt0081932"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-invisible-man-1984_202505",
+            "title": "The Invisible Man",
+            "desc": "A scientist named Griffin invents a way to change his body's refractive index and thus becomes invisible. He uses the opportunity to carry out random acts of violence.",
+            "start": "1984",
+            "end": "1984",
+            "imdb": "tt0087478"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-gaffer-complete-series-1981",
+            "title": "The Gaffer",
+            "desc": "The misadventures of Fred Moffatt (Bill Maynard), the owner of a run down light engineering firm, Moffat Engineering Company.",
+            "start": "1981",
+            "end": "1983",
+            "imdb": "tt0081866"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "to-the-manor-born-season-1-of-3-tv-series-1979-xvid-avi",
+            "title": "To The Manor Born Series 1",
+            "desc": "Following her husband's passing, Audrey fforbes-Hamilton is forced to sell her stately home. While she comes to terms with her downward mobility, she decides to show the new owner a thing or two about \"nobility\". Series 1.",
+            "start": "1979",
+            "end": "1981",
+            "imdb": "tt0078703",
+            "group": "To The Manor Born"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "to-the-manor-born-season-2-of-3-tv-series-1979-xvid-avi",
+            "title": "To The Manor Born Series 2",
+            "desc": "Following her husband's passing, Audrey fforbes-Hamilton is forced to sell her stately home. While she comes to terms with her downward mobility, she decides to show the new owner a thing or two about \"nobility\". Series 2.",
+            "start": "1979",
+            "end": "1981",
+            "imdb": "tt0078703",
+            "group": "To The Manor Born"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "to-the-manor-born-season-3-of-3-tv-series-1979-xvid-avi",
+            "title": "To The Manor Born Series 3",
+            "desc": "Following her husband's passing, Audrey fforbes-Hamilton is forced to sell her stately home. While she comes to terms with her downward mobility, she decides to show the new owner a thing or two about \"nobility\".",
+            "start": "1979",
+            "end": "1981",
+            "imdb": "tt0078703",
+            "group": "To The Manor Born"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "to-the-manor-born-christmas-special-tv-series-1979-xvid-avi",
+            "title": "Christmas Special (1979)",
+            "desc": "Following her husband's passing, Audrey fforbes-Hamilton is forced to sell her stately home. While she comes to terms with her downward mobility, she decides to show the new owner a thing or two about \"nobility\". Christmas Special (1979).",
+            "start": "1979",
+            "end": "1981",
+            "imdb": "tt0078703",
+            "group": "To The Manor Born"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-15T16:44:36.000Z",
+    "lastupdated": "2025-10-16T14:52:28.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -1261,7 +1261,7 @@
             "category": "sci-fi",
             "status": "active",
             "identifier": "farscape-the-peacekeeper-wars",
-            "title": "Farscape: The Peacekeeper Wars",
+            "title": "The Peacekeeper Wars",
             "desc": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
             "start": "1999",
             "end": "2003",
@@ -1312,9 +1312,9 @@
             "imdb": "tt0044231"
         },
         {
-            "category": "sci-fi",
+            "category": "horror",
             "status": "active",
-            "identifier": "KolchakTheNightStalker",
+            "identifier": "kolchak-the-night-stalker-complete-series-1972",
             "title": "Kolchak: the Night Stalker",
             "desc": "Carl Kolchak is a reporter for a Chicago newspaper. Through more accident than design he ends up investigating homicides, many of which involve supernatural forces. Ultimately, rather than reporting on the crimes, he solves them.",
             "start": "1974",
@@ -1948,6 +1948,188 @@
             "start": "1998",
             "end": "1999",
             "imdb": "tt0213338"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-master-complete-series-1984",
+            "title": "The Master",
+            "desc": "An aging American ninja master and his headstrong young apprentice search for the elder man's daughter.",
+            "start": "1984",
+            "end": "1984",
+            "imdb": "tt0086756"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "beyond-westworld-Complete-Series-1980",
+            "title": "Beyond Westworld",
+            "desc": "The security chief of an android manufacturing company must stop a mad scientist, who's sending the failed theme park's androids to infiltrate society for his own ends.",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0080198"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "barney-bear-1939-xvid",
+            "title": "Barney Bear",
+            "desc": "Barney Bear is an American series of animated cartoon short subjects produced by Metro-Goldwyn-Mayer cartoon studio. The title character is an anthropomorphic cartoon character, a sluggish, sleepy bear who often is in pursuit of peace and quiet.",
+            "start": "1939",
+            "end": "1954",
+            "imdb": "tt0036626"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "legend-complete-series-1995",
+            "title": "Legend (1995)",
+            "desc": "In the waning days of the 19th century, dime novelist Ernest Pratt assumes the persona of his noble literary hero, Nicodemus Legend, and roams the Old West with his scientist friend Dr. Janos Bartok.",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112045"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "Spider-Man-67-Collection",
+            "title": "Spider-Man (1967)",
+            "desc": "Original cartoon series based on the web-slinging Marvel comic book character, Peter Parker, who, after being bit by a radioactive spider, assumes extraordinary powers.",
+            "start": "1967",
+            "end": "1970",
+            "imdb": "tt0061301"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "tmnt-2003_202404",
+            "title": "Teenage Mutant Ninja Turtles",
+            "desc": "Follows the adventures of the Teenage Mutant Ninja Turtles, with this iteration being based on the stories from the original mirage comic books.",
+            "start": "2003",
+            "end": "2010",
+            "imdb": "tt0318913"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "rl-stines-the-haunting-hour-full-series",
+            "title": "The Haunting Hour",
+            "desc": "R.L. Stine leads young viewers on a creepy tour of tales featuring life-sized dolls, werewolves, and carnival clowns that are stalking children. Original title: R.L. Stine's The Haunting Hour.",
+            "start": "2010",
+            "end": "2014",
+            "imdb": "tt1765510"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "freddys-nightmares-complete-tv-series",
+            "title": "Freddy's Nightmares",
+            "desc": "\"Freddy's Nightmares\" was a 1988 horror anthology series with \"Freddy\", the dream serial killer, hosting stories set in Springwood, USA.",
+            "start": "1988",
+            "end": "1990",
+            "imdb": "tt0094466"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "s-01-e-01-1.-incident-on-and-off-a-mountain-road",
+            "title": "Masters of Horror",
+            "desc": "Genre veteran Mick Garris has amassed some of the greatest horror film writers and directors to bring to you the anthology series.",
+            "start": "2005",
+            "end": "2007",
+            "imdb": "tt0448190"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "theatre-macabre-s-1e-4-mateo-falcone-1971",
+            "title": "Theatre Macabre",
+            "desc": "\"Theatre Macabre\" was a horror movie anthology series hosted by Christopher Lee; made in Poland; with stories from various classic authors.",
+            "start": "1971",
+            "end": "1972",
+            "imdb": "tt1957799"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "wolf-lake-2001-complete",
+            "title": "Wolf Lake",
+            "desc": "Set in the Pacific Northwest, this suspense thriller explores what happens when werewolves overtake a small Seattle suburb.",
+            "start": "2001",
+            "end": "2002",
+            "imdb": "tt0281524"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "bone-chillers-complete-series",
+            "title": "Bone Chillers",
+            "desc": "The spooky, sometimes even funny, misadventures of a gang of schoolchildren who encounter any number of strange happenings in their school and hometown.",
+            "start": "1996",
+            "end": "1996",
+            "imdb": "tt0115114"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "night-visions-complete-series",
+            "title": "Night Visions",
+            "desc": "\"Night Visions\" was a hosted anthology series similar to \"The Twilight Zone\" - some tales are supernatural, others are just commentaries on twisted human nature. Each hour show is made up of two half-hour stories aired back-to-back.",
+            "start": "2001",
+            "end": "2002",
+            "imdb": "tt0247120"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "ghost-story-circle-of-fear-complete",
+            "title": "Circle of Fear",
+            "desc": "An anthology of suspense dramas concentrating on individuals confronted with supernatural occurrences. Original title: Ghost Story.",
+            "start": "1972",
+            "end": "1973",
+            "imdb": "tt0068074"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "dark-shadows_202210",
+            "title": "Dark Shadows",
+            "desc": "The rich Collins family of Collinsport, Maine is tormented by strange occurrences.",
+            "start": "1966",
+            "end": "1971",
+            "imdb": "tt0059978"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "american-gothic-1995-Complete-tv-series",
+            "title": "American Gothic",
+            "desc": "A quiet, seemingly-quaint small town is ruled over by its charming yet evil sheriff who uses his demonic powers to remove anyone who dares to stand in his way. The only one he fears is a young boy he fathered through rape.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0111880"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "tales-from-the-darkside-s01-en",
+            "title": "Tales from the Darkside 1",
+            "desc": "\"Tales from the Darkside\" was a horror anthology series where the viewer is taken through ghost stories, science fiction adventures, and creepy, unexplained events. Season 1.",
+            "start": "1983",
+            "end": "1988",
+            "imdb": "tt0086814",
+            "group": "Tales from the Darkside"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "tales-from-the-darkside-s02-en",
+            "title": "Tales from the Darkside 2",
+            "desc": "\"Tales from the Darkside\" was a horror anthology series where the viewer is taken through ghost stories, science fiction adventures, and creepy, unexplained events. Season 2.",
+            "start": "1983",
+            "end": "1988",
+            "imdb": "tt0086814",
+            "group": "Tales from the Darkside"
         }
     ]
 }
