@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-16T14:52:28.000Z",
+    "lastupdated": "2025-10-17T13:10:07.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -8,7 +8,7 @@
     "link": "https://freetv.today",
     "shows": [
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "captain-caveman-and-the-teen-angels",
             "title": "Capt. Caveman & the Teen Angels",
@@ -18,7 +18,7 @@
             "imdb": "tt0284712"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "dexters-laboratory-the-complete-series",
             "title": "Dexter's Laboratory",
@@ -68,7 +68,7 @@
             "imdb": "tt0061250"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "fat-albert-72",
             "title": "Fat Albert & the Cosby Kids",
@@ -98,7 +98,7 @@
             "imdb": "tt0302109"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "garfield-and-friends-complete-series",
             "title": "Garfield & Friends",
@@ -148,7 +148,7 @@
             "imdb": "tt0197159"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "inspector-gadget-go-go-gadget-series",
             "title": "Inspector Gadget",
@@ -158,7 +158,7 @@
             "imdb": "tt0085033"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "jackie-chan-adventures-1080p-ai-upscale",
             "title": "Jackie Chan Adventures",
@@ -188,7 +188,7 @@
             "imdb": "tt0832330"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "my-little-pony-80s",
             "title": "My Little Pony",
@@ -218,7 +218,7 @@
             "imdb": "tt0108903"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "RockyBullwinkleFriends",
             "title": "Rocky & Bullwinkle",
@@ -228,7 +228,7 @@
             "imdb": "tt0052507"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "the-scooby-doo-show",
             "title": "Scooby-Doo Show",
@@ -268,7 +268,7 @@
             "imdb": "tt0361243"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "s-01-e-04-the-weather-maker",
             "title": "Super Friends",
@@ -308,7 +308,7 @@
             "imdb": "tt0206488"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "the.-jetsons",
             "title": "The Jetsons",
@@ -318,7 +318,7 @@
             "imdb": "tt0055683"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "the-looney-tunes-show_202405",
             "title": "The Looney Tunes Show",
@@ -338,7 +338,7 @@
             "imdb": "tt0112065"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "the-powerpuff-girls_fullseries",
             "title": "The Powerpuff Girls",
@@ -348,7 +348,7 @@
             "imdb": "tt0175058"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "smurfs-1981-complete-series-nbc",
             "title": "The Smurfs",
@@ -358,17 +358,17 @@
             "imdb": "tt0081933"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "tomandjerry-completemgmcollection_202312",
             "title": "Tom and Jerry",
-            "desc": "Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the enmity between the titular characters of a cat named Tom and a mouse named Jerry.",
+            "desc": "Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera and feature a cat named Tom and a mouse named Jerry.",
             "start": "1940",
             "end": "1967",
             "imdb": "tt28335303"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "02.-the-maharajah-of-pookajee_202306",
             "title": "Top Cat",
@@ -378,7 +378,7 @@
             "imdb": "tt0054572"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "wacky-races-s-01-e-03-why-oh-why-wyoming-sdtv",
             "title": "Wacky Races",
@@ -1207,7 +1207,7 @@
             "category": "mystery",
             "status": "active",
             "identifier": "Sherlock_Holmes_1954",
-            "title": "Sherlock Holmes",
+            "title": "Sherlock Holmes (1954)",
             "desc": "The adventures of master detective Sherlock Holmes as he and his assistant, Dr. Watson--and, somewhat reluctantly, the bumbling Inspector Lestrade--battle criminals in London.",
             "start": "1954",
             "end": "1955",
@@ -1683,7 +1683,7 @@
             "group": "The Outer Limits"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "snorks-complete-series",
             "title": "Snorks",
@@ -1725,7 +1725,7 @@
             "imdb": "tt0112225"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "ep-01_20231021",
             "title": "The Yogi Bear Show",
@@ -1830,7 +1830,7 @@
             "imdb": "tt0086787"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "watchoutforthattree",
             "title": "George of the Jungle",
@@ -1970,7 +1970,7 @@
             "imdb": "tt0080198"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "barney-bear-1939-xvid",
             "title": "Barney Bear",
@@ -2000,7 +2000,7 @@
             "imdb": "tt0061301"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
             "identifier": "tmnt-2003_202404",
             "title": "Teenage Mutant Ninja Turtles",
@@ -2130,6 +2130,86 @@
             "end": "1988",
             "imdb": "tt0086814",
             "group": "Tales from the Darkside"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "kolchak-the-night-strangler-1973",
+            "title": "Kolchak: The Night Strangler",
+            "desc": "A reporter hunts down a 144-year old alchemist who is killing women for their blood.",
+            "start": "1973",
+            "end": "1973",
+            "imdb": "tt0069002"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "the_unknown_2012",
+            "title": "The Unknown",
+            "desc": "Anthology about a man with a blog that searches for the truth behind supernatural phenomena and documents people's stories of their experiences with the unknown.",
+            "start": "2012",
+            "end": "2012",
+            "imdb": "tt2384747"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "logans-run-complete-series-1977",
+            "title": "Logan's Run (TV series)",
+            "desc": "In a futuristic society where reaching the age of 30 is a death sentence, a rebellious law enforcement agent goes on the run in search of Sanctuary.",
+            "start": "1977",
+            "end": "1978",
+            "imdb": "tt0075527"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-immortal-complete-series-1970",
+            "title": "The Immortal",
+            "desc": "An immortal man whose blood can have miraculous health benefits is a fugitive from those who would exploit both him and his brother he seeks.",
+            "start": "1969",
+            "end": "1971",
+            "imdb": "tt0065303"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "man-from-atlantis-complete-series-1977",
+            "title": "Man From Atlantis",
+            "desc": "The adventures of an amphibious man, the last survivor of the legendary sunken city.",
+            "start": "1977",
+            "end": "1978",
+            "imdb": "tt0075533"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "c.-b.-bears-complete-series-1977",
+            "title": "CB Bears",
+            "desc": "\"The CB Bears\" segment follows Hustle, Boogie and Bump, three anthropomorphic bear detectives posing as garbagemen, who solve mysteries. ",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0075487"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "LogansRunMovie",
+            "title": "Logan's Run (Movie)",
+            "desc": "A police officer in the future uncovers the deadly secret behind a society that worships youth.",
+            "start": "1976",
+            "end": "1976",
+            "imdb": "tt0074812"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "the-magician-complete-series-1973",
+            "title": "The Magician",
+            "desc": "The cases of a stage magician/escape artist who moonlights as an amateur crimefighter.",
+            "start": "1973",
+            "end": "1974",
+            "imdb": "tt0069606"
         }
     ]
 }

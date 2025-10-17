@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-15T16:14:49.000Z",
+    "lastupdated": "2025-10-17T13:28:13.000Z",
     "dbtitle": "Movies",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -505,6 +505,26 @@
             "start": "1973",
             "end": "1973",
             "imdb": "tt0070723"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "manhunter.-1986-255910939230",
+            "title": "Manhunter",
+            "desc": "Former FBI profiler Will Graham returns to service to pursue a deranged serial killer dubbed \"the Tooth Fairy\" by the media.",
+            "start": "1986",
+            "end": "1986",
+            "imdb": "tt0091474"
+        },
+        {
+            "category": "family",
+            "status": "active",
+            "identifier": "the-borrowers",
+            "title": "The Borrowers",
+            "desc": "An eight-year-old boy discovers a family of tiny people, only a few inches tall, living beneath the floorboards of a Victorian country home.",
+            "start": "1973",
+            "end": "1973",
+            "imdb": "tt0069817"
         }
     ]
 }

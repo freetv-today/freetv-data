@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-16T13:05:57.000Z",
+    "lastupdated": "2025-10-17T13:38:46.000Z",
     "dbtitle": "British TV",
     "filename": "ftv-british.json",
     "dbversion": "1.0",
@@ -688,6 +688,16 @@
             "end": "1981",
             "imdb": "tt0078703",
             "group": "To The Manor Born"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "youre-only-young-twice-1977-81",
+            "title": "You're Only Young Twice",
+            "desc": "Comedy about the residents of Paradise Lodge, retirement home for Gentle folk.",
+            "start": "1977",
+            "end": "1981",
+            "imdb": "tt0075603"
         }
     ]
 }
