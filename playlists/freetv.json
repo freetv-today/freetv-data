@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-17T13:10:07.000Z",
+    "lastupdated": "2025-10-17T15:18:58.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -2210,6 +2210,86 @@
             "start": "1973",
             "end": "1974",
             "imdb": "tt0069606"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "07.-the-lost-planet-of-atlantis",
+            "title": "Yogi's Space Race",
+            "desc": "Yogi Bear and his friends enter a race to different galaxies in space, but must battle a variety of space creatures out to see that they don't finish the race.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0177468"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "s-03-e-09-secret-agent-bear",
+            "title": "Yogi's Treasure Hunt",
+            "desc": "Yogi and the gang go on treasure hunts all around the world, as assigned by Top Cat. They travel on board their ship, the S.S. Jelly Roger. Dick Dastardly and Muttley follow them with their ship, the S.S. Dirty Tricks, and try to beat Yogi and his friends",
+            "start": "1985",
+            "end": "1988",
+            "imdb": "tt0361260"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "blues-clues-s-03-e-59-blues-big-musical-movie",
+            "title": "Blue's Clues",
+            "desc": "Blue is a puppy who puts her paw prints on three clues. Steve or Joe has to deduce the clues (with the help of off-screen children) to figure out what Blue wants to do.",
+            "start": "1996",
+            "end": "2007",
+            "imdb": "tt0163929"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "courage-the-cowardly-dog-1080p-ai-upscale",
+            "title": "Courage The Cowardly Dog",
+            "desc": "The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.",
+            "start": "1999",
+            "end": "2002",
+            "imdb": "tt0220880"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "pokemon-xy-kalos-quest-the-complete-collection-tpci-english-dub",
+            "title": "Pok\u00e9mon: XY Kalos Quest",
+            "desc": "Pok\u00e9mon the Series: XY Kalos Quest is the eighteenth season of the Pok\u00e9mon anime series, and the second season of Pok\u00e9mon the Series: XY, known in Japan as Pocket Monsters: XY. Originally aired from February 7 to December 19, 2015.",
+            "start": "1997",
+            "end": "2023",
+            "imdb": "tt0168366"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "dink-the-little-dinosaur-complete-series",
+            "title": "Dink The Little Dinosaur",
+            "desc": "A small Apatosaurus and his friends learn important life lessons through adventures.",
+            "start": "1989",
+            "end": "1991",
+            "imdb": "tt0213340"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "sky-king-tv-series",
+            "title": "Sky King",
+            "desc": "Sky King is an American radio and television series. Its lead character was Arizona rancher and aircraft pilot Schuyler \"Sky\" King. The series had strong Western elements.",
+            "start": "1951",
+            "end": "1962",
+            "imdb": "tt0043232"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "theberenstainbearscompleteseries",
+            "title": "The Berenstain Bears (2003)",
+            "desc": "Join the fun-loving Berenstain Bears for exciting adventures in Bear Country. Watch as Sister gets her first tooth, Papa and the cubs learn how to cope around the house without Mama, the kids adopt one of Farmer Ben's new puppies, and more.",
+            "start": "2003",
+            "end": "2004",
+            "imdb": "tt34475386"
         }
     ]
 }
