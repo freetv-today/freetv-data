@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2025-10-17T15:18:58.000Z",
+    "lastupdated": "2026-07-01T20:39:06.000Z",
     "dbtitle": "Default TV Shows",
     "filename": "freetv.json",
     "dbversion": "1.0",
@@ -8,34 +8,14 @@
     "link": "https://freetv.today",
     "shows": [
         {
-            "category": "cartoons",
+            "category": "animation",
             "status": "active",
-            "identifier": "captain-caveman-and-the-teen-angels",
-            "title": "Capt. Caveman & the Teen Angels",
-            "desc": "The adventures of a superhero caveman and a trio of female amateur detectives.",
-            "start": "1977",
-            "end": "1980",
-            "imdb": "tt0284712"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "dexters-laboratory-the-complete-series",
-            "title": "Dexter's Laboratory",
-            "desc": "The misadventures of a boy genius and his annoying sister.",
-            "start": "1996",
-            "end": "2003",
-            "imdb": "tt0115157"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "digimon-data-squad-the-complete-series",
-            "title": "Digimon Data Squad",
-            "desc": "We pick up with our heroes and the challenges faced by the members of DATS (\"Digital Accident Tactics Squad\"), an organization created to conceal the existence of the Digital World and Digimon from the rest of mankind.",
-            "start": "2006",
-            "end": "2008",
-            "imdb": "tt1138300"
+            "identifier": "courage-the-cowardly-dog-1080p-ai-upscale",
+            "title": "Courage The Cowardly Dog",
+            "desc": "The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.",
+            "start": "1999",
+            "end": "2002",
+            "imdb": "tt0220880"
         },
         {
             "category": "animation",
@@ -60,52 +40,12 @@
         {
             "category": "animation",
             "status": "active",
-            "identifier": "08.-three-predictions-of-dr.-doom",
-            "title": "Fantastic Four (1967)",
-            "desc": "Four costumed superheroes battle the world's most terrifying villains.",
-            "start": "1967",
-            "end": "1968",
-            "imdb": "tt0061250"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "fat-albert-72",
-            "title": "Fat Albert & the Cosby Kids",
-            "desc": "The educational adventures of a group of Afro-American inner city kids.",
-            "start": "1972",
-            "end": "1985",
-            "imdb": "tt0068072"
-        },
-        {
-            "category": "animation",
-            "status": "active",
             "identifier": "freakazoid_202210",
             "title": "Freakazoid!",
             "desc": "Dexter Douglas of Washington, D.C. received the Pinnacle chip as a gift. He went online, but a flaw in the chip sucked him in and filled his head with all the information on the 'net, but he became very silly. Now he fights evil with urbane jokes.",
             "start": "1995",
             "end": "1997",
             "imdb": "tt0111970"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "g-force-guardians-of-space",
-            "title": "G-Force",
-            "desc": "G-Force: Guardians of Space - a bird-themed superhero team battles the threat of Galactor and his minions.",
-            "start": "1986",
-            "end": "1987",
-            "imdb": "tt0302109"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "garfield-and-friends-complete-series",
-            "title": "Garfield & Friends",
-            "desc": "Stories about Garfield the cat, Odie the dog, their owner Jon, and the trouble they get into.",
-            "start": "1988",
-            "end": "1995",
-            "imdb": "tt0094469"
         },
         {
             "category": "animation",
@@ -120,22 +60,22 @@
         {
             "category": "animation",
             "status": "active",
+            "identifier": "one-crazy-summer_202408",
+            "title": "Gravity Falls",
+            "desc": "Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle's tourist trap in the enigmatic Gravity Falls, Oregon.",
+            "start": "2012",
+            "end": "2016",
+            "imdb": "tt1865718"
+        },
+        {
+            "category": "animation",
+            "status": "active",
             "identifier": "the-grim-adventures-of-billy-and-mandy_202212",
             "title": "Grim Adventures of Billy & Mandy",
             "desc": "The ill-tempered Grim Reaper gets into a wager that forces him to become the life-long companions of two scheming youngsters after he loses.",
             "start": "2003",
             "end": "2007",
             "imdb": "tt0292800"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "hamtaro_complete_series",
-            "title": "Hamtaro",
-            "desc": "The story of hamsters who get together at meetings to talk about their adventures.",
-            "start": "2000",
-            "end": "2006",
-            "imdb": "tt0318895"
         },
         {
             "category": "animation",
@@ -148,66 +88,6 @@
             "imdb": "tt0197159"
         },
         {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "inspector-gadget-go-go-gadget-series",
-            "title": "Inspector Gadget",
-            "desc": "A bumbling cyborg inspector outfitted with an array of bizarre gadgets pursues the criminal organization M.A.D., all while his precocious niece and dog do the real investigative work.",
-            "start": "1983",
-            "end": "1986",
-            "imdb": "tt0085033"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "jackie-chan-adventures-1080p-ai-upscale",
-            "title": "Jackie Chan Adventures",
-            "desc": "Jackie Chan teams up with his 11-year-old niece, Jade, traveling the globe to locate a dozen magical talismans before the sinister Dark Hand does.",
-            "start": "2000",
-            "end": "2005",
-            "imdb": "tt0259141"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "king-of-the-hill_202103",
-            "title": "King of the Hill",
-            "desc": "A straight-laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends.",
-            "start": "1997",
-            "end": "2009",
-            "imdb": "tt0118375"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "legend-of-zelda-1989-complete-series",
-            "title": "Legend Of Zelda",
-            "desc": "Link and Princess Zelda protect the mystical artifact, the Triforce, from falling into the hands of evil sorcerer Ganon.",
-            "start": "1988",
-            "end": "1989",
-            "imdb": "tt0832330"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "my-little-pony-80s",
-            "title": "My Little Pony",
-            "desc": "The story of a human named Megan in a world of magical ponies and their adventures together in Pony Land.",
-            "start": "1986",
-            "end": "1987",
-            "imdb": "tt0184761"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "s-01-e-05-brainania",
-            "title": "Pinky and the Brain",
-            "desc": "Pinky and the Brain are genetically enhanced laboratory mice who live in Acme Labs. The Brain is self-centered and scheming; Pinky is good-natured but feeble-minded. In each episode, the Brain devises a new plan to take over the world.",
-            "start": "1995",
-            "end": "1998",
-            "imdb": "tt0112123"
-        },
-        {
             "category": "animation",
             "status": "active",
             "identifier": "Reboot-HD",
@@ -218,34 +98,14 @@
             "imdb": "tt0108903"
         },
         {
-            "category": "cartoons",
+            "category": "animation",
             "status": "active",
-            "identifier": "RockyBullwinkleFriends",
-            "title": "Rocky & Bullwinkle",
-            "desc": "Rocky, a plucky flying squirrel and Bullwinkle, a bumbling but lovable moose, have a series of ongoing adventures.",
-            "start": "1959",
-            "end": "1963",
-            "imdb": "tt0052507"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "the-scooby-doo-show",
-            "title": "Scooby-Doo Show",
-            "desc": "Join Scooby-Doo and the gang in their various adventures in this compilation series.",
-            "start": "1976",
-            "end": "1979",
-            "imdb": "tt21153032"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
-            "title": "Sonic X",
-            "desc": "A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.",
-            "start": "2003",
-            "end": "2006",
-            "imdb": "tt0367413"
+            "identifier": "Spider-Man-67-Collection",
+            "title": "Spider-Man (1967)",
+            "desc": "Original cartoon series based on the web-slinging Marvel comic book character, Peter Parker, who, after being bit by a radioactive spider, assumes extraordinary powers.",
+            "start": "1967",
+            "end": "1970",
+            "imdb": "tt0061301"
         },
         {
             "category": "animation",
@@ -266,16 +126,6 @@
             "start": "2003",
             "end": "2005",
             "imdb": "tt0361243"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "s-01-e-04-the-weather-maker",
-            "title": "Super Friends",
-            "desc": "The greatest of the DC Comics superheroes work together to uphold the good with the help of some young proteges.",
-            "start": "1973",
-            "end": "1985",
-            "imdb": "tt0069641"
         },
         {
             "category": "animation",
@@ -308,6 +158,306 @@
             "imdb": "tt0206488"
         },
         {
+            "category": "animation",
+            "status": "active",
+            "identifier": "The_Maxx",
+            "title": "The Maxx",
+            "desc": "Confused hulking homeless superhero The Maxx tries to protect his social worker and friend Julie from an omniscient serial killer Mr. Gone both in the real world, which may or may not actually be real, and the subconscious fantasy world.",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112065"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "x-men-the-animated-series-1080p-ai-upscale_202204",
+            "title": "X-Men",
+            "desc": "A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.",
+            "start": "1992",
+            "end": "1997",
+            "imdb": "tt0103584"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "db-bebop-of-the-cowboys-1080p",
+            "title": "Cowboy Bebop",
+            "desc": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+            "start": "1998",
+            "end": "1999",
+            "imdb": "tt0213338"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "digimon-data-squad-the-complete-series",
+            "title": "Digimon Data Squad",
+            "desc": "We pick up with our heroes and the challenges faced by the members of DATS (\"Digital Accident Tactics Squad\"), an organization created to conceal the existence of the Digital World and Digimon from the rest of mankind.",
+            "start": "2006",
+            "end": "2008",
+            "imdb": "tt1138300"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "g-force-guardians-of-space",
+            "title": "G-Force",
+            "desc": "G-Force: Guardians of Space - a bird-themed superhero team battles the threat of Galactor and his minions.",
+            "start": "1986",
+            "end": "1987",
+            "imdb": "tt0302109"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "hamtaro_complete_series",
+            "title": "Hamtaro",
+            "desc": "The story of hamsters who get together at meetings to talk about their adventures.",
+            "start": "2000",
+            "end": "2006",
+            "imdb": "tt0318895"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "legend-of-zelda-1989-complete-series",
+            "title": "Legend Of Zelda",
+            "desc": "Link and Princess Zelda protect the mystical artifact, the Triforce, from falling into the hands of evil sorcerer Ganon.",
+            "start": "1988",
+            "end": "1989",
+            "imdb": "tt0832330"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "neon-genesis-evangelion_1080p_adv_1996",
+            "title": "Neon Genesis Evangelion",
+            "desc": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father. Original title: Shinseiki Evangelion.",
+            "start": "1995",
+            "end": "1996",
+            "imdb": "tt0112159"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "pokemon-advanced-battle-the-complete-collection-2005-06-english-dub",
+            "title": "Pok\u00e9mon: Advanced Battle",
+            "desc": "Pok\u00e9mon: Advanced Battle is the eighth season of Pok\u00e9mon and the third season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation.",
+            "start": "2005",
+            "end": "2006",
+            "imdb": "tt0168366"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "pokemon-advanced-challenge-the-complete-collection-2004-05-english-dub",
+            "title": "Pok\u00e9mon: Advanced Challenge",
+            "desc": "Pok\u00e9mon: Advanced Challenge is the seventh season of Pok\u00e9mon and the second season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation ",
+            "start": "2004",
+            "end": "2005",
+            "imdb": "tt0168366"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "pokemon-xy-kalos-quest-the-complete-collection-tpci-english-dub",
+            "title": "Pok\u00e9mon: XY Kalos Quest",
+            "desc": "Pok\u00e9mon the Series: XY Kalos Quest is the eighteenth season of the Pok\u00e9mon anime series, and the second season of Pok\u00e9mon the Series: XY, known in Japan as Pocket Monsters: XY. Originally aired from February 7 to December 19, 2015.",
+            "start": "1997",
+            "end": "2023",
+            "imdb": "tt0168366"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
+            "title": "Sonic X",
+            "desc": "A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.",
+            "start": "2003",
+            "end": "2006",
+            "imdb": "tt0367413"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "yu-gi-oh-the-complete-series",
+            "title": "Yu-Gi-Oh!",
+            "desc": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.",
+            "start": "2000",
+            "end": "2006",
+            "imdb": "tt0249327"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "andy-panda-filmography",
+            "title": "Andy Panda",
+            "desc": "Andy Panda is a cartoon character who starred in his own series of animated cartoon short subjects produced by Walter Lantz. These \"cartunes\" were released by Universal Pictures from 1939 to 1947 and United Artists from 1948 to 1949. ",
+            "start": "1939",
+            "end": "1949",
+            "imdb": "tt0141550"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "barney-bear-1939-xvid",
+            "title": "Barney Bear",
+            "desc": "Barney Bear is an American series of animated cartoon short subjects produced by Metro-Goldwyn-Mayer cartoon studio. The title character is an anthropomorphic cartoon character, a sluggish, sleepy bear who often is in pursuit of peace and quiet.",
+            "start": "1939",
+            "end": "1954",
+            "imdb": "tt0036626"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "captain-caveman-and-the-teen-angels",
+            "title": "Capt. Caveman & the Teen Angels",
+            "desc": "The adventures of a superhero caveman and a trio of female amateur detectives.",
+            "start": "1977",
+            "end": "1980",
+            "imdb": "tt0284712"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "c.-b.-bears-complete-series-1977",
+            "title": "CB Bears",
+            "desc": "\"The CB Bears\" segment follows Hustle, Boogie and Bump, three anthropomorphic bear detectives posing as garbagemen, who solve mysteries. ",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0075487"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "chilly-willy-filmography",
+            "title": "Chilly Willy",
+            "desc": "Chilly Willy is a penguin cartoon character who was starred in a series set of 50 theatrical shorts from 1953 to 1972. He became the second most popular Lantz/Universal character after Woody Woodpecker.",
+            "start": "1953",
+            "end": "1972",
+            "imdb": "tt0140895"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "dexters-laboratory-the-complete-series",
+            "title": "Dexter's Laboratory",
+            "desc": "The misadventures of a boy genius and his annoying sister.",
+            "start": "1996",
+            "end": "2003",
+            "imdb": "tt0115157"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "fat-albert-72",
+            "title": "Fat Albert & the Cosby Kids",
+            "desc": "The educational adventures of a group of Afro-American inner city kids.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068072"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "garfield-and-friends-complete-series",
+            "title": "Garfield & Friends",
+            "desc": "Stories about Garfield the cat, Odie the dog, their owner Jon, and the trouble they get into.",
+            "start": "1988",
+            "end": "1995",
+            "imdb": "tt0094469"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "watchoutforthattree",
+            "title": "George of the Jungle",
+            "desc": "An anthology of Jay Ward cartoon creations, featuring a dumb ape man and his friends.",
+            "start": "1967",
+            "end": "1970",
+            "imdb": "tt0061256"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "inspector-gadget-go-go-gadget-series",
+            "title": "Inspector Gadget",
+            "desc": "A bumbling cyborg inspector outfitted with an array of bizarre gadgets pursues the criminal organization M.A.D., all while his precocious niece and dog do the real investigative work.",
+            "start": "1983",
+            "end": "1986",
+            "imdb": "tt0085033"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "jackie-chan-adventures-1080p-ai-upscale",
+            "title": "Jackie Chan Adventures",
+            "desc": "Jackie Chan teams up with his 11-year-old niece, Jade, traveling the globe to locate a dozen magical talismans before the sinister Dark Hand does.",
+            "start": "2000",
+            "end": "2005",
+            "imdb": "tt0259141"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "my-little-pony-80s",
+            "title": "My Little Pony",
+            "desc": "The story of a human named Megan in a world of magical ponies and their adventures together in Pony Land.",
+            "start": "1986",
+            "end": "1987",
+            "imdb": "tt0184761"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "RockyBullwinkleFriends",
+            "title": "Rocky & Bullwinkle",
+            "desc": "Rocky, a plucky flying squirrel and Bullwinkle, a bumbling but lovable moose, have a series of ongoing adventures.",
+            "start": "1959",
+            "end": "1963",
+            "imdb": "tt0052507"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "the-scooby-doo-show",
+            "title": "Scooby-Doo Show",
+            "desc": "Join Scooby-Doo and the gang in their various adventures in this compilation series.",
+            "start": "1976",
+            "end": "1979",
+            "imdb": "tt21153032"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "snorks-complete-series",
+            "title": "Snorks",
+            "desc": "The Snorks are playful, multicolored underwater creatures that use their built-in snorkels to dart about and make music.",
+            "start": "1984",
+            "end": "1988",
+            "imdb": "tt0086802"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "s-01-e-04-the-weather-maker",
+            "title": "Super Friends",
+            "desc": "The greatest of the DC Comics superheroes work together to uphold the good with the help of some young proteges.",
+            "start": "1973",
+            "end": "1985",
+            "imdb": "tt0069641"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "tmnt-2003_202404",
+            "title": "Teenage Mutant Ninja Turtles",
+            "desc": "Follows the adventures of the Teenage Mutant Ninja Turtles, with this iteration being based on the stories from the original mirage comic books.",
+            "start": "2003",
+            "end": "2010",
+            "imdb": "tt0318913"
+        },
+        {
             "category": "cartoons",
             "status": "active",
             "identifier": "the.-jetsons",
@@ -328,16 +478,6 @@
             "imdb": "tt1726839"
         },
         {
-            "category": "animation",
-            "status": "active",
-            "identifier": "The_Maxx",
-            "title": "The Maxx",
-            "desc": "Confused hulking homeless superhero The Maxx tries to protect his social worker and friend Julie from an omniscient serial killer Mr. Gone both in the real world, which may or may not actually be real, and the subconscious fantasy world.",
-            "start": "1995",
-            "end": "1995",
-            "imdb": "tt0112065"
-        },
-        {
             "category": "cartoons",
             "status": "active",
             "identifier": "the-powerpuff-girls_fullseries",
@@ -356,6 +496,16 @@
             "start": "1981",
             "end": "1990",
             "imdb": "tt0081933"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "ep-01_20231021",
+            "title": "The Yogi Bear Show",
+            "desc": "Yogi, a smooth, talkative forest bear looks to raid park goers' picnic baskets, while Park Ranger Smith tries to stop him.",
+            "start": "1961",
+            "end": "1962",
+            "imdb": "tt0255768"
         },
         {
             "category": "cartoons",
@@ -388,46 +538,89 @@
             "imdb": "tt0122365"
         },
         {
-            "category": "animation",
+            "category": "cartoons",
             "status": "active",
-            "identifier": "x-men-the-animated-series-1080p-ai-upscale_202204",
-            "title": "X-Men",
-            "desc": "A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.",
-            "start": "1992",
-            "end": "1997",
-            "imdb": "tt0103584"
+            "identifier": "walter-lantzs-ww-cartoons",
+            "title": "Woody Woodpecker",
+            "desc": "Woody Woodpecker is a cartoon character that appeared in theatrical short films produced by the Walter Lantz Studio. They were first broadcast on television in 1957 under the title The Woody Woodpecker Show.",
+            "start": "1957",
+            "end": "1972",
+            "imdb": "tt0184175"
         },
         {
-            "category": "anime",
+            "category": "cartoons",
             "status": "active",
-            "identifier": "yu-gi-oh-the-complete-series",
-            "title": "Yu-Gi-Oh!",
-            "desc": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.",
-            "start": "2000",
-            "end": "2006",
-            "imdb": "tt0249327"
+            "identifier": "07.-the-lost-planet-of-atlantis",
+            "title": "Yogi's Space Race",
+            "desc": "Yogi Bear and his friends enter a race to different galaxies in space, but must battle a variety of space creatures out to see that they don't finish the race.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0177468"
         },
         {
-            "category": "sitcom",
+            "category": "cartoons",
             "status": "active",
-            "identifier": "the-addams-family__season-1",
-            "title": "The Addams Family Season 1",
-            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
-            "start": "1964",
-            "end": "1966",
-            "imdb": "tt0057729",
-            "group": "The Addams Family"
+            "identifier": "s-03-e-09-secret-agent-bear",
+            "title": "Yogi's Treasure Hunt",
+            "desc": "Yogi and the gang go on treasure hunts all around the world, as assigned by Top Cat. They travel on board their ship, the S.S. Jelly Roger. Dick Dastardly and Muttley follow them with their ship, the S.S. Dirty Tricks, and try to beat Yogi and his friends",
+            "start": "1985",
+            "end": "1988",
+            "imdb": "tt0361260"
         },
         {
-            "category": "sitcom",
+            "category": "comedy",
             "status": "active",
-            "identifier": "the-addams-family__season-2",
-            "title": "The Addams Family Season 2",
-            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
-            "start": "1964",
-            "end": "1966",
-            "imdb": "tt0057729",
-            "group": "The Addams Family"
+            "identifier": "most-extreme-elimination-challenge-mxc-112-adult-entertainment-vs-home-improveme",
+            "title": "MXC Season 1",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 1.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-2-complete",
+            "title": "MXC Season 2",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 2. ",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-3-complete",
+            "title": "MXC Season 3",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 3.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-4-incomplete",
+            "title": "MXC Season 4",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 4.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "most-extreme-elimination-challenge-mxc-5-incomplete",
+            "title": "MXC Season 5",
+            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 5.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0364843",
+            "group": "MXC"
         },
         {
             "category": "comedy",
@@ -438,6 +631,16 @@
             "start": "1952",
             "end": "1957",
             "imdb": "tt0044229"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "fgtd5r",
+            "title": "Faerie Tale Theatre",
+            "desc": "Anthology series starring just about every star that you can think of from the 1980s. Every episode is a different fairy tale ranging from the well known and innocuous to the dark, scary and obscure.",
+            "start": "1982",
+            "end": "1987",
+            "imdb": "tt0199214"
         },
         {
             "category": "comedy",
@@ -472,22 +675,22 @@
         {
             "category": "comedy",
             "status": "active",
+            "identifier": "madtv-s-01-e-04/MADtv+-+S08E05+-+Episode+%23805.mkv",
+            "title": "Mad TV",
+            "desc": "A sketch comedy show based on the seminal Mad Magazine.",
+            "start": "1995",
+            "end": "2016",
+            "imdb": "tt0112056"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
             "identifier": "the-super-dave-osborne-show",
             "title": "Super Dave",
             "desc": "Battered and abused stuntman Super Dave Osborne gets his own nighttime talk show.",
             "start": "1987",
             "end": "1999",
             "imdb": "tt0092456"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "TheBobNewhartShow",
-            "title": "The Bob Newhart Show",
-            "desc": "The professional and personal misadventures of a psychologist and his family, patients, friends and colleagues.",
-            "start": "1972",
-            "end": "1978",
-            "imdb": "tt0068049"
         },
         {
             "category": "comedy",
@@ -518,6 +721,16 @@
             "start": "1991",
             "end": "2006",
             "imdb": "tt0101177"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "the-tonight-show-starring-johnny-carson",
+            "title": "The Tonight Show",
+            "desc": "Host Johnny Carson performs comedy routines and chats with various celebrities.",
+            "start": "1962",
+            "end": "1992",
+            "imdb": "tt0055708"
         },
         {
             "category": "comedy",
@@ -846,6 +1059,28 @@
         {
             "category": "drama",
             "status": "active",
+            "identifier": "the-man-from-uncle-s-3",
+            "title": "Man from UNCLE Season 3",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 3.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765",
+            "group": "The Man from UNCLE"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-man-from-uncle-s-4",
+            "title": "Man from UNCLE Season 4",
+            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 4.",
+            "start": "1964",
+            "end": "1968",
+            "imdb": "tt0057765",
+            "group": "The Man from UNCLE"
+        },
+        {
+            "category": "drama",
+            "status": "active",
             "identifier": "adam-12.-s-01",
             "title": "Adam 12 Season 1",
             "desc": "Two regular police officers patrol Los Angeles.",
@@ -946,6 +1181,16 @@
         {
             "category": "drama",
             "status": "active",
+            "identifier": "the-master-complete-series-1984",
+            "title": "The Master",
+            "desc": "An aging American ninja master and his headstrong young apprentice search for the elder man's daughter.",
+            "start": "1984",
+            "end": "1984",
+            "imdb": "tt0086756"
+        },
+        {
+            "category": "drama",
+            "status": "active",
             "identifier": "the-net-complete-tv-series",
             "title": "The Net",
             "desc": "Computer programmer Angela Bennett discovers a shadowy group of cyber terrorists who completely erase her true identity. Falsely labeled a criminal, she finds herself on the run, and she'll never stop until she's got her life back.",
@@ -994,6 +1239,158 @@
             "imdb": "tt0106168"
         },
         {
+            "category": "horror",
+            "status": "active",
+            "identifier": "tales-from-the-darkside-s01-en",
+            "title": "Tales from the Darkside 1",
+            "desc": "\"Tales from the Darkside\" was a horror anthology series where the viewer is taken through ghost stories, science fiction adventures, and creepy, unexplained events. Season 1.",
+            "start": "1983",
+            "end": "1988",
+            "imdb": "tt0086814",
+            "group": "Tales from the Darkside"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "tales-from-the-darkside-s02-en",
+            "title": "Tales from the Darkside 2",
+            "desc": "\"Tales from the Darkside\" was a horror anthology series where the viewer is taken through ghost stories, science fiction adventures, and creepy, unexplained events. Season 2.",
+            "start": "1983",
+            "end": "1988",
+            "imdb": "tt0086814",
+            "group": "Tales from the Darkside"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "american-gothic-1995-Complete-tv-series",
+            "title": "American Gothic",
+            "desc": "A quiet, seemingly-quaint small town is ruled over by its charming yet evil sheriff who uses his demonic powers to remove anyone who dares to stand in his way. The only one he fears is a young boy he fathered through rape.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0111880"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "bone-chillers-complete-series",
+            "title": "Bone Chillers",
+            "desc": "The spooky, sometimes even funny, misadventures of a gang of schoolchildren who encounter any number of strange happenings in their school and hometown.",
+            "start": "1996",
+            "end": "1996",
+            "imdb": "tt0115114"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "ghost-story-circle-of-fear-complete",
+            "title": "Circle of Fear",
+            "desc": "An anthology of suspense dramas concentrating on individuals confronted with supernatural occurrences. Original title: Ghost Story.",
+            "start": "1972",
+            "end": "1973",
+            "imdb": "tt0068074"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "dark-shadows_202210",
+            "title": "Dark Shadows",
+            "desc": "The rich Collins family of Collinsport, Maine is tormented by strange occurrences.",
+            "start": "1966",
+            "end": "1971",
+            "imdb": "tt0059978"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "freddys-nightmares-complete-tv-series",
+            "title": "Freddy's Nightmares",
+            "desc": "\"Freddy's Nightmares\" was a 1988 horror anthology series with \"Freddy\", the dream serial killer, hosting stories set in Springwood, USA.",
+            "start": "1988",
+            "end": "1990",
+            "imdb": "tt0094466"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "kolchak-the-night-stalker-complete-series-1972",
+            "title": "Kolchak: the Night Stalker",
+            "desc": "Carl Kolchak is a reporter for a Chicago newspaper. Through more accident than design he ends up investigating homicides, many of which involve supernatural forces. Ultimately, rather than reporting on the crimes, he solves them.",
+            "start": "1974",
+            "end": "1975",
+            "imdb": "tt0071003"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "kolchak-the-night-strangler-1973",
+            "title": "Kolchak: The Night Strangler",
+            "desc": "A reporter hunts down a 144-year old alchemist who is killing women for their blood.",
+            "start": "1973",
+            "end": "1973",
+            "imdb": "tt0069002"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "s-01-e-01-1.-incident-on-and-off-a-mountain-road",
+            "title": "Masters of Horror",
+            "desc": "Genre veteran Mick Garris has amassed some of the greatest horror film writers and directors to bring to you the anthology series.",
+            "start": "2005",
+            "end": "2007",
+            "imdb": "tt0448190"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "night-visions-complete-series",
+            "title": "Night Visions",
+            "desc": "\"Night Visions\" was a hosted anthology series similar to \"The Twilight Zone\" - some tales are supernatural, others are just commentaries on twisted human nature. Each hour show is made up of two half-hour stories aired back-to-back.",
+            "start": "2001",
+            "end": "2002",
+            "imdb": "tt0247120"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "rl-stines-the-haunting-hour-full-series",
+            "title": "The Haunting Hour",
+            "desc": "R.L. Stine leads young viewers on a creepy tour of tales featuring life-sized dolls, werewolves, and carnival clowns that are stalking children. Original title: R.L. Stine's The Haunting Hour.",
+            "start": "2010",
+            "end": "2014",
+            "imdb": "tt1765510"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "the_unknown_2012",
+            "title": "The Unknown",
+            "desc": "Anthology about a man with a blog that searches for the truth behind supernatural phenomena and documents people's stories of their experiences with the unknown.",
+            "start": "2012",
+            "end": "2012",
+            "imdb": "tt2384747"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "theatre-macabre-s-1e-4-mateo-falcone-1971",
+            "title": "Theatre Macabre",
+            "desc": "\"Theatre Macabre\" was a horror movie anthology series hosted by Christopher Lee; made in Poland; with stories from various classic authors.",
+            "start": "1971",
+            "end": "1972",
+            "imdb": "tt1957799"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "wolf-lake-2001-complete",
+            "title": "Wolf Lake",
+            "desc": "Set in the Pacific Northwest, this suspense thriller explores what happens when werewolves overtake a small Seattle suburb.",
+            "start": "2001",
+            "end": "2002",
+            "imdb": "tt0281524"
+        },
+        {
             "category": "kids",
             "status": "active",
             "identifier": "arthur-1996-complete_202203",
@@ -1012,6 +1409,16 @@
             "start": "1992",
             "end": "2010",
             "imdb": "tt0144701"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "blues-clues-s-03-e-59-blues-big-musical-movie",
+            "title": "Blue's Clues",
+            "desc": "Blue is a puppy who puts her paw prints on three clues. Steve or Joe has to deduce the clues (with the help of off-screen children) to figure out what Blue wants to do.",
+            "start": "1996",
+            "end": "2007",
+            "imdb": "tt0163929"
         },
         {
             "category": "kids",
@@ -1036,12 +1443,32 @@
         {
             "category": "kids",
             "status": "active",
+            "identifier": "dink-the-little-dinosaur-complete-series",
+            "title": "Dink The Little Dinosaur",
+            "desc": "A small Apatosaurus and his friends learn important life lessons through adventures.",
+            "start": "1989",
+            "end": "1991",
+            "imdb": "tt0213340"
+        },
+        {
+            "category": "kids",
+            "status": "active",
             "identifier": "dinosaur-train-season-1-s-01-e-01-elmer-elasmosaurus",
             "title": "Dinosaur Train",
             "desc": "Friendly dinosaurs climb aboard a train to visit different times throughout the prehistoric age.",
             "start": "2009",
             "end": "2023",
             "imdb": "tt1460205"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "fraggle-toon",
+            "title": "Fraggle Rock (cartoon)",
+            "desc": "An animated version of Jim Henson's classic series.",
+            "start": "1987",
+            "end": "1988",
+            "imdb": "tt0273345"
         },
         {
             "category": "kids",
@@ -1106,6 +1533,16 @@
         {
             "category": "kids",
             "status": "active",
+            "identifier": "peewee-playhouse",
+            "title": "Pee Wee's Playhouse",
+            "desc": "Pee-Wee Herman and his friends have wacky, imaginative fun in his unique playhouse.",
+            "start": "1986",
+            "end": "1991",
+            "imdb": "tt0090500"
+        },
+        {
+            "category": "kids",
+            "status": "active",
             "identifier": "phil-of-the-future",
             "title": "Phil of the Future",
             "desc": "A family from 2121 is stuck in 2004, trying desperately to fit in.",
@@ -1122,6 +1559,16 @@
             "start": "1983",
             "end": "2006",
             "imdb": "tt0085075"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "theberenstainbearscompleteseries",
+            "title": "The Berenstain Bears (2003)",
+            "desc": "Join the fun-loving Berenstain Bears for exciting adventures in Bear Country. Watch as Sister gets her first tooth, Papa and the cubs learn how to cope around the house without Mama, the kids adopt one of Farmer Ben's new puppies, and more.",
+            "start": "2003",
+            "end": "2004",
+            "imdb": "tt34475386"
         },
         {
             "category": "kids",
@@ -1146,12 +1593,42 @@
         {
             "category": "kids",
             "status": "active",
+            "identifier": "the-land-before-time-the-complete-tv-series",
+            "title": "The Land Before Time",
+            "desc": "The further adventures of Littlefoot and his friends learning about the world of dinosaurs.",
+            "start": "2007",
+            "end": "2008",
+            "imdb": "tt0473584"
+        },
+        {
+            "category": "kids",
+            "status": "active",
             "identifier": "welcome-to-pooh-corner-episode-collection",
             "title": "Welcome To Pooh Corner",
             "desc": "Winnie the Pooh's first live-action television series. The popular \"Pooh Corner\" consisted of a mix of full-body costumes and radio controlled 'puppetronics' that kept the mouths and eyes moving.",
             "start": "1983",
             "end": "1986",
             "imdb": "tt0277535"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "wild-kratts-season-1-s-01-e-01-mom-of-a-croc",
+            "title": "Wild Kratts",
+            "desc": "The Kratt Brothers and their team use their \"Creature Power\" suits to learn about and help various species of animals around the world.",
+            "start": "2011",
+            "end": "2025",
+            "imdb": "tt1807859"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "wishbone_20230214_20230214_1416",
+            "title": "Wishbone",
+            "desc": "An intelligent and witty dog imagines himself in the role of characters from classic books and gets involved in similar real-life adventures.",
+            "start": "1995",
+            "end": "1998",
+            "imdb": "tt0112225"
         },
         {
             "category": "kids",
@@ -1212,6 +1689,66 @@
             "start": "1954",
             "end": "1955",
             "imdb": "tt0046642"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "the-magician-complete-series-1973",
+            "title": "The Magician",
+            "desc": "The cases of a stage magician/escape artist who moonlights as an amateur crimefighter.",
+            "start": "1973",
+            "end": "1974",
+            "imdb": "tt0069606"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "boop-oop-a-doop.-1932.1080p.-bluray.-dts.x-264-gcjm",
+            "title": "Betty Boop",
+            "desc": "Pioneering cartoon series (from 1930-1939) from Fleischer Studios, Betty Boop was the mirror of the stereotypical flapper, simultaneously looking for a good time and good-at-heart. ",
+            "start": "1932",
+            "end": "1938",
+            "imdb": "tt16154234"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "Felix-The-Cat-1919-1936",
+            "title": "Felix the Cat",
+            "desc": "Felix the Cat is a cartoon character created in 1919 by Otto Messmer and Pat Sullivan during the silent film era. He's one of the most recognized cartoon characters in history. Felix was the first recurring animal character in American animation.",
+            "start": "1919",
+            "end": "1936",
+            "imdb": "tt0141134"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "our-gang-collection",
+            "title": "Our Gang",
+            "desc": "Also known as The Little Rascals or Hal Roach's Rascals, Our Gang is an American series of comedy short films chronicling a group of poor neighborhood children and their adventures.",
+            "start": "1927",
+            "end": "1938",
+            "imdb": "tt0029358"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "popeye-the-sailor-the-complete-series",
+            "title": "Popeye the Sailor",
+            "desc": "Popeye begins his movie career by singing his theme song, demonstrating his strength at a carnival, dancing the hula with Betty Boop, pummeling Bluto, eating his spinach and saving Olive Oyl from certain doom.",
+            "start": "1933",
+            "end": "1957",
+            "imdb": "tt0024461"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "threestooges19341959",
+            "title": "The Three Stooges",
+            "desc": "Classic comedy shorts featuring the crazy trio.",
+            "start": "1934",
+            "end": "1959",
+            "imdb": "tt0850645"
         },
         {
             "category": "sci-fi",
@@ -1304,310 +1841,6 @@
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "AdventuresOfSupermanS01e02TheHauntedLighthouse_201901",
-            "title": "Adventures of Superman",
-            "desc": "The Man of Steel fights crime with help from his friends at the 'Daily Planet.'",
-            "start": "1952",
-            "end": "1958",
-            "imdb": "tt0044231"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "kolchak-the-night-stalker-complete-series-1972",
-            "title": "Kolchak: the Night Stalker",
-            "desc": "Carl Kolchak is a reporter for a Chicago newspaper. Through more accident than design he ends up investigating homicides, many of which involve supernatural forces. Ultimately, rather than reporting on the crimes, he solves them.",
-            "start": "1974",
-            "end": "1975",
-            "imdb": "tt0071003"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "max-headroom-complete",
-            "title": "Max Headroom",
-            "desc": "An intrepid investigative TV reporter does his job with the help of his colleagues and a computerized version of himself.",
-            "start": "1987",
-            "end": "1988",
-            "imdb": "tt0092402"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-time-tunnel",
-            "title": "The Time Tunnel",
-            "desc": "Two scientists with a secret time travel project find themselves trapped in the time stream and appearing in notable periods of history.",
-            "start": "1966",
-            "end": "1967",
-            "imdb": "tt0060036"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "mister-ed-s-01",
-            "title": "Mister Ed Season 1",
-            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
-            "start": "1961",
-            "end": "1966",
-            "imdb": "tt0054557",
-            "group": "Mister Ed"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "mister-ed-s-02-",
-            "title": "Mister Ed Season 2",
-            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
-            "start": "1961",
-            "end": "1966",
-            "imdb": "tt0054557",
-            "group": "Mister Ed"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "mister-ed-s-03",
-            "title": "Mister Ed Season 3",
-            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
-            "start": "1961",
-            "end": "1966",
-            "imdb": "tt0054557",
-            "group": "Mister Ed"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "mister-ed-s-04",
-            "title": "Mister Ed Season 4",
-            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
-            "start": "1961",
-            "end": "1966",
-            "imdb": "tt0054557",
-            "group": "Mister Ed"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "ALF-The-Complete-Series",
-            "title": "ALF",
-            "desc": "When an ugly creature, who loves eating cats, crash-lands into the Tanner family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
-            "start": "1986",
-            "end": "1990",
-            "imdb": "tt0090390"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "benson-complete-tv-series-ctv",
-            "title": "Benson",
-            "desc": "Sharp-tongued butler, Benson DuBois, is the governor's director of household affairs.",
-            "start": "1979",
-            "end": "1986",
-            "imdb": "tt0078569"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "bewitchedcomplete_202310",
-            "title": "Bewitched",
-            "desc": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
-            "start": "1964",
-            "end": "1972",
-            "imdb": "tt0057733"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "diffrent-strokes-s-01-e-19-the-trip_202402",
-            "title": "Diff'rent Strokes",
-            "desc": "Different Strokes: The misadventures of suave Park Avenue millionaire Phillip Drummond, his teenage daughter Kimberly, and their current housekeeper Edna Garrett who adopted the two pre-teenage sons of their late African American housekeeper from Harlem. ",
-            "start": "1978",
-            "end": "1986",
-            "imdb": "tt0077003"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "friends-1994-2004-full-series_20250419",
-            "title": "Friends",
-            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-            "start": "1994",
-            "end": "2004",
-            "imdb": "tt0108778"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "GreenAcresCompleteSeries",
-            "title": "Green Acres",
-            "desc": "A New York City attorney and his wife attempt to live as farmers in the bizarre community of Hooterville.",
-            "start": "1965",
-            "end": "1971",
-            "imdb": "tt0058808"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "leave-it-to-beaver-the-complete-series-1957-1963",
-            "title": "Leave It to Beaver",
-            "desc": "The misadventures of a suburban boy, family and friends.",
-            "start": "1957",
-            "end": "1963",
-            "imdb": "tt0050032"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "married-with-children-woc",
-            "title": "Married With Children",
-            "desc": "Al Bundy is the quintessential working-class dad while his wife, Peggy, always wants more.",
-            "start": "1987",
-            "end": "1997",
-            "imdb": "tt0092400"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "newsradio-1995-99",
-            "title": "NewsRadio",
-            "desc": "Workplace sitcom explores office politics and interpersonal relationships of the staff at WNYX NewsRadio",
-            "start": "1995",
-            "end": "1999",
-            "imdb": "tt0112095"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "Petticoat_Junction_Series",
-            "title": "Petticoat Junction",
-            "desc": "The misadventures of the family staff of The Shady Rest Hotel and their neighbors of Hooterville.",
-            "start": "1963",
-            "end": "1970",
-            "imdb": "tt0056780"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "roseanne_202507",
-            "title": "Roseanne",
-            "desc": "Stars Roseanne Barr as Roseanne Conner and features her everyday American working-class family in the fictional town of Lanford, Illinois. Originally aired on ABC from 1988 to 1997, and was briefly revived in 2018. ",
-            "start": "1988",
-            "end": "2018",
-            "imdb": "tt0094540"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "Ghost-Muir",
-            "title": "The Ghost & Mrs. Muir",
-            "desc": "A house is haunted by a deceased sea captain who wreaks havoc with the new tenants who were not advised of his existence.",
-            "start": "1968",
-            "end": "1970",
-            "imdb": "tt0062565"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "Alias-Smith-And-Jones-1973",
-            "title": "Alias Smith And Jones",
-            "desc": "Hannibal Heyes and Kid Curry, two of the most wanted outlaws in the history of the West, are popular \"with everyone except the railroads and the banks\".",
-            "start": "1971",
-            "end": "1973",
-            "imdb": "tt0066625"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "annieoakleys01",
-            "title": "Annie Oakley",
-            "desc": "A fictionalized account of the life of legendary Wild West sharpshooter Annie Oakley.",
-            "start": "1954",
-            "end": "1957",
-            "imdb": "tt0046578"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "bonanzapd",
-            "title": "Bonanza",
-            "desc": "The Wild West adventures of Ben Cartwright and his sons as they run and defend their Nevada ranch.",
-            "start": "1959",
-            "end": "1973",
-            "imdb": "tt0052451"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "walt-disneys-texas-john-slaughter-episode-13-end-of-the-trail",
-            "title": "Texas John Slaughter",
-            "desc": "Texas John Slaughter is a western television series which aired seventeen episodes between October 31, 1958 and April 23, 1961, as part of The Wonderful World of Disney. The character was based upon an actual historical figure, Texas Ranger John Horton Slaughter.",
-            "start": "1958",
-            "end": "1961",
-            "imdb": "tt0046593"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "theloneranger_201705",
-            "title": "The Lone Ranger",
-            "desc": "The adventures of the masked hero and his Native American partner, Tonto.",
-            "start": "1949",
-            "end": "1957",
-            "imdb": "tt0041038"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "theroyrogersshow",
-            "title": "The Roy Rogers Show",
-            "desc": "The Double R Ranch featured Roy Rogers 'The King of the Cowboys', his 'Smartest Horse in the Movies' Trigger, 'Queen of the West' Dale Evans, her horse Buttermilk, their dog Bullet, sidekick Pat Brady, and even Pat's jeep, Nellybelle.",
-            "start": "1951",
-            "end": "1957",
-            "imdb": "tt0043225"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "s-01-e-01-x-02-x-03-saga-of-the-worlds_202502",
-            "title": "Battlestar Galactica (1978)",
-            "desc": "After the destruction of the Twelve Colonies of Mankind, the last major fighter carrier leads a makeshift fugitive fleet on a desperate search for the legendary planet Earth.",
-            "start": "1978",
-            "end": "1979",
-            "imdb": "tt0076984"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "familymatters_202507",
-            "title": "Family Matters",
-            "desc": "The Winslow family deals with various misadventures, many of them caused by their pesky next-door neighbor, ultra-nerd Steve Urkel.",
-            "start": "1989",
-            "end": "1998",
-            "imdb": "tt0096579"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "madtv-s-01-e-04/MADtv+-+S08E05+-+Episode+%23805.mkv",
-            "title": "Mad TV",
-            "desc": "A sketch comedy show based on the seminal Mad Magazine.",
-            "start": "1995",
-            "end": "2016",
-            "imdb": "tt0112056"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "savedbythebell_202507",
-            "title": "Saved By The Bell",
-            "desc": "A close-knit group of six friends get through their teens together while attending Bayside High School in Palisades, California.",
-            "start": "1989",
-            "end": "1992",
-            "imdb": "tt0096694"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
             "identifier": "the-outer-limits-1x-01-02-the-sandkings",
             "title": "The Outer Limits Season 1",
             "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 1.",
@@ -1683,281 +1916,24 @@
             "group": "The Outer Limits"
         },
         {
-            "category": "cartoons",
+            "category": "sci-fi",
             "status": "active",
-            "identifier": "snorks-complete-series",
-            "title": "Snorks",
-            "desc": "The Snorks are playful, multicolored underwater creatures that use their built-in snorkels to dart about and make music.",
-            "start": "1984",
-            "end": "1988",
-            "imdb": "tt0086802"
+            "identifier": "AdventuresOfSupermanS01e02TheHauntedLighthouse_201901",
+            "title": "Adventures of Superman",
+            "desc": "The Man of Steel fights crime with help from his friends at the 'Daily Planet.'",
+            "start": "1952",
+            "end": "1958",
+            "imdb": "tt0044231"
         },
         {
-            "category": "drama",
+            "category": "sci-fi",
             "status": "active",
-            "identifier": "the-man-from-uncle-s-3",
-            "title": "Man from UNCLE Season 3",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 3.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765",
-            "group": "The Man from UNCLE"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-4",
-            "title": "Man from UNCLE Season 4",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 4.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765",
-            "group": "The Man from UNCLE"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "wishbone_20230214_20230214_1416",
-            "title": "Wishbone",
-            "desc": "An intelligent and witty dog imagines himself in the role of characters from classic books and gets involved in similar real-life adventures.",
-            "start": "1995",
-            "end": "1998",
-            "imdb": "tt0112225"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "ep-01_20231021",
-            "title": "The Yogi Bear Show",
-            "desc": "Yogi, a smooth, talkative forest bear looks to raid park goers' picnic baskets, while Park Ranger Smith tries to stop him.",
-            "start": "1961",
-            "end": "1962",
-            "imdb": "tt0255768"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "the-land-before-time-the-complete-tv-series",
-            "title": "The Land Before Time",
-            "desc": "The further adventures of Littlefoot and his friends learning about the world of dinosaurs.",
-            "start": "2007",
-            "end": "2008",
-            "imdb": "tt0473584"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "most-extreme-elimination-challenge-mxc-112-adult-entertainment-vs-home-improveme",
-            "title": "MXC Season 1",
-            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 1.",
-            "start": "2003",
-            "end": "2007",
-            "imdb": "tt0364843",
-            "group": "MXC"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "most-extreme-elimination-challenge-mxc-2-complete",
-            "title": "MXC Season 2",
-            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 2. ",
-            "start": "2003",
-            "end": "2007",
-            "imdb": "tt0364843",
-            "group": "MXC"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "most-extreme-elimination-challenge-mxc-3-complete",
-            "title": "MXC Season 3",
-            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 3.",
-            "start": "2003",
-            "end": "2007",
-            "imdb": "tt0364843",
-            "group": "MXC"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "most-extreme-elimination-challenge-mxc-4-incomplete",
-            "title": "MXC Season 4",
-            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 4.",
-            "start": "2003",
-            "end": "2007",
-            "imdb": "tt0364843",
-            "group": "MXC"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "most-extreme-elimination-challenge-mxc-5-incomplete",
-            "title": "MXC Season 5",
-            "desc": "A silly Japanese game show on which contestants are painfully eliminated through barely possible stunts and events, most taking place above pools of mud. Season 5.",
-            "start": "2003",
-            "end": "2007",
-            "imdb": "tt0364843",
-            "group": "MXC"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "the-tonight-show-starring-johnny-carson",
-            "title": "The Tonight Show",
-            "desc": "Host Johnny Carson performs comedy routines and chats with various celebrities.",
-            "start": "1962",
-            "end": "1992",
-            "imdb": "tt0055708"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "fraggle-toon",
-            "title": "Fraggle Rock (cartoon)",
-            "desc": "An animated version of Jim Henson's classic series.",
-            "start": "1987",
-            "end": "1988",
-            "imdb": "tt0273345"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "punky-brewster-s-01-e-15-e-16-yes-punky-there-is-a-santa-claus",
-            "title": "Punky Brewster",
-            "desc": "Young Punky Brewster is abandoned with her dog, Brandon, in a supermarket. When she befriends Henry Warnimont, her new family life begins.",
-            "start": "1984",
-            "end": "1988",
-            "imdb": "tt0086787"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "watchoutforthattree",
-            "title": "George of the Jungle",
-            "desc": "An anthology of Jay Ward cartoon creations, featuring a dumb ape man and his friends.",
-            "start": "1967",
-            "end": "1970",
-            "imdb": "tt0061256"
-        },
-        {
-            "category": "retro",
-            "status": "active",
-            "identifier": "our-gang-collection",
-            "title": "Our Gang",
-            "desc": "Also known as The Little Rascals or Hal Roach's Rascals, Our Gang is an American series of comedy short films chronicling a group of poor neighborhood children and their adventures.",
-            "start": "1927",
-            "end": "1938",
-            "imdb": "tt0029358"
-        },
-        {
-            "category": "retro",
-            "status": "active",
-            "identifier": "threestooges19341959",
-            "title": "The Three Stooges",
-            "desc": "Classic comedy shorts featuring the crazy trio.",
-            "start": "1934",
-            "end": "1959",
-            "imdb": "tt0850645"
-        },
-        {
-            "category": "retro",
-            "status": "active",
-            "identifier": "boop-oop-a-doop.-1932.1080p.-bluray.-dts.x-264-gcjm",
-            "title": "Betty Boop",
-            "desc": "Pioneering cartoon series (from 1930-1939) from Fleischer Studios, Betty Boop was the mirror of the stereotypical flapper, simultaneously looking for a good time and good-at-heart. ",
-            "start": "1932",
-            "end": "1938",
-            "imdb": "tt16154234"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "wild-kratts-season-1-s-01-e-01-mom-of-a-croc",
-            "title": "Wild Kratts",
-            "desc": "The Kratt Brothers and their team use their \"Creature Power\" suits to learn about and help various species of animals around the world.",
-            "start": "2011",
-            "end": "2025",
-            "imdb": "tt1807859"
-        },
-        {
-            "category": "retro",
-            "status": "active",
-            "identifier": "Felix-The-Cat-1919-1936",
-            "title": "Felix the Cat",
-            "desc": "Felix the Cat is a cartoon character created in 1919 by Otto Messmer and Pat Sullivan during the silent film era. He's one of the most recognized cartoon characters in history. Felix was the first recurring animal character in American animation.",
-            "start": "1919",
-            "end": "1936",
-            "imdb": "tt0141134"
-        },
-        {
-            "category": "retro",
-            "status": "active",
-            "identifier": "popeye-the-sailor-the-complete-series",
-            "title": "Popeye the Sailor",
-            "desc": "Popeye begins his movie career by singing his theme song, demonstrating his strength at a carnival, dancing the hula with Betty Boop, pummeling Bluto, eating his spinach and saving Olive Oyl from certain doom.",
-            "start": "1933",
-            "end": "1957",
-            "imdb": "tt0024461"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "s01e16buffalobilljr.graveofthemonsters",
-            "title": "Buffalo Bill Jr.",
-            "desc": "Buffalo Bill Jr. and his kid sister Calamity are raised under the watchful eye of Judge Ben 'Fair and Square\" Wiley. Together this dynamic trio keep law and order in small town of Wileyville, Arizona.",
-            "start": "1955",
-            "end": "1956",
-            "imdb": "tt0132652"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "neon-genesis-evangelion_1080p_adv_1996",
-            "title": "Neon Genesis Evangelion",
-            "desc": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father. Original title: Shinseiki Evangelion.",
-            "start": "1995",
-            "end": "1996",
-            "imdb": "tt0112159"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "pokemon-advanced-battle-the-complete-collection-2005-06-english-dub",
-            "title": "Pok\u00e9mon: Advanced Battle",
-            "desc": "Pok\u00e9mon: Advanced Battle is the eighth season of Pok\u00e9mon and the third season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation.",
-            "start": "2005",
-            "end": "2006",
-            "imdb": "tt0168366"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "pokemon-advanced-challenge-the-complete-collection-2004-05-english-dub",
-            "title": "Pok\u00e9mon: Advanced Challenge",
-            "desc": "Pok\u00e9mon: Advanced Challenge is the seventh season of Pok\u00e9mon and the second season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation ",
-            "start": "2004",
-            "end": "2005",
-            "imdb": "tt0168366"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "db-bebop-of-the-cowboys-1080p",
-            "title": "Cowboy Bebop",
-            "desc": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
-            "start": "1998",
-            "end": "1999",
-            "imdb": "tt0213338"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-master-complete-series-1984",
-            "title": "The Master",
-            "desc": "An aging American ninja master and his headstrong young apprentice search for the elder man's daughter.",
-            "start": "1984",
-            "end": "1984",
-            "imdb": "tt0086756"
+            "identifier": "s-01-e-01-x-02-x-03-saga-of-the-worlds_202502",
+            "title": "Battlestar Galactica (1978)",
+            "desc": "After the destruction of the Twelve Colonies of Mankind, the last major fighter carrier leads a makeshift fugitive fleet on a desperate search for the legendary planet Earth.",
+            "start": "1978",
+            "end": "1979",
+            "imdb": "tt0076984"
         },
         {
             "category": "sci-fi",
@@ -1970,186 +1946,14 @@
             "imdb": "tt0080198"
         },
         {
-            "category": "cartoons",
+            "category": "sci-fi",
             "status": "active",
-            "identifier": "barney-bear-1939-xvid",
-            "title": "Barney Bear",
-            "desc": "Barney Bear is an American series of animated cartoon short subjects produced by Metro-Goldwyn-Mayer cartoon studio. The title character is an anthropomorphic cartoon character, a sluggish, sleepy bear who often is in pursuit of peace and quiet.",
-            "start": "1939",
-            "end": "1954",
-            "imdb": "tt0036626"
-        },
-        {
-            "category": "western",
-            "status": "active",
-            "identifier": "legend-complete-series-1995",
-            "title": "Legend (1995)",
-            "desc": "In the waning days of the 19th century, dime novelist Ernest Pratt assumes the persona of his noble literary hero, Nicodemus Legend, and roams the Old West with his scientist friend Dr. Janos Bartok.",
-            "start": "1995",
-            "end": "1995",
-            "imdb": "tt0112045"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "Spider-Man-67-Collection",
-            "title": "Spider-Man (1967)",
-            "desc": "Original cartoon series based on the web-slinging Marvel comic book character, Peter Parker, who, after being bit by a radioactive spider, assumes extraordinary powers.",
-            "start": "1967",
-            "end": "1970",
-            "imdb": "tt0061301"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "tmnt-2003_202404",
-            "title": "Teenage Mutant Ninja Turtles",
-            "desc": "Follows the adventures of the Teenage Mutant Ninja Turtles, with this iteration being based on the stories from the original mirage comic books.",
-            "start": "2003",
-            "end": "2010",
-            "imdb": "tt0318913"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "rl-stines-the-haunting-hour-full-series",
-            "title": "The Haunting Hour",
-            "desc": "R.L. Stine leads young viewers on a creepy tour of tales featuring life-sized dolls, werewolves, and carnival clowns that are stalking children. Original title: R.L. Stine's The Haunting Hour.",
-            "start": "2010",
-            "end": "2014",
-            "imdb": "tt1765510"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "freddys-nightmares-complete-tv-series",
-            "title": "Freddy's Nightmares",
-            "desc": "\"Freddy's Nightmares\" was a 1988 horror anthology series with \"Freddy\", the dream serial killer, hosting stories set in Springwood, USA.",
-            "start": "1988",
-            "end": "1990",
-            "imdb": "tt0094466"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "s-01-e-01-1.-incident-on-and-off-a-mountain-road",
-            "title": "Masters of Horror",
-            "desc": "Genre veteran Mick Garris has amassed some of the greatest horror film writers and directors to bring to you the anthology series.",
-            "start": "2005",
-            "end": "2007",
-            "imdb": "tt0448190"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "theatre-macabre-s-1e-4-mateo-falcone-1971",
-            "title": "Theatre Macabre",
-            "desc": "\"Theatre Macabre\" was a horror movie anthology series hosted by Christopher Lee; made in Poland; with stories from various classic authors.",
-            "start": "1971",
-            "end": "1972",
-            "imdb": "tt1957799"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "wolf-lake-2001-complete",
-            "title": "Wolf Lake",
-            "desc": "Set in the Pacific Northwest, this suspense thriller explores what happens when werewolves overtake a small Seattle suburb.",
-            "start": "2001",
-            "end": "2002",
-            "imdb": "tt0281524"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "bone-chillers-complete-series",
-            "title": "Bone Chillers",
-            "desc": "The spooky, sometimes even funny, misadventures of a gang of schoolchildren who encounter any number of strange happenings in their school and hometown.",
-            "start": "1996",
-            "end": "1996",
-            "imdb": "tt0115114"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "night-visions-complete-series",
-            "title": "Night Visions",
-            "desc": "\"Night Visions\" was a hosted anthology series similar to \"The Twilight Zone\" - some tales are supernatural, others are just commentaries on twisted human nature. Each hour show is made up of two half-hour stories aired back-to-back.",
-            "start": "2001",
-            "end": "2002",
-            "imdb": "tt0247120"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "ghost-story-circle-of-fear-complete",
-            "title": "Circle of Fear",
-            "desc": "An anthology of suspense dramas concentrating on individuals confronted with supernatural occurrences. Original title: Ghost Story.",
-            "start": "1972",
-            "end": "1973",
-            "imdb": "tt0068074"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "dark-shadows_202210",
-            "title": "Dark Shadows",
-            "desc": "The rich Collins family of Collinsport, Maine is tormented by strange occurrences.",
-            "start": "1966",
-            "end": "1971",
-            "imdb": "tt0059978"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "american-gothic-1995-Complete-tv-series",
-            "title": "American Gothic",
-            "desc": "A quiet, seemingly-quaint small town is ruled over by its charming yet evil sheriff who uses his demonic powers to remove anyone who dares to stand in his way. The only one he fears is a young boy he fathered through rape.",
-            "start": "1995",
-            "end": "1998",
-            "imdb": "tt0111880"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "tales-from-the-darkside-s01-en",
-            "title": "Tales from the Darkside 1",
-            "desc": "\"Tales from the Darkside\" was a horror anthology series where the viewer is taken through ghost stories, science fiction adventures, and creepy, unexplained events. Season 1.",
-            "start": "1983",
-            "end": "1988",
-            "imdb": "tt0086814",
-            "group": "Tales from the Darkside"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "tales-from-the-darkside-s02-en",
-            "title": "Tales from the Darkside 2",
-            "desc": "\"Tales from the Darkside\" was a horror anthology series where the viewer is taken through ghost stories, science fiction adventures, and creepy, unexplained events. Season 2.",
-            "start": "1983",
-            "end": "1988",
-            "imdb": "tt0086814",
-            "group": "Tales from the Darkside"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "kolchak-the-night-strangler-1973",
-            "title": "Kolchak: The Night Strangler",
-            "desc": "A reporter hunts down a 144-year old alchemist who is killing women for their blood.",
-            "start": "1973",
-            "end": "1973",
-            "imdb": "tt0069002"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "the_unknown_2012",
-            "title": "The Unknown",
-            "desc": "Anthology about a man with a blog that searches for the truth behind supernatural phenomena and documents people's stories of their experiences with the unknown.",
-            "start": "2012",
-            "end": "2012",
-            "imdb": "tt2384747"
+            "identifier": "LogansRunMovie",
+            "title": "Logan's Run (Movie)",
+            "desc": "A police officer in the future uncovers the deadly secret behind a society that worships youth.",
+            "start": "1976",
+            "end": "1976",
+            "imdb": "tt0074812"
         },
         {
             "category": "sci-fi",
@@ -2164,6 +1968,26 @@
         {
             "category": "sci-fi",
             "status": "active",
+            "identifier": "man-from-atlantis-complete-series-1977",
+            "title": "Man From Atlantis",
+            "desc": "The adventures of an amphibious man, the last survivor of the legendary sunken city.",
+            "start": "1977",
+            "end": "1978",
+            "imdb": "tt0075533"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "max-headroom-complete",
+            "title": "Max Headroom",
+            "desc": "An intrepid investigative TV reporter does his job with the help of his colleagues and a computerized version of himself.",
+            "start": "1987",
+            "end": "1988",
+            "imdb": "tt0092402"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
             "identifier": "the-immortal-complete-series-1970",
             "title": "The Immortal",
             "desc": "An immortal man whose blood can have miraculous health benefits is a fugitive from those who would exploit both him and his brother he seeks.",
@@ -2174,102 +1998,308 @@
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "man-from-atlantis-complete-series-1977",
-            "title": "Man From Atlantis",
-            "desc": "The adventures of an amphibious man, the last survivor of the legendary sunken city.",
-            "start": "1977",
-            "end": "1978",
-            "imdb": "tt0075533"
+            "identifier": "the-time-tunnel",
+            "title": "The Time Tunnel",
+            "desc": "Two scientists with a secret time travel project find themselves trapped in the time stream and appearing in notable periods of history.",
+            "start": "1966",
+            "end": "1967",
+            "imdb": "tt0060036"
         },
         {
-            "category": "cartoons",
+            "category": "sitcom",
             "status": "active",
-            "identifier": "c.-b.-bears-complete-series-1977",
-            "title": "CB Bears",
-            "desc": "\"The CB Bears\" segment follows Hustle, Boogie and Bump, three anthropomorphic bear detectives posing as garbagemen, who solve mysteries. ",
-            "start": "1977",
-            "end": "1977",
-            "imdb": "tt0075487"
+            "identifier": "mister-ed-s-01",
+            "title": "Mister Ed Season 1",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
         },
         {
-            "category": "sci-fi",
+            "category": "sitcom",
             "status": "active",
-            "identifier": "LogansRunMovie",
-            "title": "Logan's Run (Movie)",
-            "desc": "A police officer in the future uncovers the deadly secret behind a society that worships youth.",
-            "start": "1976",
-            "end": "1976",
-            "imdb": "tt0074812"
+            "identifier": "mister-ed-s-02-",
+            "title": "Mister Ed Season 2",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
         },
         {
-            "category": "mystery",
+            "category": "sitcom",
             "status": "active",
-            "identifier": "the-magician-complete-series-1973",
-            "title": "The Magician",
-            "desc": "The cases of a stage magician/escape artist who moonlights as an amateur crimefighter.",
-            "start": "1973",
-            "end": "1974",
-            "imdb": "tt0069606"
+            "identifier": "mister-ed-s-03",
+            "title": "Mister Ed Season 3",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
         },
         {
-            "category": "cartoons",
+            "category": "sitcom",
             "status": "active",
-            "identifier": "07.-the-lost-planet-of-atlantis",
-            "title": "Yogi's Space Race",
-            "desc": "Yogi Bear and his friends enter a race to different galaxies in space, but must battle a variety of space creatures out to see that they don't finish the race.",
+            "identifier": "mister-ed-s-04",
+            "title": "Mister Ed Season 4",
+            "desc": "The misadventures of a wisecracking talking horse and his human owner.",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054557",
+            "group": "Mister Ed"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "the-addams-family__season-1",
+            "title": "The Addams Family Season 1",
+            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
+            "start": "1964",
+            "end": "1966",
+            "imdb": "tt0057729",
+            "group": "The Addams Family"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "the-addams-family__season-2",
+            "title": "The Addams Family Season 2",
+            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
+            "start": "1964",
+            "end": "1966",
+            "imdb": "tt0057729",
+            "group": "The Addams Family"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "ALF-The-Complete-Series",
+            "title": "ALF",
+            "desc": "When an ugly creature, who loves eating cats, crash-lands into the Tanner family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
+            "start": "1986",
+            "end": "1990",
+            "imdb": "tt0090390"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "benson-complete-tv-series-ctv",
+            "title": "Benson",
+            "desc": "Sharp-tongued butler, Benson DuBois, is the governor's director of household affairs.",
+            "start": "1979",
+            "end": "1986",
+            "imdb": "tt0078569"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "bewitchedcomplete_202310",
+            "title": "Bewitched",
+            "desc": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
+            "start": "1964",
+            "end": "1972",
+            "imdb": "tt0057733"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "diffrent-strokes-s-01-e-19-the-trip_202402",
+            "title": "Diff'rent Strokes",
+            "desc": "Different Strokes: The misadventures of suave Park Avenue millionaire Phillip Drummond, his teenage daughter Kimberly, and their current housekeeper Edna Garrett who adopted the two pre-teenage sons of their late African American housekeeper from Harlem. ",
             "start": "1978",
-            "end": "1978",
-            "imdb": "tt0177468"
+            "end": "1986",
+            "imdb": "tt0077003"
         },
         {
-            "category": "cartoons",
+            "category": "sitcom",
             "status": "active",
-            "identifier": "s-03-e-09-secret-agent-bear",
-            "title": "Yogi's Treasure Hunt",
-            "desc": "Yogi and the gang go on treasure hunts all around the world, as assigned by Top Cat. They travel on board their ship, the S.S. Jelly Roger. Dick Dastardly and Muttley follow them with their ship, the S.S. Dirty Tricks, and try to beat Yogi and his friends",
-            "start": "1985",
-            "end": "1988",
-            "imdb": "tt0361260"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "blues-clues-s-03-e-59-blues-big-musical-movie",
-            "title": "Blue's Clues",
-            "desc": "Blue is a puppy who puts her paw prints on three clues. Steve or Joe has to deduce the clues (with the help of off-screen children) to figure out what Blue wants to do.",
-            "start": "1996",
-            "end": "2007",
-            "imdb": "tt0163929"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "courage-the-cowardly-dog-1080p-ai-upscale",
-            "title": "Courage The Cowardly Dog",
-            "desc": "The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.",
-            "start": "1999",
-            "end": "2002",
-            "imdb": "tt0220880"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "pokemon-xy-kalos-quest-the-complete-collection-tpci-english-dub",
-            "title": "Pok\u00e9mon: XY Kalos Quest",
-            "desc": "Pok\u00e9mon the Series: XY Kalos Quest is the eighteenth season of the Pok\u00e9mon anime series, and the second season of Pok\u00e9mon the Series: XY, known in Japan as Pocket Monsters: XY. Originally aired from February 7 to December 19, 2015.",
-            "start": "1997",
-            "end": "2023",
-            "imdb": "tt0168366"
-        },
-        {
-            "category": "kids",
-            "status": "active",
-            "identifier": "dink-the-little-dinosaur-complete-series",
-            "title": "Dink The Little Dinosaur",
-            "desc": "A small Apatosaurus and his friends learn important life lessons through adventures.",
+            "identifier": "familymatters_202507",
+            "title": "Family Matters",
+            "desc": "The Winslow family deals with various misadventures, many of them caused by their pesky next-door neighbor, ultra-nerd Steve Urkel.",
             "start": "1989",
-            "end": "1991",
-            "imdb": "tt0213340"
+            "end": "1998",
+            "imdb": "tt0096579"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "friends-1994-2004-full-series_20250419",
+            "title": "Friends",
+            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
+            "start": "1994",
+            "end": "2004",
+            "imdb": "tt0108778"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "GreenAcresCompleteSeries",
+            "title": "Green Acres",
+            "desc": "A New York City attorney and his wife attempt to live as farmers in the bizarre community of Hooterville.",
+            "start": "1965",
+            "end": "1971",
+            "imdb": "tt0058808"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "leave-it-to-beaver-the-complete-series-1957-1963",
+            "title": "Leave It to Beaver",
+            "desc": "The misadventures of a suburban boy, family and friends.",
+            "start": "1957",
+            "end": "1963",
+            "imdb": "tt0050032"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "malcolm-in-the-middle-complete-series-2000-2006",
+            "title": "Malcolm in the Middle",
+            "desc": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+            "start": "2000",
+            "end": "2006",
+            "imdb": "tt0212671"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "married-with-children-woc",
+            "title": "Married With Children",
+            "desc": "Al Bundy is the quintessential working-class dad while his wife, Peggy, always wants more.",
+            "start": "1987",
+            "end": "1997",
+            "imdb": "tt0092400"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "newsradio-1995-99",
+            "title": "NewsRadio",
+            "desc": "Workplace sitcom explores office politics and interpersonal relationships of the staff at WNYX NewsRadio",
+            "start": "1995",
+            "end": "1999",
+            "imdb": "tt0112095"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "Petticoat_Junction_Series",
+            "title": "Petticoat Junction",
+            "desc": "The misadventures of the family staff of The Shady Rest Hotel and their neighbors of Hooterville.",
+            "start": "1963",
+            "end": "1970",
+            "imdb": "tt0056780"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "punky-brewster-s-01-e-15-e-16-yes-punky-there-is-a-santa-claus",
+            "title": "Punky Brewster",
+            "desc": "Young Punky Brewster is abandoned with her dog, Brandon, in a supermarket. When she befriends Henry Warnimont, her new family life begins.",
+            "start": "1984",
+            "end": "1988",
+            "imdb": "tt0086787"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "roseanne_202507",
+            "title": "Roseanne",
+            "desc": "Stars Roseanne Barr as Roseanne Conner and features her everyday American working-class family in the fictional town of Lanford, Illinois. Originally aired on ABC from 1988 to 1997, and was briefly revived in 2018. ",
+            "start": "1988",
+            "end": "2018",
+            "imdb": "tt0094540"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "savedbythebell_202507",
+            "title": "Saved By The Bell",
+            "desc": "A close-knit group of six friends get through their teens together while attending Bayside High School in Palisades, California.",
+            "start": "1989",
+            "end": "1992",
+            "imdb": "tt0096694"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "TheBobNewhartShow",
+            "title": "The Bob Newhart Show",
+            "desc": "The professional and personal misadventures of a psychologist and his family, patients, friends and colleagues.",
+            "start": "1972",
+            "end": "1978",
+            "imdb": "tt0068049"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "Ghost-Muir",
+            "title": "The Ghost & Mrs. Muir",
+            "desc": "A house is haunted by a deceased sea captain who wreaks havoc with the new tenants who were not advised of his existence.",
+            "start": "1968",
+            "end": "1970",
+            "imdb": "tt0062565"
+        },
+        {
+            "category": "sports",
+            "status": "active",
+            "identifier": "classicmonsterjam",
+            "title": "Monster Jam",
+            "desc": "Feld Sports Entertainment presents the biggest and baddest monster truck event in a weekly televised event featuring racing, donuts and freestyle action.",
+            "start": "2003",
+            "end": "2013",
+            "imdb": "tt1591949"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "Alias-Smith-And-Jones-1973",
+            "title": "Alias Smith And Jones",
+            "desc": "Hannibal Heyes and Kid Curry, two of the most wanted outlaws in the history of the West, are popular \"with everyone except the railroads and the banks\".",
+            "start": "1971",
+            "end": "1973",
+            "imdb": "tt0066625"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "annieoakleys01",
+            "title": "Annie Oakley",
+            "desc": "A fictionalized account of the life of legendary Wild West sharpshooter Annie Oakley.",
+            "start": "1954",
+            "end": "1957",
+            "imdb": "tt0046578"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "bonanzapd",
+            "title": "Bonanza",
+            "desc": "The Wild West adventures of Ben Cartwright and his sons as they run and defend their Nevada ranch.",
+            "start": "1959",
+            "end": "1973",
+            "imdb": "tt0052451"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "s01e16buffalobilljr.graveofthemonsters",
+            "title": "Buffalo Bill Jr.",
+            "desc": "Buffalo Bill Jr. and his kid sister Calamity are raised under the watchful eye of Judge Ben 'Fair and Square\" Wiley. Together this dynamic trio keep law and order in small town of Wileyville, Arizona.",
+            "start": "1955",
+            "end": "1956",
+            "imdb": "tt0132652"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "legend-complete-series-1995",
+            "title": "Legend (1995)",
+            "desc": "In the waning days of the 19th century, dime novelist Ernest Pratt assumes the persona of his noble literary hero, Nicodemus Legend, and roams the Old West with his scientist friend Dr. Janos Bartok.",
+            "start": "1995",
+            "end": "1995",
+            "imdb": "tt0112045"
         },
         {
             "category": "western",
@@ -2282,14 +2312,34 @@
             "imdb": "tt0043232"
         },
         {
-            "category": "kids",
+            "category": "western",
             "status": "active",
-            "identifier": "theberenstainbearscompleteseries",
-            "title": "The Berenstain Bears (2003)",
-            "desc": "Join the fun-loving Berenstain Bears for exciting adventures in Bear Country. Watch as Sister gets her first tooth, Papa and the cubs learn how to cope around the house without Mama, the kids adopt one of Farmer Ben's new puppies, and more.",
-            "start": "2003",
-            "end": "2004",
-            "imdb": "tt34475386"
+            "identifier": "walt-disneys-texas-john-slaughter-episode-13-end-of-the-trail",
+            "title": "Texas John Slaughter",
+            "desc": "Texas John Slaughter is a western television series which aired seventeen episodes between October 31, 1958 and April 23, 1961, as part of The Wonderful World of Disney. The character was based upon an actual historical figure, Texas Ranger John Horton Slaughter.",
+            "start": "1958",
+            "end": "1961",
+            "imdb": "tt0046593"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "theloneranger_201705",
+            "title": "The Lone Ranger",
+            "desc": "The adventures of the masked hero and his Native American partner, Tonto.",
+            "start": "1949",
+            "end": "1957",
+            "imdb": "tt0041038"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "theroyrogersshow",
+            "title": "The Roy Rogers Show",
+            "desc": "The Double R Ranch featured Roy Rogers 'The King of the Cowboys', his 'Smartest Horse in the Movies' Trigger, 'Queen of the West' Dale Evans, her horse Buttermilk, their dog Bullet, sidekick Pat Brady, and even Pat's jeep, Nellybelle.",
+            "start": "1951",
+            "end": "1957",
+            "imdb": "tt0043225"
         }
     ]
 }

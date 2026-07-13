@@ -4,13 +4,13 @@
         {
             "filename": "freetv.json",
             "dbtitle": "Default TV Shows",
-            "lastupdated": "2025-10-17T15:18:58.000Z",
+            "lastupdated": "2026-07-01T20:39:06.000Z",
             "author": "Free TV"
         },
         {
             "filename": "ftv-british.json",
             "dbtitle": "British TV",
-            "lastupdated": "2025-10-17T13:38:46.000Z",
+            "lastupdated": "2026-07-01T02:08:40.000Z",
             "author": "Free TV"
         },
         {
@@ -22,7 +22,7 @@
         {
             "filename": "ftv-movies.json",
             "dbtitle": "Movies",
-            "lastupdated": "2025-10-17T13:28:13.000Z",
+            "lastupdated": "2026-07-01T12:37:11.000Z",
             "author": "Free TV"
         }
     ]
