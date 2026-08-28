@@ -1,10 +1,10 @@
 {
   "format_version": 1,
-  "production_snapshot_at": "2026-08-28T12:47:31-04:00",
-  "generated_at": "2026-08-28T13:02:14-04:00",
+  "production_snapshot_at": "2026-08-28T16:47:31.000Z",
+  "generated_at": "2026-08-28T16:47:31.000Z",
   "counts": {
-    "playlists": 12,
-    "shows": 1843,
-    "thumbnails": 1712
+    "playlists": 5,
+    "shows": 301,
+    "thumbnails": 420
   }
 }
