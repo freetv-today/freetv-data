@@ -4,25 +4,25 @@
         {
             "filename": "freetv.json",
             "dbtitle": "Default TV Shows",
-            "lastupdated": "2026-07-01T20:39:06.000Z",
+            "lastupdated": "2026-08-29T12:04:34.000Z",
             "author": "Free TV"
         },
         {
             "filename": "ftv-british.json",
             "dbtitle": "British TV",
-            "lastupdated": "2026-07-01T02:08:40.000Z",
+            "lastupdated": "2026-08-27T00:55:26.000Z",
             "author": "Free TV"
         },
         {
             "filename": "ftv-holidays.json",
             "dbtitle": "Holiday Shows",
-            "lastupdated": "2025-10-08T18:08:16.000Z",
+            "lastupdated": "2026-08-27T00:55:26.000Z",
             "author": "Free TV"
         },
         {
             "filename": "ftv-movies.json",
             "dbtitle": "Movies",
-            "lastupdated": "2026-07-01T12:37:11.000Z",
+            "lastupdated": "2026-08-27T00:55:26.000Z",
             "author": "Free TV"
         }
     ]

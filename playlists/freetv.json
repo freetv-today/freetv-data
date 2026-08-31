@@ -1,7 +1,6 @@
 {
-    "lastupdated": "2026-07-01T20:39:06.000Z",
+    "lastupdated": "2026-08-29T12:04:34.000Z",
     "dbtitle": "Default TV Shows",
-    "filename": "freetv.json",
     "dbversion": "1.0",
     "author": "Free TV",
     "email": "support@freetv.today",
@@ -16,16 +15,6 @@
             "start": "1999",
             "end": "2002",
             "imdb": "tt0220880"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "drkatz-disc-2",
-            "title": "Dr. Katz, Professional Therapist",
-            "desc": "A therapist struggles with problems of his patients, while dealing with the ones in his personal life.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0111942"
         },
         {
             "category": "animation",
@@ -66,16 +55,6 @@
             "start": "2012",
             "end": "2016",
             "imdb": "tt1865718"
-        },
-        {
-            "category": "animation",
-            "status": "active",
-            "identifier": "the-grim-adventures-of-billy-and-mandy_202212",
-            "title": "Grim Adventures of Billy & Mandy",
-            "desc": "The ill-tempered Grim Reaper gets into a wager that forces him to become the life-long companions of two scheming youngsters after he loses.",
-            "start": "2003",
-            "end": "2007",
-            "imdb": "tt0292800"
         },
         {
             "category": "animation",
@@ -230,62 +209,12 @@
         {
             "category": "anime",
             "status": "active",
-            "identifier": "neon-genesis-evangelion_1080p_adv_1996",
-            "title": "Neon Genesis Evangelion",
-            "desc": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father. Original title: Shinseiki Evangelion.",
-            "start": "1995",
-            "end": "1996",
-            "imdb": "tt0112159"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "pokemon-advanced-battle-the-complete-collection-2005-06-english-dub",
-            "title": "Pok\u00e9mon: Advanced Battle",
-            "desc": "Pok\u00e9mon: Advanced Battle is the eighth season of Pok\u00e9mon and the third season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation.",
-            "start": "2005",
-            "end": "2006",
-            "imdb": "tt0168366"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "pokemon-advanced-challenge-the-complete-collection-2004-05-english-dub",
-            "title": "Pok\u00e9mon: Advanced Challenge",
-            "desc": "Pok\u00e9mon: Advanced Challenge is the seventh season of Pok\u00e9mon and the second season of Pok\u00e9mon the Series: Ruby and Sapphire, known in Japan as Pocket Monsters: Advanced Generation ",
-            "start": "2004",
-            "end": "2005",
-            "imdb": "tt0168366"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "pokemon-xy-kalos-quest-the-complete-collection-tpci-english-dub",
-            "title": "Pok\u00e9mon: XY Kalos Quest",
-            "desc": "Pok\u00e9mon the Series: XY Kalos Quest is the eighteenth season of the Pok\u00e9mon anime series, and the second season of Pok\u00e9mon the Series: XY, known in Japan as Pocket Monsters: XY. Originally aired from February 7 to December 19, 2015.",
-            "start": "1997",
-            "end": "2023",
-            "imdb": "tt0168366"
-        },
-        {
-            "category": "anime",
-            "status": "active",
             "identifier": "sonic-x-complete-series-discotek-media-english-language-collection-bluray-rips-mkv",
             "title": "Sonic X",
             "desc": "A slight malfunction causes Chaos Control, and sends Sonic the Hedgehog to Earth. While there, Sonic meets Chris Thorndyke, who aids at collecting the Chaos Emeralds, so Sonic and friends can go home.",
             "start": "2003",
             "end": "2006",
             "imdb": "tt0367413"
-        },
-        {
-            "category": "anime",
-            "status": "active",
-            "identifier": "yu-gi-oh-the-complete-series",
-            "title": "Yu-Gi-Oh!",
-            "desc": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.",
-            "start": "2000",
-            "end": "2006",
-            "imdb": "tt0249327"
         },
         {
             "category": "cartoons",
@@ -296,36 +225,6 @@
             "start": "1939",
             "end": "1949",
             "imdb": "tt0141550"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "barney-bear-1939-xvid",
-            "title": "Barney Bear",
-            "desc": "Barney Bear is an American series of animated cartoon short subjects produced by Metro-Goldwyn-Mayer cartoon studio. The title character is an anthropomorphic cartoon character, a sluggish, sleepy bear who often is in pursuit of peace and quiet.",
-            "start": "1939",
-            "end": "1954",
-            "imdb": "tt0036626"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "captain-caveman-and-the-teen-angels",
-            "title": "Capt. Caveman & the Teen Angels",
-            "desc": "The adventures of a superhero caveman and a trio of female amateur detectives.",
-            "start": "1977",
-            "end": "1980",
-            "imdb": "tt0284712"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "c.-b.-bears-complete-series-1977",
-            "title": "CB Bears",
-            "desc": "\"The CB Bears\" segment follows Hustle, Boogie and Bump, three anthropomorphic bear detectives posing as garbagemen, who solve mysteries. ",
-            "start": "1977",
-            "end": "1977",
-            "imdb": "tt0075487"
         },
         {
             "category": "cartoons",
@@ -420,36 +319,6 @@
         {
             "category": "cartoons",
             "status": "active",
-            "identifier": "the-scooby-doo-show",
-            "title": "Scooby-Doo Show",
-            "desc": "Join Scooby-Doo and the gang in their various adventures in this compilation series.",
-            "start": "1976",
-            "end": "1979",
-            "imdb": "tt21153032"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "snorks-complete-series",
-            "title": "Snorks",
-            "desc": "The Snorks are playful, multicolored underwater creatures that use their built-in snorkels to dart about and make music.",
-            "start": "1984",
-            "end": "1988",
-            "imdb": "tt0086802"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "s-01-e-04-the-weather-maker",
-            "title": "Super Friends",
-            "desc": "The greatest of the DC Comics superheroes work together to uphold the good with the help of some young proteges.",
-            "start": "1973",
-            "end": "1985",
-            "imdb": "tt0069641"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
             "identifier": "tmnt-2003_202404",
             "title": "Teenage Mutant Ninja Turtles",
             "desc": "Follows the adventures of the Teenage Mutant Ninja Turtles, with this iteration being based on the stories from the original mirage comic books.",
@@ -470,102 +339,12 @@
         {
             "category": "cartoons",
             "status": "active",
-            "identifier": "the-looney-tunes-show_202405",
-            "title": "The Looney Tunes Show",
-            "desc": "An updated iteration of the classic Looney Tunes characters focusing on their satirical misadventures living in suburbia.",
-            "start": "2011",
-            "end": "2013",
-            "imdb": "tt1726839"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "the-powerpuff-girls_fullseries",
-            "title": "The Powerpuff Girls",
-            "desc": "Three super-powered little girls save the world (or at least the city of Townsville) from monsters and would-be conquerers.",
-            "start": "1998",
-            "end": "2004",
-            "imdb": "tt0175058"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "smurfs-1981-complete-series-nbc",
-            "title": "The Smurfs",
-            "desc": "The Smurfs are tiny blue creatures that live in mushroom houses in a peaceful forest. They repeatedly try to outwit Gargamel, an evil sorcerer, his apprentice, Scruple, and his mangy cat, Azrael.",
-            "start": "1981",
-            "end": "1990",
-            "imdb": "tt0081933"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "ep-01_20231021",
-            "title": "The Yogi Bear Show",
-            "desc": "Yogi, a smooth, talkative forest bear looks to raid park goers' picnic baskets, while Park Ranger Smith tries to stop him.",
-            "start": "1961",
-            "end": "1962",
-            "imdb": "tt0255768"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "tomandjerry-completemgmcollection_202312",
-            "title": "Tom and Jerry",
-            "desc": "Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera and feature a cat named Tom and a mouse named Jerry.",
-            "start": "1940",
-            "end": "1967",
-            "imdb": "tt28335303"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "02.-the-maharajah-of-pookajee_202306",
-            "title": "Top Cat",
-            "desc": "Top Cat is the leader of a group of alley cats, always trying to cheat someone.",
-            "start": "1961",
-            "end": "1962",
-            "imdb": "tt0054572"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "wacky-races-s-01-e-03-why-oh-why-wyoming-sdtv",
-            "title": "Wacky Races",
-            "desc": "The participants of an unusual car race compete around America.",
-            "start": "1968",
-            "end": "1969",
-            "imdb": "tt0122365"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
             "identifier": "walter-lantzs-ww-cartoons",
             "title": "Woody Woodpecker",
             "desc": "Woody Woodpecker is a cartoon character that appeared in theatrical short films produced by the Walter Lantz Studio. They were first broadcast on television in 1957 under the title The Woody Woodpecker Show.",
             "start": "1957",
             "end": "1972",
             "imdb": "tt0184175"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "07.-the-lost-planet-of-atlantis",
-            "title": "Yogi's Space Race",
-            "desc": "Yogi Bear and his friends enter a race to different galaxies in space, but must battle a variety of space creatures out to see that they don't finish the race.",
-            "start": "1978",
-            "end": "1978",
-            "imdb": "tt0177468"
-        },
-        {
-            "category": "cartoons",
-            "status": "active",
-            "identifier": "s-03-e-09-secret-agent-bear",
-            "title": "Yogi's Treasure Hunt",
-            "desc": "Yogi and the gang go on treasure hunts all around the world, as assigned by Top Cat. They travel on board their ship, the S.S. Jelly Roger. Dick Dastardly and Muttley follow them with their ship, the S.S. Dirty Tricks, and try to beat Yogi and his friends",
-            "start": "1985",
-            "end": "1988",
-            "imdb": "tt0361260"
         },
         {
             "category": "comedy",
@@ -651,26 +430,6 @@
             "start": "1965",
             "end": "1970",
             "imdb": "tt0058805"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "its_always_sunny_complete_archive",
-            "title": "It's Always Sunny in Philadelphia",
-            "desc": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia.",
-            "start": "2005",
-            "end": "2025",
-            "imdb": "tt0472954"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "swiss-miss-1938",
-            "title": "Laurel & Hardy",
-            "desc": "Laurel and Hardy were a British-American comedy team during the early Classical Hollywood era of American cinema, consisting of Englishman Stan Laurel and American Oliver Hardy.",
-            "start": "1927",
-            "end": "1955",
-            "imdb": "tt0196372"
         },
         {
             "category": "comedy",
@@ -845,32 +604,12 @@
         {
             "category": "documentary",
             "status": "active",
-            "identifier": "the-great-war-1964",
-            "title": "The Great War",
-            "desc": "One of the greatest achievements of television - aired in 26 episodes from 1964. Use of extensive archival material and sound effects combined with contemporary classical music from this era.",
-            "start": "1964",
-            "end": "1964",
-            "imdb": "tt0057753"
-        },
-        {
-            "category": "documentary",
-            "status": "active",
             "identifier": "TheVelvetClawEp3Of7StrengthInNumbers_201901",
             "title": "The Velvet Claw",
             "desc": "From big cats to tiny weasels, this series follows the sometimes surprising evolution of the Carnivora - the mammals that eat meat.",
             "start": "1992",
             "end": "1992",
             "imdb": "tt1245441"
-        },
-        {
-            "category": "documentary",
-            "status": "active",
-            "identifier": "the-world-at-war-1973",
-            "title": "The World At War",
-            "desc": "A groundbreaking 26-part documentary series about the deadliest conflict in history, World War II.",
-            "start": "1973",
-            "end": "1973",
-            "imdb": "tt0071075"
         },
         {
             "category": "documentary",
@@ -1004,83 +743,6 @@
         {
             "category": "drama",
             "status": "active",
-            "identifier": "millennium-season-one-1996",
-            "title": "Millennium Season 1",
-            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 1.",
-            "start": "1996",
-            "end": "1999",
-            "imdb": "tt0115270",
-            "group": "Millennium"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "22-the-fourth-horseman-millennium-season-2-1996-1999",
-            "title": "Millennium Season 2",
-            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 2.",
-            "start": "1996",
-            "end": "1999",
-            "imdb": "tt0115270",
-            "group": "Millennium"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "s03-millennium-season-3-1996-1999",
-            "title": "Millennium Season 3",
-            "desc": "A former FBI profiler with the ability to look inside the mind of a killer begins working for the mysterious Millennium Group which investigates serial killers, conspiracies, the occult, and those obsessed with the end of the millennium. Season 3.",
-            "start": "1996",
-            "end": "1999",
-            "imdb": "tt0115270",
-            "group": "Millennium"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-1",
-            "title": "Man from UNCLE Season 1",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 1.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765",
-            "group": "The Man from UNCLE"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-2",
-            "title": "Man from UNCLE Season 2",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 2.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765",
-            "group": "The Man from UNCLE"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-3",
-            "title": "Man from UNCLE Season 3",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 3.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765",
-            "group": "The Man from UNCLE"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "the-man-from-uncle-s-4",
-            "title": "Man from UNCLE Season 4",
-            "desc": "The two top Agents of the United Network Command for Law and Enforcement (U.N.C.L.E.) fight the enemies of peace, particularly the forces of T.H.R.U.S.H. Season 4.",
-            "start": "1964",
-            "end": "1968",
-            "imdb": "tt0057765",
-            "group": "The Man from UNCLE"
-        },
-        {
-            "category": "drama",
-            "status": "active",
             "identifier": "adam-12.-s-01",
             "title": "Adam 12 Season 1",
             "desc": "Two regular police officers patrol Los Angeles.",
@@ -1201,42 +863,12 @@
         {
             "category": "drama",
             "status": "active",
-            "identifier": "1971-the-homecoming-a-christmas-story",
-            "title": "The Waltons",
-            "desc": "The life and trials of a 1930s and 1940s Virginia mountain family through financial depression and World War II.",
-            "start": "1972",
-            "end": "1981",
-            "imdb": "tt0068149"
-        },
-        {
-            "category": "drama",
-            "status": "active",
             "identifier": "v-the-original-mini-series-pt-1",
             "title": "V (miniseries)",
             "desc": "A seemingly peaceful alien race, arrives at earth and asks for help to ensure their own planets survival. However, the visitors agenda turns out be much darker.",
             "start": "1983",
             "end": "1983",
             "imdb": "tt0085106"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "v-the-series-1984-85-s-01e-01-liberation-day-hevc",
-            "title": "V (TV series)",
-            "desc": "A year after Liberation Day, courtesy of the red-dust bacteria, the humanoid, lizard-like aliens develop a resistance to the micro-organism and try to regain control of the Earth--only now, some humans are knowingly working with them.",
-            "start": "1984",
-            "end": "1985",
-            "imdb": "tt0086822"
-        },
-        {
-            "category": "drama",
-            "status": "active",
-            "identifier": "walker-texas-ranger-complete-series",
-            "title": "Walker, Texas Ranger",
-            "desc": "Cordell Walker and his partner, James Trivette, are Texas Rangers who battle crime in Dallas, Texas.",
-            "start": "1993",
-            "end": "2001",
-            "imdb": "tt0106168"
         },
         {
             "category": "horror",
@@ -1259,16 +891,6 @@
             "end": "1988",
             "imdb": "tt0086814",
             "group": "Tales from the Darkside"
-        },
-        {
-            "category": "horror",
-            "status": "active",
-            "identifier": "american-gothic-1995-Complete-tv-series",
-            "title": "American Gothic",
-            "desc": "A quiet, seemingly-quaint small town is ruled over by its charming yet evil sheriff who uses his demonic powers to remove anyone who dares to stand in his way. The only one he fears is a young boy he fathered through rape.",
-            "start": "1995",
-            "end": "1998",
-            "imdb": "tt0111880"
         },
         {
             "category": "horror",
@@ -1443,16 +1065,6 @@
         {
             "category": "kids",
             "status": "active",
-            "identifier": "dink-the-little-dinosaur-complete-series",
-            "title": "Dink The Little Dinosaur",
-            "desc": "A small Apatosaurus and his friends learn important life lessons through adventures.",
-            "start": "1989",
-            "end": "1991",
-            "imdb": "tt0213340"
-        },
-        {
-            "category": "kids",
-            "status": "active",
             "identifier": "dinosaur-train-season-1-s-01-e-01-elmer-elasmosaurus",
             "title": "Dinosaur Train",
             "desc": "Friendly dinosaurs climb aboard a train to visit different times throughout the prehistoric age.",
@@ -1583,16 +1195,6 @@
         {
             "category": "kids",
             "status": "active",
-            "identifier": "the-hoobs-hiding",
-            "title": "The Hoobs",
-            "desc": "Hubba Hubba sends some of his Hoobs to Earth so he can learn all about humans and their behaviour.",
-            "start": "2001",
-            "end": "2003",
-            "imdb": "tt0462108"
-        },
-        {
-            "category": "kids",
-            "status": "active",
             "identifier": "the-land-before-time-the-complete-tv-series",
             "title": "The Land Before Time",
             "desc": "The further adventures of Littlefoot and his friends learning about the world of dinosaurs.",
@@ -1689,16 +1291,6 @@
             "start": "1954",
             "end": "1955",
             "imdb": "tt0046642"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "the-magician-complete-series-1973",
-            "title": "The Magician",
-            "desc": "The cases of a stage magician/escape artist who moonlights as an amateur crimefighter.",
-            "start": "1973",
-            "end": "1974",
-            "imdb": "tt0069606"
         },
         {
             "category": "retro",
@@ -1819,125 +1411,6 @@
         {
             "category": "sci-fi",
             "status": "active",
-            "identifier": "JimmyAndTheFederationGang-2",
-            "title": "Star Trek Season 2",
-            "desc": "Season 2: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
-            "start": "1966",
-            "end": "1969",
-            "imdb": "tt0060028",
-            "group": "Star Trek"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "JimmyAndTheFederationGang3",
-            "title": "Star Trek Season 3",
-            "desc": "Season 3: Captain James T. Kirk and the crew of the U.S.S. Enterprise explore the galaxy and defend the United Federation of Planets.",
-            "start": "1966",
-            "end": "1969",
-            "imdb": "tt0060028",
-            "group": "Star Trek"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-1x-01-02-the-sandkings",
-            "title": "The Outer Limits Season 1",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 1.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-2x-06-beyond-the-veil",
-            "title": "The Outer Limits Season 2",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 2.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-3x-01-bits-of-love",
-            "title": "The Outer Limits Season 3",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 3.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-4x-11-the-vaccine",
-            "title": "The Outer Limits Season 4",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 4.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-5x-13-summit",
-            "title": "The Outer Limits Season 5",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 5.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-6x-21-final-appeal-part-1",
-            "title": "The Outer Limits Season 6",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 6.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-outer-limits-7x-19-the-tipping-point",
-            "title": "The Outer Limits Season 7",
-            "desc": "The Outer Limits (1995) is a science fiction anthology television series which is a revival of the original series that aired from 1963 to 1965. Season 7.",
-            "start": "1995",
-            "end": "2002",
-            "imdb": "tt0112111",
-            "group": "The Outer Limits"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "AdventuresOfSupermanS01e02TheHauntedLighthouse_201901",
-            "title": "Adventures of Superman",
-            "desc": "The Man of Steel fights crime with help from his friends at the 'Daily Planet.'",
-            "start": "1952",
-            "end": "1958",
-            "imdb": "tt0044231"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "s-01-e-01-x-02-x-03-saga-of-the-worlds_202502",
-            "title": "Battlestar Galactica (1978)",
-            "desc": "After the destruction of the Twelve Colonies of Mankind, the last major fighter carrier leads a makeshift fugitive fleet on a desperate search for the legendary planet Earth.",
-            "start": "1978",
-            "end": "1979",
-            "imdb": "tt0076984"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
             "identifier": "beyond-westworld-Complete-Series-1980",
             "title": "Beyond Westworld",
             "desc": "The security chief of an android manufacturing company must stop a mad scientist, who's sending the failed theme park's androids to infiltrate society for his own ends.",
@@ -1994,16 +1467,6 @@
             "start": "1969",
             "end": "1971",
             "imdb": "tt0065303"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "the-time-tunnel",
-            "title": "The Time Tunnel",
-            "desc": "Two scientists with a secret time travel project find themselves trapped in the time stream and appearing in notable periods of history.",
-            "start": "1966",
-            "end": "1967",
-            "imdb": "tt0060036"
         },
         {
             "category": "sitcom",
@@ -2094,42 +1557,12 @@
         {
             "category": "sitcom",
             "status": "active",
-            "identifier": "bewitchedcomplete_202310",
-            "title": "Bewitched",
-            "desc": "A witch marries an ordinary mortal man and vows to lead the life of a typical housewife.",
-            "start": "1964",
-            "end": "1972",
-            "imdb": "tt0057733"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "diffrent-strokes-s-01-e-19-the-trip_202402",
-            "title": "Diff'rent Strokes",
-            "desc": "Different Strokes: The misadventures of suave Park Avenue millionaire Phillip Drummond, his teenage daughter Kimberly, and their current housekeeper Edna Garrett who adopted the two pre-teenage sons of their late African American housekeeper from Harlem. ",
-            "start": "1978",
-            "end": "1986",
-            "imdb": "tt0077003"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
             "identifier": "familymatters_202507",
             "title": "Family Matters",
             "desc": "The Winslow family deals with various misadventures, many of them caused by their pesky next-door neighbor, ultra-nerd Steve Urkel.",
             "start": "1989",
             "end": "1998",
             "imdb": "tt0096579"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "friends-1994-2004-full-series_20250419",
-            "title": "Friends",
-            "desc": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
-            "start": "1994",
-            "end": "2004",
-            "imdb": "tt0108778"
         },
         {
             "category": "sitcom",
@@ -2164,16 +1597,6 @@
         {
             "category": "sitcom",
             "status": "active",
-            "identifier": "married-with-children-woc",
-            "title": "Married With Children",
-            "desc": "Al Bundy is the quintessential working-class dad while his wife, Peggy, always wants more.",
-            "start": "1987",
-            "end": "1997",
-            "imdb": "tt0092400"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
             "identifier": "newsradio-1995-99",
             "title": "NewsRadio",
             "desc": "Workplace sitcom explores office politics and interpersonal relationships of the staff at WNYX NewsRadio",
@@ -2200,16 +1623,6 @@
             "start": "1984",
             "end": "1988",
             "imdb": "tt0086787"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "roseanne_202507",
-            "title": "Roseanne",
-            "desc": "Stars Roseanne Barr as Roseanne Conner and features her everyday American working-class family in the fictional town of Lanford, Illinois. Originally aired on ABC from 1988 to 1997, and was briefly revived in 2018. ",
-            "start": "1988",
-            "end": "2018",
-            "imdb": "tt0094540"
         },
         {
             "category": "sitcom",
@@ -2340,6 +1753,76 @@
             "start": "1951",
             "end": "1957",
             "imdb": "tt0043225"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "death-note-complete-2006-2007",
+            "title": "Death Note",
+            "desc": "Original title: Desu nôto. \n\nAn intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+            "start": "2006",
+            "end": "2007",
+            "imdb": "tt0877057"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "azumanga-daioh-full-series-english-sub",
+            "title": "Azumanga Daioh",
+            "desc": "Original title: Azumanga daiô. Ten-year-old child prodigy, Chiyo Mihama, is struggling to fit in at school with girls five years her elder; together with their teacher, they navigate the rough waters and fun times of high school. English subtitles.",
+            "start": "2002",
+            "end": "2002",
+            "imdb": "tt0339955"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "ghost-stories-",
+            "title": "Ghost Stories",
+            "desc": "Original title: Gakkô no kaidan. A group of school kids and a possessed cat fight ghosts in their neighborhood.",
+            "start": "2000",
+            "end": "2001",
+            "imdb": "tt0285368"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "superyoyo",
+            "title": "Super YoYo",
+            "desc": "Original title: Chosoku supina. A fifth grade boy enters a Yo-Yo tournament. English dub.",
+            "start": "1998",
+            "end": "1999",
+            "imdb": "tt8975220"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "hello-kitty-and-friends-lets-learn-together-full-series-dvd-rip",
+            "title": "Hello Kitty - Let's Learn Together",
+            "desc": "Features Hello Kitty and her twin sister Mimmy teaching life lessons such as cleaning up your toys and not being able to sleep, and even teaching things like shapes, color to the kids next door.",
+            "start": "2017",
+            "end": "2017",
+            "imdb": "tt12063242"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "galaxy-angel-ultimate-upload",
+            "title": "Galaxy Angel",
+            "desc": "The astronomical adventures of the Angel Brigade, a squad of females dispatched to retrieve powerful objects scattered around the Milky Way. English subtitles.",
+            "start": "2000",
+            "end": "2005",
+            "imdb": "tt0833572"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "joey-complete-series_202210",
+            "title": "Joey",
+            "desc": "In this spin-off of Friends (1994), Joey Tribbiani moves to Los Angeles to pursue his acting career.",
+            "start": "2004",
+            "end": "2006",
+            "imdb": "tt0375355"
         }
     ]
 }

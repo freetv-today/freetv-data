@@ -1,7 +1,6 @@
 {
-    "lastupdated": "2025-10-08T18:08:16.000Z",
+    "lastupdated": "2026-08-27T00:55:26.000Z",
     "dbtitle": "Holiday Shows",
-    "filename": "ftv-holidays.json",
     "dbversion": "1.0",
     "author": "Free TV",
     "email": "support@freetv.today",
@@ -26,16 +25,6 @@
             "start": "1983",
             "end": "1983",
             "imdb": "tt0085334"
-        },
-        {
-            "category": "christmas",
-            "status": "active",
-            "identifier": "a-flinstone-christmas",
-            "title": "A Flintstone Christmas",
-            "desc": "When Santa has an accident at Fred's house on Christmas Eve, Fred and Barney must continue his run for him.",
-            "start": "1977",
-            "end": "1977",
-            "imdb": "tt0193163"
         },
         {
             "category": "christmas",
@@ -90,16 +79,6 @@
         {
             "category": "christmas",
             "status": "active",
-            "identifier": "rudolph-the-red-nosed-reindeer-full-movie-1080-p-hd",
-            "title": "Rudolph The Red Nosed Reindeer",
-            "desc": "A young reindeer Rudolph lives at the North Pole. His father is one of Santa's reindeer and it is expected that Rudolph will eventually be one too. However, he has a feature which is a setback and causes him to be ostracized: his red nose.",
-            "start": "1964",
-            "end": "1964",
-            "imdb": "tt0058536"
-        },
-        {
-            "category": "christmas",
-            "status": "active",
             "identifier": "MiracleOn34thStreet1947",
             "title": "The Miracle on 34th Street",
             "desc": "After a divorced New York mother hires a nice old man to play Santa Claus at Macy's, she is startled by his claim to be the genuine article. When his sanity is questioned, a lawyer defends him in court by arguing that he's not mistaken.",
@@ -126,16 +105,6 @@
             "start": "1974",
             "end": "1974",
             "imdb": "tt0208654"
-        },
-        {
-            "category": "christmas",
-            "status": "active",
-            "identifier": "yogischristmas",
-            "title": "Yogi's First Christmas",
-            "desc": "Yogi, Boo Boo and Cindy are awakened from hibernation and join their friends' Christmas activities while interfering with two villains' efforts to ruin the holiday.",
-            "start": "1980",
-            "end": "1980",
-            "imdb": "tt0199161"
         },
         {
             "category": "easter",
@@ -226,16 +195,6 @@
             "start": "2000",
             "end": "2000",
             "imdb": "tt2555576"
-        },
-        {
-            "category": "easter",
-            "status": "active",
-            "identifier": "veggie-tales-an-easter-carol-vhs",
-            "title": "Veggie Tales: An Easter Carol",
-            "desc": "An adaptation of A Christmas Carol, set on Easter and starring Mr. Nezzer.",
-            "start": "2004",
-            "end": "2004",
-            "imdb": "tt0410839"
         },
         {
             "category": "halloween",

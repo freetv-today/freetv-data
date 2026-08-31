@@ -1,7 +1,6 @@
 {
-    "lastupdated": "2026-07-01T02:08:40.000Z",
+    "lastupdated": "2026-08-27T00:55:26.000Z",
     "dbtitle": "British TV",
-    "filename": "ftv-british.json",
     "dbversion": "1.0",
     "author": "Free TV",
     "email": "support@freetv.today",
@@ -12,7 +11,7 @@
             "status": "active",
             "identifier": "allo-allo",
             "title": "'Allo 'Allo",
-            "desc": "In France during World War II, Ren\u00e9 Artois runs a small caf\u00e9 where Resistance fighters, Gestapo men, German Army officers and escaped Allied POWs interact daily, ignorant of one another's true identity or presence, exasperating Ren\u00e9.",
+            "desc": "In France during World War II, René Artois runs a small café where Resistance fighters, Gestapo men, German Army officers and escaped Allied POWs interact daily, ignorant of one another's true identity or presence, exasperating René.",
             "start": "1982",
             "end": "1992",
             "imdb": "tt0086659"
@@ -70,16 +69,6 @@
         {
             "category": "comedy",
             "status": "active",
-            "identifier": "fs-series",
-            "title": "French and Saunders",
-            "desc": "Comedy duo Dawn French and Jennifer Saunders satirically present aspects of British life, films such as Batman Forever and Pulp Fiction.",
-            "start": "1987",
-            "end": "2017",
-            "imdb": "tt0092355"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
             "identifier": "keeping-up-appearances_202402",
             "title": "Keeping Up Appearances",
             "desc": "A snobbish housewife is determined to climb the social ladder, in spite of her family's working class connections and the constant chagrin of her long suffering husband.",
@@ -106,16 +95,6 @@
             "start": "1969",
             "end": "1974",
             "imdb": "tt0063929"
-        },
-        {
-            "category": "comedy",
-            "status": "active",
-            "identifier": "mr-bean-the-complete-live-action-series",
-            "title": "Mr. Bean",
-            "desc": "Bumbling, childlike Mr. Bean has trouble completing the simplest of day-to-day tasks, but his perseverance and resourcefulness frequently allow him to find ingenious ways around problems.",
-            "start": "1990",
-            "end": "1995",
-            "imdb": "tt0096657"
         },
         {
             "category": "comedy",
@@ -262,7 +241,7 @@
             "status": "active",
             "identifier": "noddy-goes-to-toyland-1963-arthur-humberstone",
             "title": "Noddy Goes To Toyland",
-            "desc": "This charming colour cartoon of Enid Blyton\u2019s timeless toy boy was produced as a pilot episode for an unrealised series. It is a faithful but curtailed version of Blyton\u2019s book of the same name, first published in 1949.",
+            "desc": "This charming colour cartoon of Enid Blyton’s timeless toy boy was produced as a pilot episode for an unrealised series. It is a faithful but curtailed version of Blyton’s book of the same name, first published in 1949.",
             "start": "1963",
             "end": "1963",
             "imdb": "tt19815358"
@@ -290,55 +269,12 @@
         {
             "category": "kids",
             "status": "active",
-            "identifier": "ThunderbirdsSeries",
-            "title": "Thunderbirds",
-            "desc": "In the year 2065, the Tracy family run International Rescue - a top-secret organization whose ongoing mission is to rescue people trapped in extraordinarily dangerous situations using their advanced Thunderbirds machines.",
-            "start": "1965",
-            "end": "1966",
-            "imdb": "tt0057790"
-        },
-        {
-            "category": "kids",
-            "status": "active",
             "identifier": "world-of-peter-rabbit-and-friends-1992-98",
             "title": "World of Peter Rabbit & Friends",
             "desc": "An animated series, telling the story of many beloved Beatrix Potter characters.",
             "start": "1992",
             "end": "1998",
             "imdb": "tt0296886"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season1",
-            "title": "Midsomer Murders Season 1",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "2025",
-            "imdb": "tt0118401",
-            "group": "Midsomer Murders"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season2",
-            "title": "Midsomer Murders Season 2",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "2025",
-            "imdb": "tt0118401",
-            "group": "Midsomer Murders"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season3",
-            "title": "Midsomer Murders Season 3",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "2025",
-            "imdb": "tt0118401",
-            "group": "Midsomer Murders"
         },
         {
             "category": "mystery",
@@ -373,33 +309,12 @@
         {
             "category": "mystery",
             "status": "active",
-            "identifier": "poirot-series",
-            "title": "Poirot",
-            "desc": "Hercule Poirot, a Belgian detective, has an impeccable knack for getting embroiled in a mystery and solving crimes.",
-            "start": "1989",
-            "end": "2013",
-            "imdb": "tt0094525"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
             "identifier": "BBC_Sherlock2010",
             "title": "Sherlock (2010)",
             "desc": "The quirky spin on Conan Doyle's iconic sleuth pitches him as a \"high-functioning sociopath\" in modern-day London. Assisting him in his investigations: Afghanistan War vet John Watson, who's introduced to Holmes by a mutual acquaintance.",
             "start": "2010",
             "end": "2017",
             "imdb": "tt1475582"
-        },
-        {
-            "category": "sci-fi",
-            "status": "active",
-            "identifier": "doctor-who-2005-s01",
-            "title": "Doctor Who (2005) Series 1",
-            "desc": "Continuing on from Doctor Who (1963), this revival follows the further adventures of the Doctor and their companions as they encounter various alien threats and save civilizations on different planets and time periods.",
-            "start": "2005",
-            "end": "2007",
-            "imdb": "tt0436992",
-            "group": "Doctor Who (2005)"
         },
         {
             "category": "sci-fi",
@@ -513,17 +428,6 @@
             "start": "1973",
             "end": "1979",
             "imdb": "tt0069647"
-        },
-        {
-            "category": "mystery",
-            "status": "active",
-            "identifier": "midsomer-murders-season4",
-            "title": "Midsomer Murders Season 4",
-            "desc": "A veteran Detective Chief Inspector and his young Sergeant investigate murders around the regional community of Midsomer County.",
-            "start": "1997",
-            "end": "2025",
-            "imdb": "tt0118401",
-            "group": "Midsomer Murders"
         },
         {
             "category": "comedy",
