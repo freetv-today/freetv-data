@@ -1,26 +1,23 @@
-# freetv-data
+# FreeTV Data
 
-**Version:** 1.0.0-beta
+FreeTV Data contains the official distributable datasets used by the [FreeTV Viewer](https://github.com/freetv-today/freetv-viewer) and the [FreeTV Admin Dashboard](https://github.com/freetv-today/freetv-server).
 
-This repository contains all public data and static files used by the Free TV apps (viewer, admin dashboard, and API).
+The repository includes Viewer-compatible configuration, playlist JSON, thumbnails, MariaDB installation packages, publication metadata, and the release packages used by the Admin Dashboard’s Current Sample Data and Current Official Data First Run modes.
 
-## Structure
+MariaDB is authoritative for content managed through the Admin Dashboard. `freetv-data` is the canonical published representation of the official distributable FreeTV dataset. Its managed contents are generated, validated, and published through [`freetv-tooling`](https://github.com/freetv-today/freetv-tooling), not used as live Admin storage.
 
-- `/playlists/` — All playlist JSON files (e.g., `index.json`, `freetv.json`, etc.)
-- `/thumbs/` — Show/movie thumbnail images
-- `/config.json` — Global app configuration
+## Contents
 
-## Usage
+* Viewer configuration and playlist JSON
+* Show and movie thumbnail images
+* Complete and sample MariaDB datasets
+* Schema-only MariaDB packages
+* Publication provenance and dataset counts
+* Current Sample Data and Current Official Data First Run packages
 
-- **Viewer apps** fetch data from this repo's deployed location (e.g., `/playlists/index.json`, `/config.json`).
-- **Admin dashboard** reads/writes these files to manage content.
-- **APIs** (e.g., `beacon.php`, `report-problem.php`) may read/write as needed.
-
-## Contribution
-
-- Please submit changes to playlists or config via pull request.
-- Do not include sensitive or private data.
+> [!IMPORTANT]
+> This repository contains published data artifacts. Editing generated files directly can make the Viewer, SQL, manifest, and release-package representations disagree. Use the documented FreeTV Tooling workflows when maintaining the official dataset.
 
 ## License
 
-Data in this repository is intended for public use by the Free TV project.
+This code is released under the [GPL v3](LICENSE) license.
