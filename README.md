@@ -30,6 +30,43 @@ MariaDB is authoritative for content managed through the Admin Dashboard. `freet
 | **Maintain or update the official dataset** | Follow the [Dataset Publishing and Distribution](https://github.com/freetv-today/freetv-tooling/blob/main/docs/dataset-distribution.md) workflow. | Validates current Admin data and publishes matching Viewer, thumbnail, SQL, and manifest artifacts to this repository. |
 | **Build distributable First Run packages** | Run `npm run release:build` from `freetv-tooling` after validating and publishing the canonical dataset. | Creates and validates the Current Sample Data and Current Official Data ZIPs under `releases/`. |
 
+## Repository Structure
+
+The following tree shows the canonical dataset paths managed or consumed by FreeTV’s publication and release workflows:
+
+```text
+freetv-data/
+├── playlists/
+│   ├── index.json
+│   └── *.json
+├── thumbs/
+│   └── image files
+├── releases/
+│   ├── freetv-sample-data.zip
+│   └── freetv-official-data.zip
+├── config.json
+├── freetv_mariadb_schema-create-db.sql
+├── freetv_mariadb_schema-tables-only.sql
+├── freetv_mariadb_full-create-db.sql
+├── freetv_mariadb_full_data-tables-only.sql
+├── freetv_mariadb_sample-create-db.sql
+├── freetv_mariadb_sample_data-tables-only.sql
+├── manifest.json
+├── LICENSE
+└── README.md
+```
+
+| Path                   | Purpose                                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ |
+| `config.json`          | Viewer-facing configuration exported from the Admin environment.                                       |
+| `playlists/`           | Viewer playlist index and individual playlist JSON artifacts.                                          |
+| `thumbs/`              | Canonical thumbnail collection referenced by Viewer playlist data.                                     |
+| `manifest.json`        | Publication provenance and canonical playlist, show, sample-show, and thumbnail counts.                |
+| `freetv_mariadb_*.sql` | Schema-only, complete-data, and sample-data MariaDB packages in create-database and tables-only forms. |
+| `releases/`            | Locally generated Current Sample Data and Current Official Data First Run ZIPs.                        |
+
+The publication workflow replaces the managed Viewer, thumbnail, SQL, and manifest paths as one validated dataset. Repository documentation, licensing, Git metadata, and other unrelated files are preserved.
+
 ## License
 
 This code is released under the [GPL v3](LICENSE) license.
