@@ -67,6 +67,110 @@ freetv-data/
 
 The publication workflow replaces the managed Viewer, thumbnail, SQL, and manifest paths as one validated dataset. Repository documentation, licensing, Git metadata, and other unrelated files are preserved.
 
+## Data Architecture
+
+The repository stores several synchronized representations of the official FreeTV dataset:
+
+| Representation | Consumer | Purpose |
+| --- | --- | --- |
+| Viewer artifacts | FreeTV Viewer | Provide static configuration, playlist, show, and thumbnail data. |
+| MariaDB packages | FreeTV Admin Dashboard and database operators | Create or populate a FreeTV MariaDB database. |
+| Publication manifest | FreeTV Tooling and maintainers | Record dataset provenance and expected content counts. |
+| First Run release packages | FreeTV Admin Dashboard | Initialize MariaDB and matching Viewer artifacts from one verified ZIP. |
+
+These representations describe the same canonical dataset but serve different consumers. The Viewer does not read the SQL packages, and the Admin Dashboard does not use the repository’s JSON files as its live data store.
+
+### Viewer Artifacts
+
+The Viewer-facing dataset consists of:
+
+```text
+config.json
+playlists/
+├── index.json
+└── *.json
+thumbs/
+└── image files
+```
+
+`config.json` contains published Viewer configuration and its publication timestamp.
+
+`playlists/index.json` identifies the default playlist and lists the available playlist files. Each individual playlist file contains its playlist metadata and show records.
+
+Viewer show records include information such as:
+
+* category;
+* active or disabled status;
+* Internet Archive identifier;
+* title and description;
+* start and end years;
+* IMDb identifier; and
+* optional grouping information.
+
+The Internet Archive identifier tells the Viewer which source item to open or play. The IMDb identifier is also used to associate a show with its thumbnail filename.
+
+### MariaDB Packages
+
+The repository contains three types of MariaDB package, each in two forms:
+
+| Dataset                       | Create-database package               | Tables-only package                          |
+| ----------------------------- | ------------------------------------- | -------------------------------------------- |
+| Schema only                   | `freetv_mariadb_schema-create-db.sql` | `freetv_mariadb_schema-tables-only.sql`      |
+| Complete official dataset     | `freetv_mariadb_full-create-db.sql`   | `freetv_mariadb_full_data-tables-only.sql`   |
+| Representative sample dataset | `freetv_mariadb_sample-create-db.sql` | `freetv_mariadb_sample_data-tables-only.sql` |
+
+Create-database packages create and select the FreeTV database before installing their schema or data.
+
+Tables-only packages operate within a database selected by the importing application or database operator. They do not create or select the database themselves.
+
+The schema-only packages contain the FreeTV database structure without the distributable playlist and show collection. The complete and sample packages contain the corresponding database structure and dataset records.
+
+Admin users, credentials, sessions, problem reports, report IPs, and locally configured application-setting values are not copied from the source Admin environment into the distributable data packages. First Run creates the initial Administrator account separately.
+
+### Publication Manifest
+
+The root `manifest.json` describes the canonical publication. It records:
+
+* publication format version;
+* dataset generation timestamp;
+* reconciled Data Snapshot name;
+* reconciled snapshot capture timestamp;
+* playlist count;
+* complete show count;
+* sample show count; and
+* thumbnail count.
+
+The snapshot fields record which captured Admin environment was reviewed before publication. They do not mean that the repository contents were copied from the snapshot. The published artifacts are generated from the configured local Admin environment after reconciliation and validation.
+
+The root publication manifest records provenance and logical counts. It is distinct from the internal manifest included in each First Run release ZIP.
+
+### First Run Release Packages
+
+The `releases/` directory contains:
+
+```text
+freetv-sample-data.zip
+freetv-official-data.zip
+```
+
+Each archive contains:
+
+```text
+manifest.json
+database.sql
+config.json
+playlists/
+thumbs/
+```
+
+The sample package supports the Admin Dashboard’s **Current Sample Data** First Run mode. It contains representative sample SQL, matching Viewer artifacts, and referenced thumbnails when available.
+
+The official package supports **Current Official Data**. It contains the complete official SQL dataset, matching Viewer artifacts, and the complete canonical thumbnail collection.
+
+Each package’s internal `manifest.json` identifies the dataset type and records the exact permitted files with their SHA-256 digests. First Run also verifies the complete downloaded ZIP against the separate archive-level digest supplied by the configured dataset-package metadata endpoint.
+
+For the package-generation, validation, hosting, metadata, and testing procedures, see [Dataset Publishing and Distribution](https://github.com/freetv-today/freetv-tooling/blob/main/docs/dataset-distribution.md).
+
 ## License
 
-This code is released under the [GPL v3](LICENSE) license.
+This repository is released under the [GPL v3](LICENSE) license.
