@@ -20,7 +20,7 @@ MariaDB is authoritative for content managed through the Admin Dashboard. `freet
 
 ## How do I ...  ?
 
-`freetv-data` is a versioned artifact repository rather than a standalone application. It has no development server or package-installation step. The actions below use the repository directly or operate on it through other FreeTV repositories.<br/>
+`freetv-data` is a versioned artifact repository rather than a standalone application. It has no development server or package-installation step. The actions below use the repository directly or operate on it through other FreeTV repositories. For help choosing another FreeTV repository, see the [FreeTV organization overview](https://github.com/freetv-today).<br/>
 
 | I want to... | What do I do? | What happens? |
 | --- | --- | --- |
