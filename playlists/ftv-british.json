@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2026-08-27T00:55:26.000Z",
+    "lastupdated": "2026-09-30T01:33:08.000Z",
     "dbtitle": "British TV",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -420,7 +420,7 @@
             "imdb": "tt0057786"
         },
         {
-            "category": "Drama",
+            "category": "sci-fi",
             "status": "active",
             "identifier": "the-tomorrow-people-1973-79",
             "title": "The Tomorrow People",
@@ -493,7 +493,7 @@
             "category": "mystery",
             "status": "active",
             "identifier": "father-brown-complete-series-1974",
-            "title": "Father Brown",
+            "title": "Father Brown (1974)",
             "desc": "Based on the stories of G.K. Chesterton, a British Catholic Priest solves mysteries.",
             "start": "1974",
             "end": "1974",
@@ -612,6 +612,349 @@
             "start": "1990",
             "end": "1994",
             "imdb": "tt0098945"
+        },
+        {
+            "category": "cooking",
+            "status": "active",
+            "identifier": "delia-smiths-cookery-course-series-1",
+            "title": "Delia Smith's Cookery Course",
+            "desc": "A TV cookery show aired by the BBC in around 1978-1980 featuring Delia Smith.\n",
+            "start": "1978",
+            "end": "1980",
+            "imdb": "tt0421322"
+        },
+        {
+            "category": "cooking",
+            "status": "active",
+            "identifier": "vid-20231130-113518",
+            "title": "Delia's How to Cook: Part One",
+            "desc": "In this simple-to-follow cookery course for people of all ages and abilities, Delia returns to the very roots of cooking to look at the techniques and the staple ingredients which underline the best traditions of British cookery.",
+            "start": "1998",
+            "end": "1999",
+            "imdb": "tt0307760"
+        },
+        {
+            "category": "cooking",
+            "status": "active",
+            "identifier": "vid-20240504-113401",
+            "title": "Delia's How to Cook: Part Two",
+            "desc": "In this simple-to-follow cookery course for people of all ages and abilities, Delia returns to the very roots of cooking to look at the techniques and the staple ingredients which underline the best traditions of British cookery.",
+            "start": "1999",
+            "end": "2000",
+            "imdb": "tt0307760"
+        },
+        {
+            "category": "cooking",
+            "status": "active",
+            "identifier": "vid-20230117-085513",
+            "title": "Delia Smith's Summer Collection",
+            "desc": "Delia Smith's Summer Collection is a classic cookbook and accompanying BBC Two television series created by Delia Smith and first published and aired in 1993. ",
+            "start": "1993",
+            "end": "1993",
+            "imdb": "tt0421322"
+        },
+        {
+            "category": "cooking",
+            "status": "active",
+            "identifier": "vid-20230106-090114",
+            "title": "Delia Smith's Winter Collection",
+            "desc": "Delia Smith's Winter Collection is a joyful celebration of the season rich with autumn fruits and winter vegetables, fish and game, soups and roasts, casseroles and comfort food. ",
+            "start": "1996",
+            "end": "1996",
+            "imdb": "tt0421322"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "an-age-of-kings-1960",
+            "title": "An Age of Kings",
+            "desc": "A linking together of Shakespeare's history plays chronicling the rise and fall of monarchs over the eighty-six years between Richard II and Richard III.",
+            "start": "1960",
+            "end": "1960",
+            "imdb": "tt0239157"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "vid-20231029-110559",
+            "title": "The Borrowers: Series One",
+            "desc": "The Borrowers, a family of tiny people, are forced to find a new home after being displaced. They get help from a human boy as they try to survive by borrowing what they need.",
+            "start": "1993",
+            "end": "1993",
+            "imdb": "tt0105957",
+            "group": "The Borrowers"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "vid-20231125-102125",
+            "title": "The Borrowers: Series Two",
+            "desc": "The Borrowers, a family of tiny people, are forced to find a new home after being displaced. They get help from a human boy as they try to survive by borrowing what they need.",
+            "start": "1994",
+            "end": "1994",
+            "imdb": "tt0105957",
+            "group": "The Borrowers"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "lady-chatterley-1993-episode-1",
+            "title": "Lady Chatterley",
+            "desc": "A young woman's husband returns wounded after the First World War. Facing a life with a husband now incapable of sexual activity she begins an affair with the groundskeeper.",
+            "start": "1993",
+            "end": "1993",
+            "imdb": "tt0104666"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "the-ice-house-1997-bbc-mystery-thriller",
+            "title": "The Ice House",
+            "desc": "Phoebe lives with her friends Diana and Anne at their country mansion, but they are the target of vicious village gossip. When their gardener discovers a body in the disused ice house, a 10-year-old murder investigation is reopened.",
+            "start": "1997",
+            "end": "1997",
+            "imdb": "tt0119348"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "crime-traveller-complete-series-1997",
+            "title": "Crime Traveller",
+            "desc": "Detective Jeff Slade teams up with scientist Holly Turner, whose late father has created a time machine that can travel back several hours. Together they solve mysteries using the device.",
+            "start": "1997",
+            "end": "1997",
+            "imdb": "tt0118292"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "gogs-1993-98-hd",
+            "title": "Gogs",
+            "desc": "Caveman family struggles for survival in prehistoric era. Their ineptitude leads to hilarious situations involving dinosaurs, fire, and hitting each other with clubs.",
+            "start": "1993",
+            "end": "1998",
+            "imdb": "tt0109915"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-uncut",
+            "title": "Are You Being Served: Series 1",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-2",
+            "title": "Are You Being Served: Series 2",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-3",
+            "title": "Are You Being Served: Series 3 ",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-4",
+            "title": "Are You Being Served: Series 4",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-5",
+            "title": "Are You Being Served: Series 5",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-6",
+            "title": "Are You Being Served: Series 6",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-7",
+            "title": "Are You Being Served: Series 7",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-8",
+            "title": "Are You Being Served: Series 8",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-9",
+            "title": "Are You Being Served: Series 9",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-10",
+            "title": "Are You Being Served: Series 10",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "are-you-being-served-extras",
+            "title": "Are You Being Served: DVD Extras",
+            "desc": "The misadventures of the staff of a retail floor of a major department store.",
+            "start": "1972",
+            "end": "1985",
+            "imdb": "tt0068040",
+            "group": "Are You Being Served"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "tripods-s-02-e-01",
+            "title": "The Tripods",
+            "desc": "Cousins Will and Henry Parker, avoiding mind control by alien Masters via capping at 16, journey to find free humans after learning their world is conquered by Tripods in 2089.",
+            "start": "1984",
+            "end": "1985",
+            "imdb": "tt0086818"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "survivors-1975",
+            "title": "Survivors",
+            "desc": "A community of survivors struggle to stay alive in the wake of a global pandemic known as the Death that wiped out 99.98% of humanity.",
+            "start": "1975",
+            "end": "1977",
+            "imdb": "tt0072572"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "Ballykissangel",
+            "title": "Ballykissangel",
+            "desc": "An English priest is transferred to a small Irish village.",
+            "start": "1996",
+            "end": "2001",
+            "imdb": "tt0115105"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "hammer-house-of-horror-the-complete-series-1980",
+            "title": "Hammer House Of Horror",
+            "desc": "This British anthology series, which was produced by England's leading exporters of horror films, told tales of haunted houses, demons, ghosts, and other supernatural wonders.",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0080231"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "tales-of-unease-1970-e-06-bad-bad-jo-jo_202507",
+            "title": "Tales Of Unease",
+            "desc": "British series adapted from a trio of horror-story anthologies which were edited by John Burke and published between 1960 and 1969. The television installments used the cream of Burke's crop.",
+            "start": "1970",
+            "end": "1970",
+            "imdb": "tt0818734"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "jekyll-and-hyde-complete-series-2015",
+            "title": "Jekyll and Hyde",
+            "desc": "10-part drama set in 1930s London focusing on Robert Jekyll, the grandson of the original doctor. The show will follow Robert Jekyll's quest to discover his real identity and the true nature of his family's cursed history.",
+            "start": "2015",
+            "end": "2015",
+            "imdb": "tt4224588"
+        },
+        {
+            "category": "mystery",
+            "status": "active",
+            "identifier": "the-black-tower-1985-4",
+            "title": "The Black Tower",
+            "desc": "Major Dalgliesh investigates mysterious deaths at Toynton Grange, a home for the disabled, where his former teacher, Father Baddeley, who invited him there, resides.",
+            "start": "1985",
+            "end": "1985",
+            "imdb": "tt0088483"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "sapphire-and-steel-1979-1982",
+            "title": "Sapphire & Steel",
+            "desc": "British supernatural sci-fi/fantasy series starring Joanna Lumley and David McCallum as a pair of interdimensional operatives who guard the flow of time. Created by Peter J. Hammond and produced by Associated Television for ITV from 1979 - 82.\n",
+            "start": "1979",
+            "end": "1982",
+            "imdb": "tt0078682"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "a-ghost-story-for-christmas-1971",
+            "title": "A Ghost Story for Christmas",
+            "desc": "A strand of annual British short television adaptations of classic ghost stories, referencing the oral tradition of telling supernatural tales at Christmas.",
+            "start": "1971",
+            "end": "2024",
+            "imdb": "tt32135296"
+        },
+        {
+            "category": "Drama",
+            "status": "active",
+            "identifier": "the-chronicles-of-narnia-the-complete-series-1988",
+            "title": "The Chronicles of Narnia",
+            "desc": "Peter, Susan, Edmund and Lucy Pevensie are siblings who are evacuated from London because of the air raids in World War II. Soon after arriving at their temporary home, they discover a wardrobe which contains a portal to the magical land of Narnia.",
+            "start": "1988",
+            "end": "1990",
+            "imdb": "tt37237695"
         }
     ]
 }

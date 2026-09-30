@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2026-08-29T12:04:34.000Z",
+    "lastupdated": "2026-09-30T13:50:39.000Z",
     "dbtitle": "Default TV Shows",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -831,7 +831,7 @@
             "imdb": "tt0056757"
         },
         {
-            "category": "drama",
+            "category": "action",
             "status": "active",
             "identifier": "GreenHornetTV",
             "title": "The Green Hornet",
@@ -841,7 +841,7 @@
             "imdb": "tt0059991"
         },
         {
-            "category": "drama",
+            "category": "action",
             "status": "active",
             "identifier": "the-master-complete-series-1984",
             "title": "The Master",
@@ -936,7 +936,7 @@
             "category": "horror",
             "status": "active",
             "identifier": "kolchak-the-night-stalker-complete-series-1972",
-            "title": "Kolchak: the Night Stalker",
+            "title": "Kolchak: The Night Stalker",
             "desc": "Carl Kolchak is a reporter for a Chicago newspaper. Through more accident than design he ends up investigating homicides, many of which involve supernatural forces. Ultimately, rather than reporting on the crimes, he solves them.",
             "start": "1974",
             "end": "1975",
@@ -1515,28 +1515,6 @@
         {
             "category": "sitcom",
             "status": "active",
-            "identifier": "the-addams-family__season-1",
-            "title": "The Addams Family Season 1",
-            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
-            "start": "1964",
-            "end": "1966",
-            "imdb": "tt0057729",
-            "group": "The Addams Family"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
-            "identifier": "the-addams-family__season-2",
-            "title": "The Addams Family Season 2",
-            "desc": "The misadventures of a blissfully macabre but extremely loving family.",
-            "start": "1964",
-            "end": "1966",
-            "imdb": "tt0057729",
-            "group": "The Addams Family"
-        },
-        {
-            "category": "sitcom",
-            "status": "active",
             "identifier": "ALF-The-Complete-Series",
             "title": "ALF",
             "desc": "When an ugly creature, who loves eating cats, crash-lands into the Tanner family's garage, they treat him as a guest and allow him to live with them as he comments on the stupidity of mankind.",
@@ -1823,6 +1801,436 @@
             "start": "2004",
             "end": "2006",
             "imdb": "tt0375355"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "celebrity_deathmatch_season1",
+            "title": "Celebrity Deathmatch",
+            "desc": "Celebrities duel it out in a wrestling ring, the first one who dies loses. A parody of sports entertainment programs, Celebrity Deathmatch depicted various celebrities engaging in highly stylized professional wrestling matches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0208614"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "she-wolf-of-london-complete-series-1990",
+            "title": "She-Wolf of London",
+            "desc": "A female American graduate student in London is bitten by a werewolf, then teams up with an English professor to investigate supernatural occurrences.",
+            "start": "1990",
+            "end": "1991",
+            "imdb": "tt0098909"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "underrated-show-69420",
+            "title": "Mission Hill",
+            "desc": "The misadventures of a group of disparate roommates who live in a hip neighborhood in a major city.",
+            "start": "1999",
+            "end": "2002",
+            "imdb": "tt0197148"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "JeffFoxworthyShow",
+            "title": "The Jeff Foxworthy Show",
+            "desc": "Air conditioning repair man Jeff finds himself a fish out of water living in Indiana with his Southern ways and humor. Eventually he takes his family back to Georgia and reconnects with his eccentric relations.",
+            "start": "1995",
+            "end": "1997",
+            "imdb": "tt0112025"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "wkrp-s-1-e-20-young-master-carlson",
+            "title": "WKRP in Cincinnati",
+            "desc": "The misadventures of the staff of a struggling Top 40 rock radio station in Cincinnati, Ohio.",
+            "start": "1978",
+            "end": "1982",
+            "imdb": "tt0077097"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "voyagers-complete-series-1982",
+            "title": "Voyagers!",
+            "desc": "A member of a league of time travelers and a boy travel through time repairing errors in world history.",
+            "start": "1982",
+            "end": "1983",
+            "imdb": "tt0083500"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-martian-chronicles-1980_202312",
+            "title": "The Martian Chronicles",
+            "desc": "In the 21st century, Earth begins the colonization of Mars. However, things do not go as planned, at first due to the hostile Martian natives and later because of the self-destructive Earthmen.",
+            "start": "1980",
+            "end": "1980",
+            "imdb": "tt0080242"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "werewolf-complete-series-1987",
+            "title": "WereWolf",
+            "desc": "Grad student Eric Cord becomes infected with lycanthropy after his friend turns into a werewolf and attacks him. Now, Eric and his girlfriend are after the monster that infected his friend, and a tough cowboy bounty hunter pursues Eric.",
+            "start": "1987",
+            "end": "1988",
+            "imdb": "tt0092480"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "alien-nation-1989-s-01-e-01-alien-nation-the-tv-movie-ai-upscale-1440p-mister-cooper",
+            "title": "Alien Nation",
+            "desc": "In the near future, a human cop and his alien partner fight crime and discrimination in Los Angeles.",
+            "start": "1989",
+            "end": "1990",
+            "imdb": "tt0096531"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "joanieloveschachicompletedvdrip",
+            "title": "Joanie Loves Chachi",
+            "desc": "The romantic adventures of Joanie Cunningham and Chachi Arcola as they pursue music careers in Chicago.",
+            "start": "1982",
+            "end": "1983",
+            "imdb": "tt0083433"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.-street.-blues.-s-01",
+            "title": "Hill Street Blues Season 1",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.-street.-blues.-season-2",
+            "title": "Hill Street Blues Season 2",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.street.blues.s-03",
+            "title": "Hill Street Blues Season 3",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.street.blues.s-04e-01.heres.adventure.heres.romance.sdtv.x-264",
+            "title": "Hill Street Blues Season 4",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.street.blues.s-05",
+            "title": "Hill Street Blues Season 5",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.street.blues.s-06",
+            "title": "Hill Street Blues Season 6",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "hill.street.blues.s-07",
+            "title": "Hill Street Blues Season 7",
+            "desc": "The lives and work of the staff of an inner city police precinct.",
+            "start": "1981",
+            "end": "1987",
+            "imdb": "tt0081873",
+            "group": "Hill Street Blues"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "street-hawk-",
+            "title": "Street Hawk",
+            "desc": "A desk bound cop secretly fights crime as the test pilot for a prototype combat motorcycle.",
+            "start": "1985",
+            "end": "1985",
+            "imdb": "tt0088618"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "y_20251021",
+            "title": "Cagney & Lacey",
+            "desc": "Two female police detectives cooperate with each other both in their professions and in their personal lives.",
+            "start": "1981",
+            "end": "1988",
+            "imdb": "tt0083395"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "Groovie-Goolies-Collection",
+            "title": "Groovie Goolies",
+            "desc": "Original title: Sabrina and the Groovie Goolies. Sabrina's involved with a band of monsters, The Groovy Ghoulies; a rock band with Dracula, the Wolfman, and Frankenstein; who scare people for their own amusement.",
+            "start": "1970",
+            "end": "1971",
+            "imdb": "tt0065342"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-amazing-spider-man-complete-series-1977",
+            "title": "The Amazing Spider-Man",
+            "desc": "With the powers given by the bite of a radioactive spider, a young man fights crime as a wall-crawling superhero.",
+            "start": "1977",
+            "end": "1979",
+            "imdb": "tt0076975"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "the-invisible-man-the-complete-series-1975_202505",
+            "title": "The Invisible Man",
+            "desc": "The weekly adventures of Dr. Daniel Westin, an invisible scientist working as an agent for a private thinktank.",
+            "start": "1975",
+            "end": "1976",
+            "imdb": "tt0072515"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "planet-of-the-apes-complete-series-1974",
+            "title": "Planet of the Apes (TV Series)",
+            "desc": "Two astronauts and a sympathetic chimp friend are fugitives in a future Earth dominated by a civilization of humanoid apes.",
+            "start": "1974",
+            "end": "1974",
+            "imdb": "tt0071033"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "LotLFullSeries",
+            "title": "Land of the Lost",
+            "desc": "A family finds themselves fighting to survive in a land populated by dinosaurs and otherworldly beings.",
+            "start": "1974",
+            "end": "1977",
+            "imdb": "tt0071005"
+        },
+        {
+            "category": "documentary",
+            "status": "active",
+            "identifier": "the-undersea-world-of-jacques-cousteau-1976",
+            "title": "Undersea World of Jacques Cousteau",
+            "desc": "The Undersea World of Jacques Cousteau is an American documentary television series about underwater marine life, directed by Alan Landsburg and hosted by French filmmaker, researcher, and marine explorer Jacques Cousteau. ",
+            "start": "1976",
+            "end": "1976",
+            "imdb": "tt0192937"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s1",
+            "title": "Dukes of Hazzard: Season 1",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s2",
+            "title": "Dukes of Hazzard: Season 2",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s3",
+            "title": "Dukes of Hazzard: Season 3",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.\n",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s4",
+            "title": "Dukes of Hazzard: Season 4",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s5",
+            "title": "Dukes of Hazzard: Season 5",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s6",
+            "title": "Dukes of Hazzard: Season 6",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-s7",
+            "title": "Dukes of Hazzard: Season 7",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-dukes-of-hazzard-two-movie-collection",
+            "title": "Dukes of Hazzard: DVD Extras",
+            "desc": "The adventures of the fast-drivin', rubber-burnin' Duke boys of Hazzard County.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078607",
+            "group": "Dukes of Hazzard"
+        },
+        {
+            "category": "sports",
+            "status": "active",
+            "identifier": "wwf-wrestlemania-1984",
+            "title": "WrestleMania 1",
+            "desc": "First WrestleMania (WrestleMania I) on March 31st, 1985 at Madison Square Garden in New York City. In the main event, Hulk Hogan and Mr. T battle Paul Orndorff and Roddy Piper. Celebrity guests include Muhammad Ali, Billy Martin and Liberace.",
+            "start": "1985",
+            "end": "1985",
+            "imdb": "tt0235073",
+            "group": "WrestleMania"
+        },
+        {
+            "category": "sports",
+            "status": "active",
+            "identifier": "wwf-wrestlemania-2-1986",
+            "title": "WrestleMania 2",
+            "desc": "WrestleMania II: Hulk Hogan defends the WWF World Heavyweight Championship against King Kong Bundy inside a steel cage. Mr. T battles \"Rowdy\" Roddy Piper in a boxing match.",
+            "start": "1986",
+            "end": "1986",
+            "imdb": "tt0248615",
+            "group": "WrestleMania"
+        },
+        {
+            "category": "sports",
+            "status": "active",
+            "identifier": "wwf-wrestlemania-iii-original-broadcast",
+            "title": "WrestleMania 3",
+            "desc": "Third WrestleMania (WrestleMania III) on March 29st, 1987 at the Pontiac Silverdome in Pontiac, Michigan. There are twelve matches, with the main event featuring Hulk Hogan defending the WWF World Heavyweight Championship against André the Giant.",
+            "start": "1987",
+            "end": "1987",
+            "imdb": "tt0250824",
+            "group": "WrestleMania"
+        },
+        {
+            "category": "sports",
+            "status": "active",
+            "identifier": "wwf-wrestlemania-4-1988",
+            "title": "WrestleMania 4",
+            "desc": "Fourth WrestleMania (WrestleMania IV) taking place on March 27th, 1988 at the Boardwalk Hall in Atlantic City. The main event features a 14-man single-elimination tournament with Randy Savage battling the Ted DiBiase as last men standing.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt0252101",
+            "group": "WrestleMania"
+        },
+        {
+            "category": "sports",
+            "status": "active",
+            "identifier": "wrestle-mania-6-1990-uncut",
+            "title": "WrestleMania 6",
+            "desc": "Sixth WrestleMania (Wrestlemania VI) on April 1st, 1990 at the SkyDome in Toronto, Canada, making it the first WrestleMania to be held outside of the United States. The main event of is \"the Ultimate Challenge\" - Hulk Hogan against the Ultimate Warrior.",
+            "start": "1990",
+            "end": "1990",
+            "imdb": "tt0252103",
+            "group": "WrestleMania"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "final-space_202209",
+            "title": "Final Space",
+            "desc": "An astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist.",
+            "start": "2018",
+            "end": "2021",
+            "imdb": "tt6317068"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "the-dick-van-dyke-show-the-complete-series-1961-1966",
+            "title": "The Dick Van Dyke Show",
+            "desc": "The misadventures of a TV writer both at work and at home.\n",
+            "start": "1961",
+            "end": "1966",
+            "imdb": "tt0054533"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "captain-america-1966",
+            "title": "Captain America (1966)",
+            "desc": "The patriotic sole recipient of a revolutionary body enhancement project battles evil as the star spangled defender of America.",
+            "start": "1966",
+            "end": "1966",
+            "imdb": "tt0206474"
         }
     ]
 }

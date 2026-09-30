@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2026-08-27T00:55:26.000Z",
+    "lastupdated": "2026-09-30T14:21:23.000Z",
     "dbtitle": "Holiday Shows",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -389,6 +389,126 @@
             "start": "1949",
             "end": "1949",
             "imdb": "tt0041592"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "4050_Make_Mine_Freedom_01_01_10_02",
+            "title": "Make Mine Freedom",
+            "desc": "A snake oil salesman try to sell the American people 'happiness', exchange for their freedom, while one man stand up, against him.",
+            "start": "1948",
+            "end": "1948",
+            "imdb": "tt0151467"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "popeye_patriotic_popeye",
+            "title": "Patriotic Popeye",
+            "desc": "Popeye is enjoying watering his patriotic garden on July 4th when he catches his nephews attempting to light fireworks. ",
+            "start": "1957",
+            "end": "1957",
+            "imdb": "tt0151919"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "tom-and-jerry-the-yankee-doodle-mouse-1943",
+            "title": "The Yankee Doodle Mouse",
+            "desc": "In honor of the U.S. military during WWII, Tom and Jerry do battle in the basement, using household items as war weapons and vehicles.",
+            "start": "1943",
+            "end": "1943",
+            "imdb": "tt0036547"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "0841_Story_of_Our_Flag_The_E01383_14_27_16_16",
+            "title": "The Story of Our Flag",
+            "desc": "The history of America's familiar Stars and Stripes flag is chronicled, alongside the historical events that shaped America from its colonial roots through its expansion into a union of 48 states.",
+            "start": "1939",
+            "end": "1939",
+            "imdb": "tt12298820"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "0686_Freedom_Highway",
+            "title": "Freedom Highway",
+            "desc": "Greyhound Bus sponsored and produced this motion picture about a young Boy Scout traveling from his home of Seattle, south to San Francisco, thence east to Washington, D.C., to attend a Boy Scout Jamboree.",
+            "start": "1956",
+            "end": "1956",
+            "imdb": "tt0050333"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "gov.dod.dimoc.38574",
+            "title": "National Anthem / High Flight",
+            "desc": "Motivational material dealing with patriotic visuals for the National Anthem and aerials to accompany the High Flight poem. Release by the Department of Defense.",
+            "start": "1976",
+            "end": "1976",
+            "imdb": "tt00000000"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "acaptiolfourth2003",
+            "title": "A Capitol Fourth (2003)",
+            "desc": "A salute to the United States of America. Artists and the National Symphony Orchestra play music all evening long in tributes to the greatest nation on Earth ending with the greatest live fireworks show in America.",
+            "start": "2003",
+            "end": "2003",
+            "imdb": "tt14761110"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "oldglory1939",
+            "title": "Old Glory (1939)",
+            "desc": "Porky Pig suddenly refuses at learning the Pledge of Allegiance until Uncle Sam appears to him in his dreams and gives him a lesson in American history.",
+            "start": "1939",
+            "end": "1939",
+            "imdb": "tt0031749"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "bunker-hill-bunny-1950-restored",
+            "title": "Bunker Hill Bunny (1950)",
+            "desc": "Sam Von Schamm The Hessian and Bugs Bunny fight it out in the little known American Revolutionary War Battle of Bagle Heights.",
+            "start": "1950",
+            "end": "1950",
+            "imdb": "tt0042290"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "yankee-doodle-bugs_202109",
+            "title": "Yankee Doodle Bugs",
+            "desc": "Bugs lectures his nephew Clyde about early America, inserting himself into events wherever possible.",
+            "start": "1954",
+            "end": "1954",
+            "imdb": "tt0047683"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "bugs-bunny-all-american-hero_Lando18",
+            "title": "Bugs Bunny: All American Hero",
+            "desc": "Bugs Bunny relates his own version of United States history to his nephew Clyde in an expanded version of Yankee Doodle Bugs.",
+            "start": "1981",
+            "end": "1981",
+            "imdb": "tt0155573"
+        },
+        {
+            "category": "4th of July",
+            "status": "active",
+            "identifier": "american-independence-cartoon-film-collection",
+            "title": "American Independence Cartoons",
+            "desc": "A collection of animated cartoon films from various studios celebrating American Independence and the events leading up to and including the American Revolutionary War. ",
+            "start": "2022",
+            "end": "2022",
+            "imdb": "tt00000000"
         }
     ]
 }

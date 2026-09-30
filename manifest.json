@@ -1,14 +1,14 @@
 {
   "format_version": 1,
-  "generated_at": "2026-09-17T17:19:14.698Z",
+  "generated_at": "2026-09-30T22:27:06.571Z",
   "reconciled_snapshot": {
-    "name": "freetv-content-snapshot-20260917T165628Z",
-    "captured_at": "2026-09-17T16:56:28.000Z"
+    "name": "freetv-content-snapshot-20260930T202954Z",
+    "captured_at": "2026-09-30T20:29:54.000Z"
   },
   "counts": {
     "playlists": 4,
-    "shows": 308,
+    "shows": 392,
     "sample_shows": 50,
-    "thumbnails": 275
+    "thumbnails": 325
   }
 }
