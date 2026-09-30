@@ -58,7 +58,7 @@ freetv-data/
 
 | Path                   | Purpose                                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| `config.json`          | Viewer-facing configuration exported from the Admin environment.                                       |
+| `config.json`          | Existing Admin-published Viewer settings, including `show_ads`; the v4 Viewer currently ignores this file. |
 | `playlists/`           | Viewer playlist index and individual playlist JSON artifacts.                                          |
 | `thumbs/`              | Canonical thumbnail collection referenced by Viewer playlist data.                                     |
 | `manifest.json`        | Publication provenance and canonical playlist, show, sample-show, and thumbnail counts.                |
@@ -93,7 +93,7 @@ thumbs/
 └── image files
 ```
 
-`config.json` contains published Viewer configuration and its publication timestamp.
+`config.json` contains the existing Admin-published Viewer settings and publication timestamp. The v4 Viewer currently ignores this file and reads presentation settings from `whitelabel.config.json` in the Viewer build. The published `config.json` remains part of the Admin and Data workflows.
 
 `playlists/index.json` identifies the default playlist and lists the available playlist files. Each individual playlist file contains its playlist metadata and show records.
 
