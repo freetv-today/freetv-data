@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2026-09-30T14:21:23.000Z",
+    "lastupdated": "2026-10-13T19:16:40.000Z",
     "dbtitle": "Holiday Shows",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -448,7 +448,7 @@
             "desc": "Motivational material dealing with patriotic visuals for the National Anthem and aerials to accompany the High Flight poem. Release by the Department of Defense.",
             "start": "1976",
             "end": "1976",
-            "imdb": "tt00000000"
+            "imdb": "tt000000"
         },
         {
             "category": "4th of July",
@@ -508,7 +508,137 @@
             "desc": "A collection of animated cartoon films from various studios celebrating American Independence and the events leading up to and including the American Revolutionary War. ",
             "start": "2022",
             "end": "2022",
-            "imdb": "tt00000000"
+            "imdb": "tt000000"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "halloween-cartoon-collection_20231022",
+            "title": "Halloween Cartoon Collection",
+            "desc": "A collection from 1929 to 1977 of the best/scariest/funniest animated shorts for Halloween that were ever released by all of the major animation studios.",
+            "start": "1929",
+            "end": "1977",
+            "imdb": "tt000000"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "its-grinch-night-1992",
+            "title": "It's Grinch Night",
+            "desc": "It's a eerie, dreary, fury night. Josiah, Mariah and Euchariah know that an evil wind is blowing. and this evil wind always brings a very unwelcome guest.",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0183288"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "disney-animated-shorts-s-1937e-14-lonesome-ghosts",
+            "title": "Lonesome Ghosts",
+            "desc": "Mickey, Donald and Goofy run the \"Ajax Ghost Exterminators\" agency. They receive a call from lonely and bored ghosts to come to their house where they are scared silly by the hilarious haunts and taunts of these spirited pranksters.",
+            "start": "1937",
+            "end": "1937",
+            "imdb": "tt0029161"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "santa-claus-is-coming-to-town-1970_202601",
+            "title": "Santa Claus Is Coming To Town",
+            "desc": "A mailman reveals the origin of Santa Claus.",
+            "start": "1970",
+            "end": "1970",
+            "imdb": "tt0066327"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "rudolph-sony-wonder",
+            "title": "Rudolph the Red-Nosed Reindeer",
+            "desc": "A young reindeer Rudolph lives at the North Pole. His father is one of Santa's reindeer and it is expected that Rudolph will eventually be one too. However, he has a feature which is a setback and causes him to be ostracized: his red nose.",
+            "start": "1964",
+            "end": "1964",
+            "imdb": "tt0058536"
+        },
+        {
+            "category": "easter",
+            "status": "active",
+            "identifier": "the-easter-bunny-is-comin-to-town-1977_202601",
+            "title": "Easter Bunny Is Comin To Town",
+            "desc": "The Mailman decides to stop another deluge of letters by answering questions about the Easter Bunny: Sunny, a baby rabbit found and adopted by Kidville.",
+            "start": "1977",
+            "end": "1977",
+            "imdb": "tt0075971"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "mad-monster-party_202608",
+            "title": "Mad Monster Party",
+            "desc": "On the Isle of Evil, Baron Boris von Frankenstein reveals his imminent retirement and that he has refined the secret of total destruction, only to be upset when the other monsters try to steal the secret and kill his nephew, Felix Flanken.",
+            "start": "1967",
+            "end": "1967",
+            "imdb": "tt0061931"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "the-life-and-adventures-of-santa-claus-1985_202601",
+            "title": "The Life & Adventures of Santa Claus",
+            "desc": "At a council convened by The Great Ak, the forest being tells the story of Santa Claus to explain why he deserves to be made immortal.",
+            "start": "1985",
+            "end": "1985",
+            "imdb": "tt0089488"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "jack-frost-1979-1080p-hd",
+            "title": "Jack Frost",
+            "desc": "The Groundhog tells the story of how, for once, Jack Frost became human, and helped a knight win his lady love.",
+            "start": "1979",
+            "end": "1979",
+            "imdb": "tt0079357"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "1975-the-first-christmas-the-story-of-the-first-christmas-snow_202601",
+            "title": "The First Christmas",
+            "desc": "A blind shepherd boy is taken in by kind nuns and learns about snow and Christmas. During the abbey's pageant, a miraculous snowfall brings joy, hope, and the true spirit of the season.",
+            "start": "1975",
+            "end": "1975",
+            "imdb": "tt0073751"
+        },
+        {
+            "category": "halloween",
+            "status": "active",
+            "identifier": "mad-mad-mad-monsters_202410",
+            "title": "The Mad, Mad, Mad Monsters",
+            "desc": "All of the classic horror film monsters gather at the Transylvania Astoria Hotel for the Frankenstein Monster and his Bride's wedding on Friday the 13th at midnight.",
+            "start": "1972",
+            "end": "1972",
+            "imdb": "tt0356848"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "frosty-returns-1992_202512",
+            "title": "Frosty Returns",
+            "desc": "The continuing exploits of the famous snowman as he goes up against a more powerful force which threatens all of Christmas.",
+            "start": "1993",
+            "end": "1993",
+            "imdb": "tt0106973"
+        },
+        {
+            "category": "christmas",
+            "status": "active",
+            "identifier": "frosty-the-snowman_202606",
+            "title": "Frosty The Snowman",
+            "desc": "A living snowman and a little girl struggle to elude a greedy magician who is after the snowman's magic hat.",
+            "start": "1969",
+            "end": "1969",
+            "imdb": "tt0064349"
         }
     ]
 }

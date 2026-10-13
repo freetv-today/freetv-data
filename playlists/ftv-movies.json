@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2026-08-27T00:55:26.000Z",
+    "lastupdated": "2026-10-13T19:16:40.000Z",
     "dbtitle": "Movies",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -315,6 +315,406 @@
             "start": "1991",
             "end": "1991",
             "imdb": "tt0102926"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "y-2-mate.is-felix-the-cat-the-movie-1988-x-bgwf-av-gqky-1080p-1640523499322",
+            "title": "Felix the Cat: The Movie",
+            "desc": "In another dimension, the villainous scientist Duke of Zill, with the help of his mechanical, geometric army, takes over the Land of Oriana, prompting Felix the Cat to save its princess and restore order once again.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt0259308"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "house.-of.-1-000.-dolls.-1967.1080p.-blu-ray.x-264-yts.-ag",
+            "title": "House Of 1,000 Dolls",
+            "desc": "A couple meets their friend in Tangiers who's looking for his kidnapped girlfriend. As they help investigate, dark forces surrounding a nightclub act are revealed to be part of a sinister human trafficking operation.",
+            "start": "1967",
+            "end": "1967",
+            "imdb": "tt0061451"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "the-secret-of-nimh-1982_202511",
+            "title": "The Secret of NIMH",
+            "desc": "To save her ill son, a field mouse must seek the aid of a colony of rats, with whom she has a deeper link than she suspected.",
+            "start": "1982",
+            "end": "1982",
+            "imdb": "tt0084649"
+        },
+        {
+            "category": "animation",
+            "status": "disabled",
+            "identifier": "gullivers_travels1939",
+            "title": "Gulliver's Travels",
+            "desc": "A doctor washes ashore on an island inhabited by little people.",
+            "start": "1939",
+            "end": "1939",
+            "imdb": "tt0031397"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "TheManFromUtah",
+            "title": "The Man from Utah",
+            "desc": "The Marshal sends John Weston (John Wayne) to a rodeo to see if he can find out who is killing the rodeo riders who are about to win the prize money. ",
+            "start": "1934",
+            "end": "1934",
+            "imdb": "tt0025455"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "fantasia-special-edition-laserdisc-restoration-with-sunflower-v-1.0",
+            "title": "Fantasia",
+            "desc": "A series of eight famous pieces of classical music, conducted by Leopold Stokowski and interpreted in animation by Walt Disney's team of artists.",
+            "start": "1940",
+            "end": "1940",
+            "imdb": "tt0032455"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "the-gate-to-the-minds-eye-1994-laserdisc",
+            "title": "Gate to the Mind's Eye",
+            "desc": "In the early '90s computer animation was beginning to take hold and one-hour films like this would feature this new technology. The fun is in the visuals which range from good to outstanding (for the time).",
+            "start": "1994",
+            "end": "1994",
+            "imdb": "tt0167176"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "the-minds-eye-1990-laserdisc",
+            "title": "The Mind's Eye",
+            "desc": "A compilation of early computer animation experiments.",
+            "start": "1990",
+            "end": "1990",
+            "imdb": "tt0167285"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "the-8-diagram-pole-fighter-subtitled-dubbed",
+            "title": "Eight Diagram Pole Fighter",
+            "desc": "Mongols with the help of an insider, ambush the influential Yang Family, defenders of the dynasty. The Mongols must hunt down all Yang survivors so their insidious plot to overthrow the dynasty will not be uncovered.",
+            "start": "1984",
+            "end": "1984",
+            "imdb": "tt0086606"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "dirty-kung-fu",
+            "title": "Dirty Kung Fu",
+            "desc": "Gao Jai is a young man with minimal Kung Fu skills who spends his time spotting wanted criminals, then finding bounty hunters who fight the villains and claim the reward, in the hope of earning a percentage.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0165309"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "new-dragon-gate-inn-1992-subtitled",
+            "title": "Dragon Inn",
+            "desc": "During the Ming Dynasty, Tsao Siu-yan, a power-crazed eunuch who rules his desert region of China as if he were the Emperor, ruthlessly thwarts plots against him and sets a trap for one of this enemies at the Dragon Gate Inn. Subtitled.",
+            "start": "1992",
+            "end": "1992",
+            "imdb": "tt0105859"
+        },
+        {
+            "category": "family",
+            "status": "active",
+            "identifier": "alices-adventures-in-wonderland_202105",
+            "title": "Alice's Adventures In Wonderland",
+            "desc": "Alice tumbles into Wonderland, a dream realm filled with peculiar characters like the White Rabbit, March Hare, Queen of Hearts, and Dormouse. As she seeks her way home, she meets strange beings and discovers herself.",
+            "start": "1972",
+            "end": "1972",
+            "imdb": "tt0068190"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "shaolin-temple-1982-Jet-Li",
+            "title": "Shaolin Temple",
+            "desc": "A young man, hounded by a psychopathic general, learns martial arts at the Shaolin temple to avenge his father's death. To achieve this he forgoes a budding romance with his kungfu master's daughter, a shepherdess.",
+            "start": "1982",
+            "end": "1982",
+            "imdb": "tt0079891"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "mulan-1999-vhs_202503",
+            "title": "Mulan",
+            "desc": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+            "start": "1998",
+            "end": "1998",
+            "imdb": "tt0120762"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "snow-white-and-the-seven-dwarfs-1937_202404",
+            "title": "Snow White & The Seven Dwarfs",
+            "desc": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household.",
+            "start": "1937",
+            "end": "1937",
+            "imdb": "tt0029583"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "abbott-and-costello-meet-frankenstein",
+            "title": "Abbott & Costello Meet Frankenstein",
+            "desc": "The Wolf Man tries to warn a dimwitted porter that Dracula wants his brain for Frankenstein monster's body.",
+            "start": "1948",
+            "end": "1948",
+            "imdb": "tt0040068"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "throw.momma.from.the.train.1987",
+            "title": "Throw Momma From The Train",
+            "desc": "A creative writing teacher suffers from writer's block after his ex-wife stole his novel and published it as her own. A student wants his domineering mother dead, and misunderstands a writing advice as an invitation for a murder swap.",
+            "start": "1987",
+            "end": "1987",
+            "imdb": "tt0094142"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "uhf.-1989",
+            "title": "UHF",
+            "desc": "An unemployed visionary becomes the manager of a local television station. The station becomes a success, with all sorts of hilarious sight gags and wacky humor.",
+            "start": "1989",
+            "end": "1989",
+            "imdb": "tt0098546"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "be-kind-rewind-2008-dvdrip",
+            "title": "Be Kind Rewind",
+            "desc": "Two bumbling store clerks inadvertently erase the footage from all of the tapes in their video rental store. In order to keep the business running, they re-shoot every film in the store with their own camera, with a budget of zero dollars.",
+            "start": "2008",
+            "end": "2008",
+            "imdb": "tt0799934"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "top-cat-2011-dvdrip.xvid-g",
+            "title": "Top Cat: The Movie",
+            "desc": "Top Cat and the gang face a new police chief, who is not at all happy with the poor Officer Dibble's performance trying to prevent Top Cat's scams.",
+            "start": "2011",
+            "end": "2011",
+            "imdb": "tt1821680"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "y-2-mate.is-santa-claus-conquers-the-martians-1964-adventure-comedy-sci-fi-chris",
+            "title": "Santa Claus Conquers The Martians",
+            "desc": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
+            "start": "1964",
+            "end": "1964",
+            "imdb": "tt0058548"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "TheLittleShopOfHorrorscolor1960",
+            "title": "The Little Shop of Horrors",
+            "desc": "A clumsy young man working at an impoverished flower shop discovers that the strange plant he has been nurturing has an insatiable appetite for blood, forcing him to kill to feed it.",
+            "start": "1960",
+            "end": "1960",
+            "imdb": "tt0054033"
+        },
+        {
+            "category": "romance",
+            "status": "active",
+            "identifier": "breakfast-at-tiffanys-1961_202508",
+            "title": "Breakfast at Tiffany's",
+            "desc": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+            "start": "1961",
+            "end": "1961",
+            "imdb": "tt0054698"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "carrie-1976_202409",
+            "title": "Carrie",
+            "desc": "A social misfit with psychic powers turns prom night into Hell on Earth.",
+            "start": "1976",
+            "end": "1976",
+            "imdb": "tt0074285"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "dawn-of-the-dead-1978_202512",
+            "title": "Dawn Of The Dead",
+            "desc": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0077402"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "the-guns-of-navarone-1961_202511",
+            "title": "The Guns of Navarone",
+            "desc": "A team of Allied saboteurs is assigned an impossible mission: infiltrate an impregnable Nazi-held Greek island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+            "start": "1961",
+            "end": "1961",
+            "imdb": "tt0054953"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "the-caine-mutiny-1954_202511",
+            "title": "The Caine Mutiny",
+            "desc": "When a U.S. Naval captain shows signs of mental instability that jeopardises the ship, the first officer is urged to consider relieving him of command.",
+            "start": "1954",
+            "end": "1954",
+            "imdb": "tt0046816"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "drunken-master-drunken-master2-1978-1994",
+            "title": "Drunken Master",
+            "desc": "Wong Fei-Hung is a mischievous, yet righteous young man, but after a series of incidents, his frustrated father has him disciplined by a master of drunken martial arts.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0080179"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "once-upon-a-tim-e-in-china-once-upon-a-time-in-china-ii",
+            "title": "Once Upon A Time In China",
+            "desc": "Legendary martial arts hero Wong Fei-Hung fights against foreign forces' plundering of China. When Aunt Yee arrives back from America, Wong Fei-Hung assumes the role of her protector.",
+            "start": "1991",
+            "end": "1991",
+            "imdb": "tt0103285"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "young-frankenstein-colorized-1974-720p",
+            "title": "Young Frankenstein",
+            "desc": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+            "start": "1974",
+            "end": "1974",
+            "imdb": "tt0072431"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "horrorpictureshow",
+            "title": "Rocky Horror Picture Show",
+            "desc": "A rain-soaked couple take refuge in the castle of a transvestite mad scientist from outer space who is about to unveil his greatest creation.",
+            "start": "1975",
+            "end": "1975",
+            "imdb": "tt0073629"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "high-spirits-1988-pg-13-family-comedy-fantasy",
+            "title": "High Spirits",
+            "desc": "When a hotelier attempts to fill the chronic vacancies at his castle by launching an advertising campaign that falsely portrays the property as haunted, two actual ghosts show up and end up falling for two guests.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt0095304"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "they-live-1988_20260215",
+            "title": "They Live",
+            "desc": "They influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt0096256"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "childs-play-1988-vhs-rip",
+            "title": "Child's Play",
+            "desc": "A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its true colors.",
+            "start": "1988",
+            "end": "1988",
+            "imdb": "tt0094862"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "mulholland-dr-disc-02",
+            "title": "Mulholland Drive",
+            "desc": "After a car wreck on Mulholland Drive renders a woman amnesiac, she and a Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+            "start": "2001",
+            "end": "2001",
+            "imdb": "tt0166924"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "hunchback-notre-dame-2003-dvd-iso",
+            "title": "The Hunchback of Notre Dame",
+            "desc": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+            "start": "1996",
+            "end": "1996",
+            "imdb": "tt0116583"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "finding-nemo_202603",
+            "title": "Finding Nemo",
+            "desc": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+            "start": "2003",
+            "end": "2003",
+            "imdb": "tt0266543"
+        },
+        {
+            "category": "family",
+            "status": "active",
+            "identifier": "muppets-take-manhattan",
+            "title": "The Muppets Take Manhattan",
+            "desc": "Kermit and his friends go to New York City to get their musical on Broadway only to find it's a more difficult task than they anticipated.",
+            "start": "1984",
+            "end": "1984",
+            "imdb": "tt0087755"
+        },
+        {
+            "category": "kung fu",
+            "status": "active",
+            "identifier": "BRUCEFLIX",
+            "title": "Bruce Lee Movies",
+            "desc": "A collection of 6 Bruce Lee movies including: Fists of Fury, The Chinese Connection, The Way of the Dragon, Enter the Dragon, Game of Death, and Game of Death II",
+            "start": "1971",
+            "end": "1981",
+            "imdb": "tt0077594"
+        },
+        {
+            "category": "family",
+            "status": "active",
+            "identifier": "piglet-s-big-movie",
+            "title": "Piglet's Big Movie",
+            "desc": "When Piglet comes up missing his Hundred Acre Wood friends use Piglet's own Book of Memories to find him, discovering along the way just how big a role he's played in their lives.",
+            "start": "2003",
+            "end": "2003",
+            "imdb": "tt0323642"
         }
     ]
 }

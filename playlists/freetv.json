@@ -1,5 +1,5 @@
 {
-    "lastupdated": "2026-09-30T13:50:39.000Z",
+    "lastupdated": "2026-10-13T19:16:40.000Z",
     "dbtitle": "Default TV Shows",
     "dbversion": "1.0",
     "author": "Free TV",
@@ -2231,6 +2231,524 @@
             "start": "1966",
             "end": "1966",
             "imdb": "tt0206474"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "dilbert-season-1-episode-05-testing",
+            "title": "Dilbert",
+            "desc": "Cubicle denizen Dilbert toils away at Path-E-Tech which makes undefined products. The focus is on his survival amongst a moronic boss, hostile co-workers and his malevolent pet, Dogbert.",
+            "start": "1999",
+            "end": "2000",
+            "imdb": "tt0118984"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "wagon-train-s-01-e-101-ep-101-the-willy-moran-story",
+            "title": "Wagon Train",
+            "desc": "Adventures of a large westbound wagon train through the American frontier from Missouri to California.",
+            "start": "1957",
+            "end": "1965",
+            "imdb": "tt0050073"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "the-new-fantastic-four-1978-complete-series",
+            "title": "The Fantastic Four",
+            "desc": "The super-elastic Mr. Fantastic, the force field-wielding Invisible Girl, the orange rock-covered Thing and the data-crammed robot H.E.R.B.I.E. make up a team of superheroes dedicated to thwarting would-be world-dominating villains.",
+            "start": "1978",
+            "end": "1978",
+            "imdb": "tt0241100"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "barney-miller",
+            "title": "Barney Miller",
+            "desc": "The Captain of the NYPD 12th Precinct and his staff handle the various local troubles and characters that come into the squad room.",
+            "start": "1975",
+            "end": "1982",
+            "imdb": "tt0072472"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "highlander-the-series-detelecined",
+            "title": "Highlander",
+            "desc": "Duncan MacLeod, a 400-year-old Immortal, looks for other good Immortals while trying to eliminate evil ones.",
+            "start": "1992",
+            "end": "1998",
+            "imdb": "tt0103442"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "dungeons-dragons-tv-series",
+            "title": "Dungeons & Dragons",
+            "desc": "A group of kids are thrown into a fantasy world where they must search for a way home, armed with magic weapons that an evil tyrant wants.",
+            "start": "1983",
+            "end": "1985",
+            "imdb": "tt0085011"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "soap-1977-1981-s-01e-01",
+            "title": "Soap",
+            "desc": "The soap-operish antics of two families: the Campbells and the Tates.",
+            "start": "1977",
+            "end": "1981",
+            "imdb": "tt0075584"
+        },
+        {
+            "category": "western",
+            "status": "active",
+            "identifier": "the-oregon-trail-tv-show",
+            "title": "The Oregon Trail",
+            "desc": "In 1842, a widower leaves his Illinois farm and heads west towards Oregon with his three children to seek a better life.",
+            "start": "1976",
+            "end": "1978",
+            "imdb": "tt0075552"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "Ned_and_Stacey",
+            "title": "Ned and Stacey",
+            "desc": "Ned and Stacey marry a week after they meet. He marries her to get a promotion. She marries him because she can't find a place to live and likes his apartment.",
+            "start": "1995",
+            "end": "1997",
+            "imdb": "tt0112093"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "the-legend-of-prince-valiant-complete-animated-series",
+            "title": "The Legend Of Prince Valiant",
+            "desc": "An American animated television series based on the Prince Valiant comic strip created by Hal Foster. Set in the time of King Arthur, it's a family-oriented adventure show about an exiled prince who goes on a quest to become a Knight of the Round Table.",
+            "start": "1991",
+            "end": "1993",
+            "imdb": "tt0101171"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "DuckmanComplete",
+            "title": "Duckman",
+            "desc": "A crass, womanizing duck works as a private eye with his level-headed pig sidekick, all the while raising a family as a single dad.",
+            "start": "1994",
+            "end": "1997",
+            "imdb": "tt0108755"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "beetlejuice-1989-complete-animated-series",
+            "title": "Beetlejuice",
+            "desc": "Adventures of the ghostly con-artist and his 12-year-old pal, Lydia. Loosely based on the 1988 American film of the same name, it was developed by its director, Tim Burton, who also served as an executive producer.",
+            "start": "1989",
+            "end": "1991",
+            "imdb": "tt0096543"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "woodytubi",
+            "title": "The Woody Woodpecker Show",
+            "desc": "An updated iteration Woody Woodpecker and friends with Chilly Willy and even Winnie Woodpecker, Knothead and Splinter appearing in their own segments.",
+            "start": "1999",
+            "end": "2002",
+            "imdb": "tt0281474"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "iron-man-1994-complete-series",
+            "title": "Iron Man",
+            "desc": "Industrialist Tony Stark leads his private team of superheros as Iron Man against the forces of evil.",
+            "start": "1994",
+            "end": "1996",
+            "imdb": "tt0115218"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "all-dogs-go-to-heaven-the-series-full",
+            "title": "All Dogs Go to Heaven",
+            "desc": "The canine characters from the hit Don Bluth animated films of the same name, have adventures as angels on earth as Annabelle guides them.",
+            "start": "1996",
+            "end": "1999",
+            "imdb": "tt0118252"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "angelina-ballerina-classic-complete-series",
+            "title": "Angelina Ballerina",
+            "desc": "Angelina Ballerina follows the dance-filled adventures of a remarkable little mouse who dreams of becoming a prima ballerina. As a ballerina, Angelina's life revolves around dancing and performance, family, friendship and following her dreams.",
+            "start": "2001",
+            "end": "2009",
+            "imdb": "tt0319935"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "heathcliff-and-the-catillac-cats-1984-complete-series",
+            "title": "Heathcliff & the Catillac Cats",
+            "desc": "The misadventures of the feline troublemaker while the Catillac Cats gang have adventures of their own.",
+            "start": "1984",
+            "end": "1987",
+            "imdb": "tt0285371"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "godzilla-tnt-cn",
+            "title": "Godzilla",
+            "desc": "The crew of a research vessel, the Calico, investigate strange phenomena and menaces that force them to summon the mighty Godzilla, whose clumsy relative Godzooky is also in their care.",
+            "start": "1978",
+            "end": "1979",
+            "imdb": "tt0177814"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "wolverine-and-the-x-men-2009-tv-series",
+            "title": "Wolverine and the X-Men",
+            "desc": "After an explosion at the school, the X-Men went their separate ways. But they must unite once again under the leadership of Wolverine to prevent an inevitable war while also dealing with present problems.",
+            "start": "2008",
+            "end": "2009",
+            "imdb": "tt0772145"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "peabody-complete-720-540",
+            "title": "Peabody's Improbable History",
+            "desc": "The time-traveling adventures of the world's smartest dog and his boy repairing errors in history.",
+            "start": "1959",
+            "end": "1963",
+            "imdb": "tt4397876"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "earthworm-jim-complete-series-1995-1996",
+            "title": "Earthworm Jim",
+            "desc": "An average Earthworm stumbles upon a supersuit that makes him a superheroic worm!",
+            "start": "1995",
+            "end": "1996",
+            "imdb": "tt0111948"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "max-fleischers-color-classics",
+            "title": "Max Fleischer's Color Classics",
+            "desc": "Welcome to the world of Max Fleischer's Color Classics, a complete collection of classic animated shorts from 1934-1941.",
+            "start": "1934",
+            "end": "1941",
+            "imdb": "tt000000"
+        },
+        {
+            "category": "cartoons",
+            "status": "active",
+            "identifier": "the-pink-panther-show-the-complete-series-1969-70",
+            "title": "The Pink Panther Show",
+            "desc": "A classy, resourceful panther has plenty of hilarious misadventures, outwitting those who annoy him with his clever tricks.",
+            "start": "1969",
+            "end": "1970",
+            "imdb": "tt0063939"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "blackstar-complete-series-1981",
+            "title": "Blackstar",
+            "desc": "John Blackstar is an astronaut from Earth, stranded on the planet Sagar after his spacecraft was swept into a black hole, taking him to an ancient alien universe. ",
+            "start": "1981",
+            "end": "1982",
+            "imdb": "tt0170881"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "Thundarr_the_Barbarian",
+            "title": "Thundarr the Barbarian",
+            "desc": "Thundarr the Barbarian and his companions Ookla the Mok and Princess Ariel wander a devastated future Earth and fight evil wherever they find it.",
+            "start": "1980",
+            "end": "1981",
+            "imdb": "tt0181262"
+        },
+        {
+            "category": "retro",
+            "status": "active",
+            "identifier": "s-01-e-05.-the-booze-hangs-high-bosko-4-hd",
+            "title": "Looney Tunes from the 1930s",
+            "desc": "A collection of black and white Looney Tunes cartoons from the 1930s featuring Bosko, Buddy, Cookie, Peter Rabbit, Beans, Porky Pig, and many more.",
+            "start": "1930",
+            "end": "1936",
+            "imdb": "tt000000"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-01-webdl-1080p",
+            "title": "W.L.I.A. - Season 1",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-02-webdl-1080p",
+            "title": "W.L.I.A. - Season 2",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-03-webdl-1080p",
+            "title": "W.L.I.A. - Season 3",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-04-webdl-1080p",
+            "title": "W.L.I.A. - Season 4",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-05-webdl-1080p",
+            "title": "W.L.I.A. - Season 5",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-06-webdl-1080p",
+            "title": "W.L.I.A. - Season 6",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-07-webdl-1080p",
+            "title": "W.L.I.A. - Season 7",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "whose-line-is-it-anyway-us-s-08-webdl-1080p",
+            "title": "W.L.I.A. - Season 8",
+            "desc": "Whose Line Is It Anyway? is an improvisational comedy competition show in which 4 members of the regular cast as comedians and often with guest appearances and celebrities (and members of the audience) perform various comic games and sketches.",
+            "start": "1998",
+            "end": "2007",
+            "imdb": "tt0163507",
+            "group": "Whose Line Is It Anyway?"
+        },
+        {
+            "category": "comedy",
+            "status": "disabled",
+            "identifier": "oh-no-its-selwyn-froggitt-complete-series-1974",
+            "title": "Oh No Its Selwyn Froggitt",
+            "desc": "Selwyn Froggitt, a well-read clumsy buffoon, smashes his way through his sleepy Yorkshire village of Scarsdale.",
+            "start": "1974",
+            "end": "1978",
+            "imdb": "tt0077056"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "totally-spies-the-complete-series",
+            "title": "Totally Spies!",
+            "desc": "A trio of boy-crazy, fashionista teen girls from Beverly Hills balance their personal and school lives with their work as super-spies.",
+            "start": "2001",
+            "end": "2026",
+            "imdb": "tt0283226"
+        },
+        {
+            "category": "horror",
+            "status": "active",
+            "identifier": "eerie-indiana-the-complete-series",
+            "title": "Eerie, Indiana",
+            "desc": "Teenage weirdness investigator Marshall Teller adventures through his new small-town home with his friends, geeky Simon Holmes and mysterious Dash X.\n",
+            "start": "1991",
+            "end": "1992",
+            "imdb": "tt0101088"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "jack-of-all-trades-tv-series-season-1-and-2",
+            "title": "Jack of All Trades",
+            "desc": "Jack Stiles, American spy stationed on a South Pacific island in the early 19th century, teams up with no nonsense British agent Emilia Rothschild to stop Napoleon's colonizing efforts. Jack's alter ego is the Zorro-esque Daring Dragoon.",
+            "start": "2000",
+            "end": "2001",
+            "imdb": "tt0220906"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "beakmans-world",
+            "title": "Beakman's World",
+            "desc": "A wacky scientist and his companions answer viewer questions about science.",
+            "start": "1992",
+            "end": "1997",
+            "imdb": "tt0106367"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "da-vincis-demons-complete",
+            "title": "Da Vinci's Demons",
+            "desc": "Follows Leonardo Da Vinci during his early days in Florence, as a young artist, inventor and dreamer, trying to change the future.",
+            "start": "2013",
+            "end": "2015",
+            "imdb": "tt2094262"
+        },
+        {
+            "category": "anime",
+            "status": "active",
+            "identifier": "powerpuff-girls-z-complete-series-dub",
+            "title": "Powerpuff Girls Z",
+            "desc": "Original title: Demashita! Powerpuff Girls Z. Three ordinary girls gain superpowers and protect their home city from a variety of villains. Dubbed.",
+            "start": "2006",
+            "end": "2007",
+            "imdb": "tt0989771"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "code-lyoko-episode-01-teddygozilla",
+            "title": "Code Lyoko",
+            "desc": "Students Yumi, Jeremy, Odd and Ulrich stumble across a large Supercomputer in an old factory by their school. They soon discover that the computer houses an alternate world, Lyoko, and that by using computer controls they can transport themselves there.",
+            "start": "2003",
+            "end": "2007",
+            "imdb": "tt0417311"
+        },
+        {
+            "category": "action",
+            "status": "active",
+            "identifier": "witchblade_202203",
+            "title": "Witchblade",
+            "desc": "NYPD Detective Sara Pezzini has a supernatural weapon and abilities to help her fight evil.",
+            "start": "2001",
+            "end": "2002",
+            "imdb": "tt0274298"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "s-1-08-05-23-01-thats-my-bush-fare-thee-welfare",
+            "title": "That's My Bush!",
+            "desc": "Somewhat dim President George W. Bush's White House more closely resembles the set of a sitcom than real life, down to the laugh track. Created by by Trey Parker and Matt Stone (who also created Southpark).",
+            "start": "2001",
+            "end": "2001",
+            "imdb": "tt0268077"
+        },
+        {
+            "category": "sitcom",
+            "status": "active",
+            "identifier": "less-than-perfect-2002-06-sitcom",
+            "title": "Less Than Perfect",
+            "desc": "Huge egos. Backbiting assistants. Screaming deadlines. Claudia \"Claude\" Casey has moved up in the secretarial world of television news, from permanent floater to the anchor's desk. ",
+            "start": "2002",
+            "end": "2009",
+            "imdb": "tt0320052"
+        },
+        {
+            "category": "comedy",
+            "status": "active",
+            "identifier": "insomniac-with-dave-attell_202506",
+            "title": "Insomniac with Dave Attell",
+            "desc": "Join \"tour-guide\" Dave Attell as he takes a look at nightlife in different cities around the country until sunrise.",
+            "start": "2001",
+            "end": "2004",
+            "imdb": "tt0292805"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "18.-garage-band",
+            "title": "Whatever Happened to Robot Jones?",
+            "desc": "In a town set in the retro 1980's, a young robot must collect data on humans and do whatever he can to fit in with them.",
+            "start": "2002",
+            "end": "2004",
+            "imdb": "tt0312255"
+        },
+        {
+            "category": "sci-fi",
+            "status": "active",
+            "identifier": "salvage-1-complete-series",
+            "title": "Salvage 1",
+            "desc": "Harry (Andy Griffith) runs a salvage operation, in which he and his partners reclaim trash and junk and sell it as scrap (or as other things). Harry also has a home-made spaceship which he sometimes uses to reclaim junk satellites.",
+            "start": "1979",
+            "end": "1979",
+            "imdb": "tt0078681"
+        },
+        {
+            "category": "kids",
+            "status": "active",
+            "identifier": "321-lets-go-the-complete-series",
+            "title": "Sesame Street: 3,2,1 Let's Go",
+            "desc": "With the help from her magic mirror Looky Lou, Abby hosts a selection of episodes from \"Play with Me Sesame\", \"Bert and Ernie's Great Adventures\" and \"Global Grover\". A Sesame Street compilation.",
+            "start": "2010",
+            "end": "2010",
+            "imdb": "tt13231218"
+        },
+        {
+            "category": "drama",
+            "status": "active",
+            "identifier": "tlhcomplete",
+            "title": "The Littlest Hobo",
+            "desc": "The wandering adventures of an intelligent German shepherd dog.",
+            "start": "1979",
+            "end": "1985",
+            "imdb": "tt0078644"
+        },
+        {
+            "category": "animation",
+            "status": "active",
+            "identifier": "baby-blues-s-2-e-02-the-bad-family-moonsong",
+            "title": "Baby Blues",
+            "desc": "A married couple living in a quiet neighborhood with not-so-quiet neighbors discover joys and pains.",
+            "start": "2000",
+            "end": "2002",
+            "imdb": "tt0252753"
         }
     ]
 }
